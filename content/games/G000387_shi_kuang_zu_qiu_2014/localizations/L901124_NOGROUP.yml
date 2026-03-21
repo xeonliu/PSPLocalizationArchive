@@ -1,6 +1,8 @@
 id: L901124
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_C19PLUS
+  - GRP_PAOLUKUANGMO
 staff: []
 target_release: []
 lang: zh-Hans

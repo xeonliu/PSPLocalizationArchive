@@ -3,3 +3,12 @@ game_id: G000387
 catalog_id: "ULJM-06331"
 title: "World Soccer Winning Eleven 2014"
 region: "Japan"
+csv_id: "92884"
+media: "UMD"
+version: "1.00"
+release_date: null
+size: 1284243456
+hashes:
+  crc32: "06bf9fe2"
+  md5: "5f3b204daf48c313f965fad4bc2e79f9"
+  sha1: "f7e9c018db3ce6e14cb8e62dbfa4c6f186334228"

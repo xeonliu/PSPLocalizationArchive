@@ -1,8 +1,15 @@
 id: L900926
+title: 实况足球 2014 V0.5 (欧版汉化)
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_TOMAS1985
+  - GRP_ZMPCAO
 staff: []
-target_release: []
+target_release:
+  - ULES-01595
+  - ULES-01596
+  - ULES-01597
+  - ULES-01598
 lang: zh-Hans
 version: null
 release_date: null

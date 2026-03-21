@@ -1,0 +1,14 @@
+id: ULES-01598
+game_id: G000387
+catalog_id: "ULES-01598"
+title: "PES 2014: Pro Evolution Soccer"
+region: "Europe"
+csv_id: "57001"
+media: "UMD"
+version: "1.01"
+release_date: null
+size: 1209335808
+hashes:
+  crc32: "95ab79a9"
+  md5: "717fca3cc3e533e1c14deb050507a7b8"
+  sha1: "f7675a41ccae7c791718a3af8521e4c63dce6611"

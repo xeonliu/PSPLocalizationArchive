@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
-import { Card, Tag, Typography, Spin, Descriptions, Breadcrumb, Space, Alert, Table, Tree } from 'antd'
+import { Card, Tag, Typography, Spin, Descriptions, Breadcrumb, Space, Alert, Table, Tree, Tooltip } from 'antd'
 import type { DataNode } from 'antd/es/tree'
 import { HomeOutlined, ArrowLeftOutlined, FolderOutlined, FileOutlined } from '@ant-design/icons'
 import { Game, loadGameById, loadGroups } from '../data'
@@ -126,8 +126,11 @@ const GameDetail = () => {
     );
   };
 
+  const releaseMap = new Map((game.releases || []).map((r) => [r.id, r]));
+
   const localizationColumns = [
     { title: 'ID', dataIndex: 'id', key: 'id', width: 120 },
+    { title: '标题', dataIndex: 'title', key: 'title', width: 220 },
     { title: '语言', dataIndex: 'lang', key: 'lang', width: 80 },
     {
       title: '汉化组',
@@ -142,6 +145,27 @@ const GameDetail = () => {
           ))}
         </Space>
       ),
+    },
+    {
+      title: '适用原版',
+      key: 'target_release',
+      width: 220,
+      render: (_: unknown, record: Localization) => {
+        if (!record.target_release || record.target_release.length === 0) return '-';
+        return (
+          <Space wrap>
+            {record.target_release.map((rid) => {
+              const rel = releaseMap.get(rid);
+              const tip = rel ? `${rel.title} (${rel.region})` : '未在当前游戏发行版中找到';
+              return (
+                <Tooltip key={rid} title={tip}>
+                  <Tag color={rel ? 'geekblue' : 'default'}>{rid}</Tag>
+                </Tooltip>
+              );
+            })}
+          </Space>
+        );
+      },
     },
     { title: '版本', dataIndex: 'version', key: 'version', width: 100 },
     { title: '发布日期', dataIndex: 'release_date', key: 'release_date', width: 120 },
@@ -183,6 +207,24 @@ const GameDetail = () => {
     { title: '版本', dataIndex: 'version', key: 'version', width: 80 },
     { title: '介质', dataIndex: 'media', key: 'media', width: 80 },
     { title: '大小', dataIndex: 'size', key: 'size', width: 120 },
+    {
+      title: '关联汉化',
+      key: 'linked_localizations',
+      width: 240,
+      render: (_: unknown, release: NonNullable<Game['releases']>[number]) => {
+        const linked = (game.localizations || []).filter((loc) => loc.target_release?.includes(release.id));
+        if (linked.length === 0) return '-';
+        return (
+          <Space wrap>
+            {linked.map((loc) => (
+              <Tooltip key={loc.id} title={loc.title || loc.id}>
+                <Tag color="purple">{loc.id}</Tag>
+              </Tooltip>
+            ))}
+          </Space>
+        );
+      },
+    },
   ]
 
   return (

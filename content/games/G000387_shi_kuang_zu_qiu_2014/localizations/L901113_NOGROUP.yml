@@ -1,6 +1,7 @@
 id: L901113
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_SINSEGA
 staff: []
 target_release: []
 lang: zh-Hans

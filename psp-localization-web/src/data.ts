@@ -31,6 +31,7 @@ export interface FileNode {
 
 export interface Localization {
   id: string;
+  title?: string | null;
   parent_localization_id: string | null;
   groups: string[] | null;
   staff: { id: string; role: string }[];
@@ -47,6 +48,23 @@ export interface Localization {
   links: { label: string; url: string }[];
   notes?: string[];
   files?: FileNode[];
+}
+
+function deriveLocalizationTitle(loc: Localization): string {
+  const explicitTitle = typeof loc.title === 'string' ? loc.title.trim() : '';
+  if (explicitTitle) return explicitTitle;
+
+  const sourceLine = loc.notes?.find((n) => n.includes('原始条目:'));
+  if (sourceLine) {
+    const match = sourceLine.match(/原始条目:\s*[^–-]+[–-]\s*(.+)$/);
+    const raw = match ? match[1] : sourceLine;
+    // 仅去除方括号内的标签（如 [简][汉化组]），保留圆括号中的版本区分信息（如 UMD Disc 2）
+    const normalized = raw.replace(/\[[^\]]*\]/g, '').trim();
+    if (normalized) return normalized;
+  }
+
+  if (loc.version) return `版本 ${loc.version}`;
+  return loc.id;
 }
 
 export interface Release {
@@ -121,6 +139,7 @@ function loadLocalizationsForGame(gameDir: string): Localization[] {
       try {
         const loc = yaml.load(content as string) as Localization;
         if (loc && loc.id) {
+          loc.title = deriveLocalizationTitle(loc);
           // 尝试寻找对应的 files.yml
           const filesPath = path.replace('.yml', '_files.yml');
           if (localizationFiles[filesPath]) {

@@ -74,7 +74,8 @@ hashes:
 ```yaml
 id: L9001
 parent_localization_id: null   # 【继承逻辑】若基于前人汉化，填入上级 ID
-group_id: "GRP001"             # 关联汉化组 ID
+title: "天诛3 携带版 汉化修正版" # 汉化版本标题（用于前端展示/区分同游戏多汉化）
+groups: ["GRP001"]             # 关联汉化组 ID（支持联合汉化）
 staff:                         # 关联个人 ID 及其职责
   - id: "S1001"
     role: "Reverse Engineer"
@@ -96,6 +97,11 @@ links:
   - label: "发布页面"
     url: "https://..."
 ```
+
+字段说明补充：
+- `title`：面向展示层的“版本标题/版本名”，用于区分同一游戏下多个汉化版本（例如“欧版补丁修正版”“Disc 2 字幕版”）。
+- `title` 应保留能区分版本的关键信息（如 `UMD Disc 2`、`欧版/日版`、`修正版`、`字幕版`）。
+- 兼容旧数据时可缺省；建议通过迁移脚本逐步补全。前端应优先使用 `title`，缺失时可从 `notes` 的“原始条目”中推导。
 
 ### 3.4 汉化技术档案 (Technical Archive - `localizations/Lxxxx_files.yml`)
 记录镜像内部结构。不再记录每个文件的哈希，重点在于 **LBA 布局** 与 **变动标记**。
