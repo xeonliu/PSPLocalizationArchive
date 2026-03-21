@@ -1,0 +1,19 @@
+id: L900722
+parent_localization_id: null
+group_id: GRP_GEREN
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH153
+notes:
+- '原始条目: PSPCH153 – 虹吸战士 洛根之影[剧情汉化版][个人汉化]'
+- 剧情汉化版

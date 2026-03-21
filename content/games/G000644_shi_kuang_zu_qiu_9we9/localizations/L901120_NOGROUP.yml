@@ -1,0 +1,20 @@
+id: L901120
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH551
+notes:
+- '原始条目: PSPCH551 – 实况足球9 WE9[汉化最终修正版][简][崔大爷85]'
+- 汉化最终修正版
+- 崔大爷85

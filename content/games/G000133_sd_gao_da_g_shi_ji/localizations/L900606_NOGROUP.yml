@@ -1,0 +1,20 @@
+id: L900606
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.2
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH037
+notes:
+- '原始条目: PSPCH037 – SD高达G世纪 超越世界 [v1.2人物介绍汉化][简][WGFWGF]'
+- v1.2人物介绍汉化
+- WGFWGF

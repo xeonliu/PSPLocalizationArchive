@@ -1,0 +1,19 @@
+id: L900791
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH222
+notes:
+- '原始条目: PSPCH222 – 廉价2500系列Vol.5 打砖块 龙之王国 [简][SCE]'
+- SCE

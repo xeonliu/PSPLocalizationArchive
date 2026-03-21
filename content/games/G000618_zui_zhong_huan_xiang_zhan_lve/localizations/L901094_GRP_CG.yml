@@ -1,0 +1,19 @@
+id: L901094
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH525
+notes:
+- '原始条目: PSPCH525 – 最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)'
+- 修复释放技能拖慢BUG

@@ -1,0 +1,19 @@
+id: L900599
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH030
+notes:
+- '原始条目: PSPCH030 – PSP Minis 水下大作战 [风魔&穿云之光&三角&哥斯蕙&不容易]'
+- 风魔&穿云之光&三角&哥斯蕙&不容易

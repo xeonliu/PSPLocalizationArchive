@@ -1,0 +1,19 @@
+id: L900643
+parent_localization_id: null
+group_id: GRP_PSPBA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH074
+notes:
+- '原始条目: PSPCH074 – 初音未来 歌姬计划2nd[简][DLC内封][PSP吧汉化组+腓特烈]'
+- DLC内封

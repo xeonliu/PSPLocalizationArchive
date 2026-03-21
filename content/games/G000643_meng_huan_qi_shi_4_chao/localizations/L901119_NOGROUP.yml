@@ -1,0 +1,20 @@
+id: L901119
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH550
+notes:
+- '原始条目: PSPCH550 – 梦幻骑士4 超量重装[汉化公测版][简][WGF]'
+- 汉化公测版
+- WGF

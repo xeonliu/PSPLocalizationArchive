@@ -1,0 +1,19 @@
+id: L900771
+parent_localization_id: null
+group_id: GRP_SUPASHA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH202
+notes:
+- '原始条目: PSPCH202 – 科学超电磁炮[简][DLC内封][苏帕尔莎汉化组+腓特烈]'
+- DLC内封

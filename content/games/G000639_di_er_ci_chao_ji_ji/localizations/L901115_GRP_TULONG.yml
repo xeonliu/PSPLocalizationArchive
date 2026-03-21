@@ -1,0 +1,19 @@
+id: L901115
+parent_localization_id: null
+group_id: GRP_TULONG
+staff: []
+target_release: []
+lang: zh-Hans
+version: v2.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH546
+notes:
+- '原始条目: PSPCH546 – 第二次超级机器人大战Z 再世篇[v2.0][简][屠龙骑士团汉化组]'
+- v2.0

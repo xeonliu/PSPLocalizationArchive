@@ -1,0 +1,19 @@
+id: L900983
+parent_localization_id: null
+group_id: GRP_YUEXIA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH414
+notes:
+- '原始条目: PSPCH414 – 武装神姬 战斗大师Mk.2(v2) [简][月下汉化组]'
+- v2

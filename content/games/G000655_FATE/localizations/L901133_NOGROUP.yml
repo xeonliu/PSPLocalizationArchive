@@ -1,0 +1,21 @@
+id: L901133
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.5
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH564
+notes:
+- '原始条目: PSPCH564 – FATE 无限代码[纹理汉化版v1.5][简][卡司红茶](仅限模拟器使用)'
+- 纹理汉化版v1.5
+- 卡司红茶
+- 仅限模拟器使用

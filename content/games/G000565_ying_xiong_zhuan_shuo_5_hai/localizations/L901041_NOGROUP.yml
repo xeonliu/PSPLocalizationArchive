@@ -1,0 +1,18 @@
+id: L901041
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH472
+notes:
+- '原始条目: PSPCH472 – 英雄传说5 海之槛歌汉化版'

@@ -1,0 +1,19 @@
+id: L900731
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH162
+notes:
+- '原始条目: PSPCH162 – 幻想传说[全程语音整合汉化版Extra][CG汉化组]'
+- 全程语音整合汉化版Extra

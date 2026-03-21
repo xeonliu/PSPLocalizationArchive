@@ -1,0 +1,19 @@
+id: L900705
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH136
+notes:
+- '原始条目: PSPCH136 – 怪物猎人P3 HD 汉化版[PSP模拟器专用 不建议实机运行]'
+- PSP模拟器专用 不建议实机运行

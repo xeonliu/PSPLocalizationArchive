@@ -1,0 +1,18 @@
+id: L900675
+parent_localization_id: null
+group_id: GRP_ACG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH106
+notes:
+- '原始条目: PSPCH106 – 东京鬼祓师 鸦乃杜学园奇谭 [简][ACG汉化组]'

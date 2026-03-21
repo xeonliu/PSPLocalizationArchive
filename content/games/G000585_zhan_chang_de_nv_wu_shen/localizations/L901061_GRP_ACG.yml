@@ -1,0 +1,18 @@
+id: L901061
+parent_localization_id: null
+group_id: GRP_ACG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH492
+notes:
+- '原始条目: PSPCH492 – 战场的女武神2 高卢王立士官学校 [简][ACG汉化组]'

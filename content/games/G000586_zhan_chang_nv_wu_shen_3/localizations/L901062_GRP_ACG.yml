@@ -1,0 +1,20 @@
+id: L901062
+parent_localization_id: null
+group_id: GRP_ACG
+staff: []
+target_release: []
+lang: zh-Hans
+version: V3
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH493
+notes:
+- '原始条目: PSPCH493 – 战场女武神3[V3完美汉化][中文DLC][ACG汉化组]'
+- V3完美汉化
+- 中文DLC

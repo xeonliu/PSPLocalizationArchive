@@ -1,0 +1,20 @@
+id: L901148
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: v2
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH580
+notes:
+- '原始条目: PSPCH580 – 噬神者2[汉化测试版v2][繁][清羽]'
+- 汉化测试版v2
+- 清羽

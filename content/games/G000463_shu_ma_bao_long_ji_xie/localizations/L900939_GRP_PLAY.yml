@@ -1,0 +1,19 @@
+id: L900939
+parent_localization_id: null
+group_id: GRP_PLAY
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH370
+notes:
+- '原始条目: PSPCH370 – 数码暴龙机携带版(数码宝贝初回特典小游戏)[简体中文版][Play汉化组]'
+- 数码宝贝初回特典小游戏

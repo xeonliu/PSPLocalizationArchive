@@ -1,0 +1,21 @@
+id: L901140
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH572
+notes:
+- '原始条目: PSPCH572 – DJMAX携带版3[纹理汉化版][简][狸克](仅限模拟器使用)'
+- 纹理汉化版
+- 狸克
+- 仅限模拟器使用

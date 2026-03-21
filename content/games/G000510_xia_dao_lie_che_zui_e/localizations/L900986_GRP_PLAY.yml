@@ -1,0 +1,18 @@
+id: L900986
+parent_localization_id: null
+group_id: GRP_PLAY
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH417
+notes:
+- '原始条目: PSPCH417 – 侠盗猎车 罪恶都市传奇 V2.0 [简][PLAY汉化组]'

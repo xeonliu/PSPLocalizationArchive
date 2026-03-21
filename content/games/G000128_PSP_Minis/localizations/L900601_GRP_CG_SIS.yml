@@ -1,0 +1,18 @@
+id: L900601
+parent_localization_id: null
+group_id: GRP_CG_SIS
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH032
+notes:
+- '原始条目: PSPCH032 – PSP Minis 甜点工厂 [CG汉化组sis速汉队]'

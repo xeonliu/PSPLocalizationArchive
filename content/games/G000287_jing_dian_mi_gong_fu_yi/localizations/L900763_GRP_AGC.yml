@@ -1,0 +1,18 @@
+id: L900763
+parent_localization_id: null
+group_id: GRP_AGC
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH194
+notes:
+- '原始条目: PSPCH194 – 经典迷宫 扶翼的魔装阵 [简][AGC汉化组]'

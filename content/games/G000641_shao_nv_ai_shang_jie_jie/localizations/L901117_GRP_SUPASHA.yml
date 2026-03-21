@@ -1,0 +1,18 @@
+id: L901117
+parent_localization_id: null
+group_id: GRP_SUPASHA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH548
+notes:
+- '原始条目: PSPCH548 – 少女爱上姐姐2携带版[简][苏帕尔莎汉化组]'

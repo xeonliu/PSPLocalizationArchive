@@ -1,0 +1,20 @@
+id: L901150
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH582
+notes:
+- '原始条目: PSPCH582 – 幸运星 陵樱学园 樱藤祭 携带版[一周目汉化][简][江户川柯南丶]'
+- 一周目汉化
+- 江户川柯南丶

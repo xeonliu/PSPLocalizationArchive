@@ -1,0 +1,20 @@
+id: L900903
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: v1.06
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH334
+notes:
+- '原始条目: PSPCH334 – 圣女贞德[v1.06final][繁][PSPChina&雷神汉化]'
+- v1.06final
+- PSPChina&雷神汉化

@@ -1,0 +1,18 @@
+id: L900637
+parent_localization_id: null
+group_id: GRP_ACG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH068
+notes:
+- '原始条目: PSPCH068 – 出发 阿源君 夕阳下的大工物语 [简][ACG汉化组]'

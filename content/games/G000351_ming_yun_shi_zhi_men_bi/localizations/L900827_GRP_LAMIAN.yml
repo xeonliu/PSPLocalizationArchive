@@ -1,0 +1,18 @@
+id: L900827
+parent_localization_id: null
+group_id: GRP_LAMIAN
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH258
+notes:
+- '原始条目: PSPCH258 – 命运石之门 比翼恋理的爱人 [简][拉面研究所]'

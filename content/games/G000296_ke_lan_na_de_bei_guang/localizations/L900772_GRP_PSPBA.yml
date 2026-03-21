@@ -1,0 +1,18 @@
+id: L900772
+parent_localization_id: null
+group_id: GRP_PSPBA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH203
+notes:
+- '原始条目: PSPCH203 – 克兰娜德 被光守护的坡道 全卷 [PSP吧汉化组&CLANNAD吧]'

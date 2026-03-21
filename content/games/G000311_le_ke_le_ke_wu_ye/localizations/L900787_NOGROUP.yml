@@ -1,0 +1,18 @@
+id: L900787
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH218
+notes:
+- '原始条目: PSPCH218 – 乐克乐克 午夜狂欢节[繁体中文版]'

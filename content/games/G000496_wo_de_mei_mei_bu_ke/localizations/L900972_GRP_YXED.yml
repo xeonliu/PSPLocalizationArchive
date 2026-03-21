@@ -1,0 +1,18 @@
+id: L900972
+parent_localization_id: null
+group_id: GRP_YXED
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH403
+notes:
+- '原始条目: PSPCH403 – 我的妹妹不可能那么可爱 携带版 V1.1 [简][游戏嗯蛋&PSP吧汉化组&俺妹吧]'

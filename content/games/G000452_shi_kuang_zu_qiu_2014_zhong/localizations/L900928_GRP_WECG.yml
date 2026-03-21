@@ -1,0 +1,19 @@
+id: L900928
+parent_localization_id: null
+group_id: GRP_WECG
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH359
+notes:
+- '原始条目: PSPCH359 – 实况足球 2014 中超版[v1.0][简][WECG汉化组汉化版]'
+- v1.0

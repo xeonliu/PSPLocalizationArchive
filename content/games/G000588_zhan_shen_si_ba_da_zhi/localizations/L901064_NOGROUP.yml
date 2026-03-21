@@ -1,0 +1,20 @@
+id: L901064
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH495
+notes:
+- '原始条目: PSPCH495 – 战神 斯巴达之魂[繁][官方中文版+DLC内封][SONY+腓特烈]'
+- 官方中文版+DLC内封
+- SONY+腓特烈

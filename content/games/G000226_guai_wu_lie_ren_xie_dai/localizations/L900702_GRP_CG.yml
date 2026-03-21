@@ -1,0 +1,19 @@
+id: L900702
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH133
+notes:
+- '原始条目: PSPCH133 – 怪物猎人 携带版2nd G[完全汉化润化版][简][CG汉化组+巴士汉化组+ssyy11521]'
+- 完全汉化润化版
