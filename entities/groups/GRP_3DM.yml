@@ -1,7 +1,7 @@
 id: GRP_3DM
-name: 3DM汉化组
-status: inactive
-founded: null
-description: null
-website: null
+name: "3DM汉化组"
+status: active
+founded: "2001"
+description: "隶属于国内知名单机游戏门户 3DMGAME 的汉化团队。虽然其核心阵地与主要贡献集中在 PC 单机游戏领域，但在掌机时代也曾设立过专门的分支或与其他小组合作，参与了不少 PSP 等平台游戏的汉化与破解工作，是国内历史最悠久、规模最大的民间汉化组织之一。"
+website: "https://www.3dmgame.com/"
 archives: []
