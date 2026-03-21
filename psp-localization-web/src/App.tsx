@@ -14,7 +14,7 @@ function App() {
     <Layout className="app-layout">
       <Header className="header">
         <div className="logo">
-          <Link to="/">PSP 汉化档案库</Link>
+          <Link to="/"><span>PSP 汉化档案库</span></Link>
         </div>
         <Menu
           theme="dark"

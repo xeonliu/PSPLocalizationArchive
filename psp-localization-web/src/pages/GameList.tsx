@@ -1,20 +1,41 @@
 import { useState, useEffect } from 'react'
-import { Table, Input, Select, Space, Tag, Card, Row, Col, Statistic } from 'antd'
+import { Table, Input, Select, Space, Tag, Card, Row, Col, Statistic, List, Typography } from 'antd'
 import { SearchOutlined, FilterOutlined } from '@ant-design/icons'
-import { Link } from 'react-router-dom'
+import { Link, useSearchParams } from 'react-router-dom'
 import { Game, loadGames, loadGroups, filterGames } from '../data'
+import { useMediaQuery } from 'react-responsive'
 
 const { Search } = Input
 
 const GameList = () => {
+  const [searchParams, setSearchParams] = useSearchParams()
+
   const [games, setGames] = useState<Game[]>([])
   const [loading, setLoading] = useState(true)
-  const [searchText, setSearchText] = useState('')
-  const [languageFilter, setLanguageFilter] = useState<string>('all')
-  const [groupFilter, setGroupFilter] = useState<string>('all')
+  
+  const searchText = searchParams.get('search') || ''
+  const languageFilter = searchParams.get('lang') || 'all'
+  const groupFilter = searchParams.get('group') || 'all'
+  const currentPage = parseInt(searchParams.get('page') || '1', 10)
+  const pageSize = parseInt(searchParams.get('size') || '20', 10)
+
   const [filteredGames, setFilteredGames] = useState<Game[]>([])
   const [allGroups, setAllGroups] = useState<{ id: string; name: string }[]>([])
   const [groupMap, setGroupMap] = useState<Map<string, string>>(new Map())
+
+  const isMobile = useMediaQuery({ maxWidth: 768 })
+
+  const updateSearchParams = (updates: Record<string, string | undefined>) => {
+    const newParams = new URLSearchParams(searchParams)
+    Object.entries(updates).forEach(([key, value]) => {
+      if (value === undefined || value === '' || value === 'all' || (key === 'page' && value === '1') || (key === 'size' && value === '20')) {
+        newParams.delete(key)
+      } else {
+        newParams.set(key, value)
+      }
+    })
+    setSearchParams(newParams)
+  }
 
   useEffect(() => {
     const init = async () => {
@@ -197,11 +218,13 @@ const GameList = () => {
             allowClear
             style={{ width: 300 }}
             prefix={<SearchOutlined />}
-            onChange={e => setSearchText(e.target.value)}
+            value={searchText}
+            onSearch={val => updateSearchParams({ search: val, page: '1' })}
+            onChange={e => updateSearchParams({ search: e.target.value, page: '1' })}
           />
           <Select
             value={languageFilter}
-            onChange={setLanguageFilter}
+            onChange={val => updateSearchParams({ lang: val, page: '1' })}
             style={{ width: 120 }}
             options={[
               { value: 'all', label: '全部语言' },
@@ -211,7 +234,7 @@ const GameList = () => {
           />
           <Select
             value={groupFilter}
-            onChange={setGroupFilter}
+            onChange={val => updateSearchParams({ group: val, page: '1' })}
             style={{ width: 180 }}
             showSearch
             allowClear
@@ -225,18 +248,62 @@ const GameList = () => {
       </Card>
 
       <Card title={`搜索结果: ${filteredGames.length} 个游戏`} size="small">
-        <Table
-          columns={columns}
-          dataSource={filteredGames}
-          rowKey="id"
-          loading={loading}
-          size="small"
-          pagination={{
-            pageSize: 20,
-            showSizeChanger: true,
-            showTotal: (total) => `共 ${total} 个游戏`,
-          }}
-        />
+        {isMobile ? (
+          <List
+            loading={loading}
+            dataSource={filteredGames}
+            pagination={{
+              current: currentPage,
+              pageSize: pageSize,
+              showSizeChanger: true,
+              showTotal: (total) => `共 ${total} 个游戏`,
+              onChange: (page, size) => updateSearchParams({ page: page.toString(), size: size.toString() }),
+            }}
+            renderItem={(game) => (
+              <List.Item>
+                <Card size="small" style={{ width: '100%', marginBottom: 8 }}>
+                  <Typography.Title level={5} style={{ marginTop: 0 }}>
+                    <Link to={`/game/${game.id}`}>
+                      {game.titles.zh_cn || game.titles.native}
+                    </Link>
+                  </Typography.Title>
+                  <Space direction="vertical" style={{ width: '100%' }}>
+                    <Space wrap>
+                      <Tag color="blue">{game.id}</Tag>
+                      {getGroups(game).map(g => (
+                        <Link key={g} to={`/groups/${g}`}>
+                          <Tag color="purple">{groupMap.get(g) || g}</Tag>
+                        </Link>
+                      ))}
+                    </Space>
+                    <Space wrap>
+                      {getLanguages(game).map(l => <Tag key={l}>{l}</Tag>)}
+                      <span style={{ color: '#888', fontSize: '12px' }}>
+                        版本: {getVersions(game).join(', ') || '未知'}
+                      </span>
+                    </Space>
+                  </Space>
+                </Card>
+              </List.Item>
+            )}
+          />
+        ) : (
+          <Table
+            columns={columns}
+            dataSource={filteredGames}
+            rowKey="id"
+            loading={loading}
+            size="small"
+            pagination={{
+              current: currentPage,
+              pageSize: pageSize,
+              showSizeChanger: true,
+              showTotal: (total) => `共 ${total} 个游戏`,
+              onChange: (page, size) => updateSearchParams({ page: page.toString(), size: size.toString() }),
+            }}
+            scroll={{ x: 1000 }}
+          />
+        )}
       </Card>
     </div>
   )

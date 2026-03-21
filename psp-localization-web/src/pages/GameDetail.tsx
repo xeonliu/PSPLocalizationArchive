@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useParams, Link, useNavigate } from 'react-router-dom'
 import { Card, Tag, Typography, Spin, Descriptions, Breadcrumb, Space, Alert, Table, Tree } from 'antd'
 import type { DataNode } from 'antd/es/tree'
 import { HomeOutlined, ArrowLeftOutlined, FolderOutlined, FileOutlined } from '@ant-design/icons'
@@ -10,6 +10,7 @@ const { Title } = Typography
 
 const GameDetail = () => {
   const { id } = useParams<{ id: string }>()
+  const navigate = useNavigate()
   const [game, setGame] = useState<Game | null>(null)
   const [groups, setGroups] = useState<Map<string, string>>(new Map())
   const [loading, setLoading] = useState(true)
@@ -206,6 +207,7 @@ const GameDetail = () => {
           size="small"
           pagination={false}
           locale={{ emptyText: '暂无官方发行版信息' }}
+          scroll={{ x: 'max-content' }}
         />
       </Card>
 
@@ -220,13 +222,14 @@ const GameDetail = () => {
             expandedRowRender,
             rowExpandable: (record) => !!record.files && record.files.length > 0,
           }}
+          scroll={{ x: 'max-content' }}
         />
       </Card>
 
       <div style={{ marginTop: 16 }}>
-        <Link to="/">
-          <Space><ArrowLeftOutlined />返回列表</Space>
-        </Link>
+        <a onClick={(e) => { e.preventDefault(); navigate(-1); }} style={{ cursor: 'pointer' }}>
+          <Space><ArrowLeftOutlined />返回</Space>
+        </a>
       </div>
     </div>
   )

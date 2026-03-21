@@ -110,7 +110,11 @@ const Groups = () => {
           dataSource={filteredGroups}
           rowKey="id"
           loading={loading}
-          pagination={{ pageSize: 20 }}
+          pagination={{ 
+            defaultPageSize: 20,
+            showSizeChanger: true,
+          }}
+          scroll={{ x: 'max-content' }}
         />
       </Card>
     </div>

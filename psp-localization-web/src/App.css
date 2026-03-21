@@ -12,6 +12,33 @@
   font-size: 18px;
   font-weight: bold;
   margin-right: 48px;
+  white-space: nowrap;
+}
+
+.logo a {
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding: 0 12px;
+  }
+  
+  .logo {
+    margin-right: 16px;
+    font-size: 16px;
+  }
+
+  /* 在超小屏幕上隐藏标题文字，只保留菜单 */
+  @media (max-width: 480px) {
+    .logo span {
+      display: none;
+    }
+    .logo a::after {
+      content: "PSP汉化";
+      color: white;
+    }
+  }
 }
 
 .top-menu {

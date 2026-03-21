@@ -152,8 +152,12 @@ const GroupDetail = () => {
           columns={columns}
           dataSource={games}
           rowKey="id"
-          pagination={{ pageSize: 20 }}
+          pagination={{ 
+            defaultPageSize: 20,
+            showSizeChanger: true,
+          }}
           locale={{ emptyText: '暂无汉化作品记录' }}
+          scroll={{ x: 'max-content' }}
         />
       </Card>
 
