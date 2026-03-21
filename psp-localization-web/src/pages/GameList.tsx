@@ -111,11 +111,15 @@ const GameList = () => {
       title: '汉化组',
       key: 'groups',
       render: (_: unknown, record: Game) => (
-        <>
+        <Space wrap>
           {getGroups(record).map(g => (
-            <Tag key={g} color="red">{g}</Tag>
+            <Link key={g} to={`/groups/${g}`}>
+              <Tag color="purple">
+                {groupMap.get(g) || g}
+              </Tag>
+            </Link>
           ))}
-        </>
+        </Space>
       ),
     },
     {
@@ -214,7 +218,7 @@ const GameList = () => {
             placeholder="选择汉化组"
             options={[
               { value: 'all', label: '全部汉化组' },
-              ...allGroups.map(g => ({ value: g.id, label: g.id })),
+              ...allGroups.map(g => ({ value: g.id, label: g.name })),
             ]}
           />
         </Space>
