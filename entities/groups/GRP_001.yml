@@ -1,7 +1,7 @@
 id: GRP_001
 name: "心游汉化组"
-status: null
+status: inactive
 founded: null
-description: "根据 `source.txt` 的原始条目创建的占位汉化组档案。"
-website: null
+description: "国内知名的女性向与乙女向游戏汉化组，主要活跃于PSP、PSV及PC平台的乙女游戏汉化。其大本营为“心游之域”论坛（www.xinplay.net）。曾汉化过大量经典的乙女游戏作品（如《兄弟战争》、《魔鬼恋人》、《失忆症》等）。近年来论坛长期处于关闭状态，汉化组目前处于非活跃状态。"
+website: "https://web.archive.org/web/20180506152158/http://www.xinplay.net/forum.php?gid=40"
 archives: []
