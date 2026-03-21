@@ -1,8 +1,5 @@
 # PSP Localization Archive (PSP 汉化游戏档案库)
 
-[![PR Validation](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/validate-pr.yml)
-[![Deploy to GitHub Pages](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/deploy-pages.yml)
-
 > 这是一个致力于记录和保存 PSP（PlayStation Portable）时代民间汉化游戏历史的学术级元数据框架与数字档案库。
 
 ## 📖 项目简介
@@ -14,9 +11,15 @@
 1. **结构化保存**：以 YAML 格式精确记录游戏原版信息、汉化版本差异、汉化组及参与人员的元数据。
 2. **技术精度还原**：通过记录镜像的 LBA（逻辑扇区地址）与文件修改标记，还原 ISO 被篡改（汉化）的技术轨迹。
 3. **版本演进梳理**：通过清晰的依赖关系，梳理出不同汉化版本之间的“继承”或“修正”谱系。
-4. **数字尊严**：为当年默默付出的汉化组（如 CG汉化组、扑家汉化组、澄空学园等）和个人建立独立的数字档案。
+4. **数字尊严**：为当年默默付出的汉化组和个人建立独立的数字档案。
 
 ---
+
+## 收录内容
+
+- 基于官方UMD镜像或PSN游戏衍生的中文汉化/中文二次修改作品
+- 中文自制软件/移植游戏
+- 不包括官方中文游戏
 
 ## 📂 目录结构
 
