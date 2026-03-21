@@ -5,7 +5,7 @@ staff: []
 target_release: []
 lang: zh-Hans
 version: null
-release_date: null
+release_date: "2010"
 tech_stats:
   psn_base: false
   media_install_compatible: null

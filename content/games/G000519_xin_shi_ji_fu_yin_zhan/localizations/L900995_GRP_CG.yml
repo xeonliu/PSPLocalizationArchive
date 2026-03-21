@@ -5,12 +5,12 @@ staff: []
 target_release: []
 lang: zh-Hans
 version: null
-release_date: null
+release_date: "2009-05-01"
 tech_stats:
   psn_base: false
   media_install_compatible: null
-  cheat_code_support: null
-  font_requirement: null
+  cheat_code_support: true
+  font_requirement: false
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH426

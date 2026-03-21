@@ -1,0 +1,102 @@
+archive_info:
+  filename: Shinseiki Evangelion Koutetsu no Girl Friend 2nd Portable (Chinese Broken
+    2010).iso
+  size: 407568384
+  hashes:
+    sha1: 53fe9d5a53c17f9194c82d92ce263b6447de3881
+file_tree:
+- path: /UMD_DATA.BIN
+  lba: 27
+  size: 48
+  modified: false
+  mtime: '2009-03-12 11:14:41'
+- path: /PSP_GAME/PIC1.PNG
+  lba: 198912
+  size: 161832
+  modified: false
+  mtime: '2009-02-25 16:32:35'
+- path: /PSP_GAME/PARAM.SFO
+  lba: 198992
+  size: 472
+  modified: false
+  mtime: '2009-04-13 15:15:11'
+- path: /PSP_GAME/ICON0.PNG
+  lba: 198896
+  size: 20375
+  modified: false
+  mtime: '2009-02-25 16:32:35'
+- path: /PSP_GAME/SYSDIR/EBOOT.BIN
+  lba: 32
+  size: 395840
+  modified: false
+  mtime: '2009-04-15 17:33:02'
+- path: /PSP_GAME/SYSDIR/BOOT.BIN
+  lba: 198688
+  size: 395492
+  modified: false
+  mtime: '2009-04-15 17:32:32'
+- path: /PSP_GAME/SYSDIR/UPDATE/PARAM.SFO
+  lba: 240
+  size: 2080
+  modified: false
+  mtime: '2009-03-12 11:14:41'
+- path: /PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN
+  lba: 256
+  size: 5476608
+  modified: false
+  mtime: '2009-03-12 11:14:41'
+- path: /PSP_GAME/SYSDIR/UPDATE/DATA.BIN
+  lba: 4352
+  size: 21602544
+  modified: false
+  mtime: '2009-03-12 11:14:41'
+- path: /PSP_GAME/USRDIR/VOICE.THFS
+  lba: 120384
+  size: 158658560
+  modified: false
+  mtime: '2009-03-25 16:44:57'
+- path: /PSP_GAME/USRDIR/UTILITY.THFS
+  lba: 198560
+  size: 233472
+  modified: false
+  mtime: '2009-02-25 16:30:13'
+- path: /PSP_GAME/USRDIR/SE2.THFS
+  lba: 105344
+  size: 30797824
+  modified: false
+  mtime: '2009-04-13 23:31:09'
+- path: /PSP_GAME/USRDIR/SE.THFS
+  lba: 89584
+  size: 32258048
+  modified: false
+  mtime: '2009-04-13 23:31:06'
+- path: /PSP_GAME/USRDIR/SCRIPT.THFS
+  lba: 198384
+  size: 337406
+  modified: false
+  mtime: '2010-07-13 23:06:23'
+- path: /PSP_GAME/USRDIR/MUSIC.THFS
+  lba: 75744
+  size: 28332032
+  modified: false
+  mtime: '2009-04-13 23:31:03'
+- path: /PSP_GAME/USRDIR/LIBFONT.PRX
+  lba: 198368
+  size: 20752
+  modified: false
+  mtime: '2008-12-18 21:10:54'
+- path: /PSP_GAME/USRDIR/IMAGE.THFS
+  lba: 53504
+  size: 43631730
+  modified: false
+  mtime: '2010-07-13 22:08:31'
+- path: /PSP_GAME/USRDIR/FONT.THFS
+  lba: 2931
+  size: 1320911
+  modified: false
+  mtime: '2010-07-12 23:57:38'
+- path: /PSP_GAME/USRDIR/BMP.THFS
+  lba: 197856
+  size: 136596
+  modified: false
+  mtime: '2009-04-15 17:15:25'
