@@ -2,6 +2,7 @@ id: L900878
 parent_localization_id: null
 groups:
   - GRP_KIDSFC
+  - GRP_CG
 staff: []
 target_release: []
 lang: zh-Hans

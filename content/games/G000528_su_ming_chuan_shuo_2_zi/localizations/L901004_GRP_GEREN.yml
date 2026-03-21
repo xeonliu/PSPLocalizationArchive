@@ -2,6 +2,7 @@ id: L901004
 parent_localization_id: null
 groups:
   - GRP_GEREN
+  - GRP_CG
 staff: []
 target_release: []
 lang: zh-Hans

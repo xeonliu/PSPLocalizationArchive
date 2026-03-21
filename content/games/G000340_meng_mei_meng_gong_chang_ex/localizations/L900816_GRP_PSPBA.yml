@@ -2,6 +2,7 @@ id: L900816
 parent_localization_id: null
 groups:
   - GRP_PSPBA
+  - GRP_SOMA
 staff: []
 target_release: []
 lang: zh-Hans

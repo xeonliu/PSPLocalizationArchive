@@ -2,6 +2,7 @@ id: L901024
 parent_localization_id: null
 groups:
   - GRP_PLAY
+  - GRP_LAC
 staff: []
 target_release: []
 lang: zh-Hans

@@ -2,6 +2,7 @@ id: L900672
 parent_localization_id: null
 groups:
   - GRP_EMAO
+  - GRP_CG
 staff: []
 target_release: []
 lang: zh-Hans

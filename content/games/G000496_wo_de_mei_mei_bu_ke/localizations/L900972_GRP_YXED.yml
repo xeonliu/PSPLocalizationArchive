@@ -2,6 +2,7 @@ id: L900972
 parent_localization_id: null
 groups:
   - GRP_YXED
+  - GRP_PSPBA
 staff: []
 target_release: []
 lang: zh-Hans

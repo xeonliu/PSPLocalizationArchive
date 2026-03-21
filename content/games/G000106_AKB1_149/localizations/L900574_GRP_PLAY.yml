@@ -2,6 +2,7 @@ id: L900574
 parent_localization_id: null
 groups:
   - GRP_PLAY
+  - GRP_DONGJING
 staff: []
 target_release: []
 lang: zh-Hans

@@ -2,6 +2,7 @@ id: L901009
 parent_localization_id: null
 groups:
   - GRP_PUJIA
+  - GRP_YIMENG
 staff: []
 target_release: []
 lang: zh-Hans

@@ -2,6 +2,7 @@ id: L900941
 parent_localization_id: null
 groups:
   - GRP_COGODO
+  - GRP_178
 staff: []
 target_release: []
 lang: zh-Hans

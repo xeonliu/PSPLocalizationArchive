@@ -2,6 +2,7 @@ id: L900947
 parent_localization_id: null
 groups:
   - GRP_PC
+  - GRP_KFC
 staff: []
 target_release: []
 lang: zh-Hans

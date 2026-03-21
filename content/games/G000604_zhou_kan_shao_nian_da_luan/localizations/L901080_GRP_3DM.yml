@@ -2,6 +2,7 @@ id: L901080
 parent_localization_id: null
 groups:
   - GRP_3DM
+  - GRP_YOUYU
 staff: []
 target_release: []
 lang: zh-Hans
