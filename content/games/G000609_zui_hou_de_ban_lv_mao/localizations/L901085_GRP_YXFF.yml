@@ -1,0 +1,18 @@
+id: L901085
+parent_localization_id: null
+group_id: GRP_YXFF
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH516
+notes:
+- '原始条目: PSPCH516 – 最后的伴侣 猫之俱乐部 [游戏饭饭 猫之俱乐部汉化小组]'

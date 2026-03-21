@@ -1,0 +1,20 @@
+id: L901145
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v2.3
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH577
+notes:
+- '原始条目: PSPCH577 – 最终幻想[v2.3][bili_48382760774]'
+- v2.3
+- bili_48382760774

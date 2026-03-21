@@ -1,0 +1,20 @@
+id: L901097
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.04
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH528
+notes:
+- '原始条目: PSPCH528 – 最终幻想7 核心危机(危机之源)[v1.04][简][CG汉化组]'
+- v1.04
+- 危机之源

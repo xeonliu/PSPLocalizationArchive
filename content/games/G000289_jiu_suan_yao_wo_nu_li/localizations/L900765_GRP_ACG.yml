@@ -1,0 +1,20 @@
+id: L900765
+parent_localization_id: null
+group_id: GRP_ACG
+staff: []
+target_release: []
+lang: zh-Hans
+version: v2
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH196
+notes:
+- '原始条目: PSPCH196 – 就算要我努力工作乙[简][汉化版v2+DLC内封][集成v1.01补丁][ACG汉化组+腓特烈]'
+- 汉化版v2+DLC内封
+- 集成v1.01补丁

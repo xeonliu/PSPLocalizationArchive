@@ -1,0 +1,19 @@
+id: L900749
+parent_localization_id: null
+group_id: GRP_XIANYU
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.1
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH180
+notes:
+- '原始条目: PSPCH180 – 寄生前夜 第三次生日 [简][v1.1完全汉化版][咸鱼汉化组]'
+- v1.1完全汉化版

@@ -1,0 +1,19 @@
+id: L900929
+parent_localization_id: null
+group_id: GRP_EPT
+staff: []
+target_release: []
+lang: zh-Hans
+version: v2.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH360
+notes:
+- '原始条目: PSPCH360 – 实况足球 PES6 [v2.0][EPT小组]'
+- v2.0

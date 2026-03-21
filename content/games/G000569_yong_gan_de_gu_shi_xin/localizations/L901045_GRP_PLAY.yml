@@ -1,0 +1,19 @@
+id: L901045
+parent_localization_id: null
+group_id: GRP_PLAY
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH476
+notes:
+- '原始条目: PSPCH476 – 勇敢的故事 新的冒险者(勇者物语) [简][Play汉化组]'
+- 勇者物语

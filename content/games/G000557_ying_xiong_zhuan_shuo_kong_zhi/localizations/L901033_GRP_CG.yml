@@ -1,0 +1,18 @@
+id: L901033
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH464
+notes:
+- '原始条目: PSPCH464 – 英雄传说 空之轨迹SC UMD1 V1.1 [繁][CG汉化组]'

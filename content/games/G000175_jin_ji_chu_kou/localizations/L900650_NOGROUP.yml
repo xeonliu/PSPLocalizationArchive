@@ -1,0 +1,20 @@
+id: L900650
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH081
+notes:
+- '原始条目: PSPCH081 – 紧急出口(脱逃大师)[简][原亿盟电玩汉化]'
+- 原亿盟电玩汉化
+- 脱逃大师

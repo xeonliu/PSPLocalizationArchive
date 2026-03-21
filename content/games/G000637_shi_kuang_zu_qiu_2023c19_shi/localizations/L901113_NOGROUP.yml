@@ -1,0 +1,20 @@
+id: L901113
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH544
+notes:
+- '原始条目: PSPCH544 – 实况足球2023 C19世界杯版[菜单汉化][SinSega]'
+- 菜单汉化
+- SinSega

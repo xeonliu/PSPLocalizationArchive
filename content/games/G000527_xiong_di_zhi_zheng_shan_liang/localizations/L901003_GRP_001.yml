@@ -1,0 +1,18 @@
+id: L901003
+parent_localization_id: null
+group_id: GRP_001
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH434
+notes:
+- '原始条目: PSPCH434 – 兄弟之争 闪亮蔚蓝 [简][心游汉化组]'

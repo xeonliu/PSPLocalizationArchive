@@ -1,0 +1,20 @@
+id: L901118
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.1
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH549
+notes:
+- '原始条目: PSPCH549 – 三国志8[v1.1.2][简][mszl100]'
+- v1.1.2
+- mszl100

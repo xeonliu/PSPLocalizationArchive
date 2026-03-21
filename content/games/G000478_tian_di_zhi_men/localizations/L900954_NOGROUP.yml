@@ -1,0 +1,19 @@
+id: L900954
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH385
+notes:
+- '原始条目: PSPCH385 – 天地之门 [繁] [官方中文版][SONY]'
+- SONY

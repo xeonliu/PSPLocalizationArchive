@@ -1,0 +1,19 @@
+id: L900684
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH115
+notes:
+- '原始条目: PSPCH115 – 方块精灵[[Moyanchina]]'
+- '[Moyanchina'

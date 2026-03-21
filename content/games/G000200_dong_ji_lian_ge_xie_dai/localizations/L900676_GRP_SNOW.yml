@@ -1,0 +1,20 @@
+id: L900676
+parent_localization_id: null
+group_id: GRP_SNOW
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH107
+notes:
+- '原始条目: PSPCH107 – 冬季恋歌 携带版 [RC3汉化版][SNOW携带版汉化委员会](菜单繁体文本简体)'
+- RC3汉化版
+- 菜单繁体文本简体

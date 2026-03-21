@@ -1,0 +1,18 @@
+id: L900795
+parent_localization_id: null
+group_id: GRP_CGP
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH226
+notes:
+- '原始条目: PSPCH226 – 凉宫春日的约定 V1.2 [简][CGP汉化组&华盟字幕组]'

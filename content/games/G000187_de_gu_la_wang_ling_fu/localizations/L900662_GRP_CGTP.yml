@@ -1,0 +1,18 @@
+id: L900662
+parent_localization_id: null
+group_id: GRP_CGTP
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH093
+notes:
+- '原始条目: PSPCH093 – 德古拉 亡灵复苏 简体中文版[CGTP汉化组]'

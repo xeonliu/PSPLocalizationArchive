@@ -1,0 +1,19 @@
+id: L900688
+parent_localization_id: null
+group_id: GRP_NEOCORE
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH119
+notes:
+- '原始条目: PSPCH119 – 富豪街勇者斗恶龙与最终幻想(人生街道 DQ & FF角色大集合) V0.1 [繁][NeoCore汉化组]'
+- 人生街道 DQ & FF角色大集合

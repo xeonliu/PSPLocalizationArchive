@@ -1,0 +1,20 @@
+id: L901139
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.3
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH571
+notes:
+- '原始条目: PSPCH571 – 黑豹2 如龙 阿修罗篇[简][v1.3][南德小学生]'
+- v1.3
+- 南德小学生

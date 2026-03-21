@@ -1,0 +1,21 @@
+id: L900613
+parent_localization_id: null
+group_id: GRP_YIMENG
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH044
+notes:
+- '原始条目: PSPCH044 – 薄樱鬼 本篇(薄樱鬼~新选组奇谭) [v1.0][翼之梦 风流鬼汉化组](修正觉书问题)'
+- v1.0
+- 薄樱鬼~新选组奇谭
+- 修正觉书问题

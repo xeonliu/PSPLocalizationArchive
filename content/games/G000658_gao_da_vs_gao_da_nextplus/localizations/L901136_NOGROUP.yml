@@ -1,0 +1,21 @@
+id: L901136
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v3.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH567
+notes:
+- '原始条目: PSPCH567 – 高达vs.高达 NEXT PLUS[纹理汉化版v3.0][简][卡司红茶](仅限模拟器使用)'
+- 纹理汉化版v3.0
+- 卡司红茶
+- 仅限模拟器使用

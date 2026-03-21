@@ -1,0 +1,19 @@
+id: L901023
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH454
+notes:
+- '原始条目: PSPCH454 – 异形战机 策略版(R TYPE战略版) [繁][CG汉化组]'
+- R TYPE战略版

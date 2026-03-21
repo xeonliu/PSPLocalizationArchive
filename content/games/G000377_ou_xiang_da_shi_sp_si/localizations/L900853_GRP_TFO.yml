@@ -1,0 +1,19 @@
+id: L900853
+parent_localization_id: null
+group_id: GRP_TFO
+staff: []
+target_release: []
+lang: zh-Hans
+version: v0.9
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH284
+notes:
+- '原始条目: PSPCH284 – 偶像大师SP 思念之月[简][v0.9+DLC内封][爱上电线杆的TFO汉化组+腓特烈]'
+- v0.9+DLC内封

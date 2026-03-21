@@ -1,0 +1,20 @@
+id: L901069
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.10
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH500
+notes:
+- '原始条目: PSPCH500 – 侦探歌剧 少女福尔摩斯1.5 [v1.10][caoyang131]'
+- v1.10
+- caoyang131

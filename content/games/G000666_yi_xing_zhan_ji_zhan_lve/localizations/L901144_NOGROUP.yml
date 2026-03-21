@@ -1,0 +1,20 @@
+id: L901144
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.05
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH576
+notes:
+- '原始条目: PSPCH576 – 异形战机战略版2 苦涩巧克力行动[v1.05][简][HiroshiYa]'
+- v1.05
+- HiroshiYa

@@ -1,0 +1,19 @@
+id: L900775
+parent_localization_id: null
+group_id: GRP_PSPBA
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH206
+notes:
+- '原始条目: PSPCH206 – 克兰娜德 光芒守护的小镇 下卷[完美汉化版][PSP吧汉化组&CLANNAD吧联合汉化]'
+- 完美汉化版

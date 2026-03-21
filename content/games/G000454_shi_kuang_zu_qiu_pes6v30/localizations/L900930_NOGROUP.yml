@@ -1,0 +1,19 @@
+id: L900930
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH361
+notes:
+- '原始条目: PSPCH361 – 实况足球 PES6 V3.0 [简][PSPChina&完全实况]'
+- PSPChina&完全实况

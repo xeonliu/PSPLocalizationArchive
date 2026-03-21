@@ -1,0 +1,18 @@
+id: L900595
+parent_localization_id: null
+group_id: GRP_YXFF
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH026
+notes:
+- '原始条目: PSPCH026 – PSP Minis 数独与数迷 [游戏饭饭汉化组]'

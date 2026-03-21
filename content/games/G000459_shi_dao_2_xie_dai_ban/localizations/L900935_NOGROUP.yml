@@ -1,0 +1,20 @@
+id: L900935
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: V1.1
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH366
+notes:
+- '原始条目: PSPCH366 – 侍道2携带版[V1.1][繁体中文版][lim2222]'
+- V1.1
+- lim2222

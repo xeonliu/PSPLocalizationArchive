@@ -1,0 +1,20 @@
+id: L900652
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH083
+notes:
+- '原始条目: PSPCH083 – 大江户千两箱 [繁体][愚人节汉化测试版][付众杰&大便纸&拉拉★王]'
+- 愚人节汉化测试版
+- 付众杰&大便纸&拉拉★王

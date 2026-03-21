@@ -1,0 +1,19 @@
+id: L901125
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH556
+notes:
+- '原始条目: PSPCH556 – 火影忍者疾风传 究极冲击[简][南德小学生]'
+- 南德小学生

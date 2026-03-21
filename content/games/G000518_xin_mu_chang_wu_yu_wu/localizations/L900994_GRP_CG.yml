@@ -1,0 +1,19 @@
+id: L900994
+parent_localization_id: null
+group_id: GRP_CG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH425
+notes:
+- '原始条目: PSPCH425 – 新牧场物语 无暇人生(纯真生活) [简][CG汉化组]'
+- 纯真生活

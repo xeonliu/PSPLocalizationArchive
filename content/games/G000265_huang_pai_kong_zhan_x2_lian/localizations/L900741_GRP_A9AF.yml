@@ -1,0 +1,18 @@
+id: L900741
+parent_localization_id: null
+group_id: GRP_A9AF
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH172
+notes:
+- '原始条目: PSPCH172 – 皇牌空战X2 联合攻击 [简][A9AF汉化组]'

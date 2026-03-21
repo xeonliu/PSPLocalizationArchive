@@ -1,0 +1,20 @@
+id: L900575
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.1
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH006
+notes:
+- '原始条目: PSPCH006 – Ever17 时空轮回 白金版[简][v1.1汉化修正版][KIDSFC特创组]'
+- v1.1汉化修正版
+- KIDSFC特创组

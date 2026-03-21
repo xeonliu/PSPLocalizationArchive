@@ -1,0 +1,19 @@
+id: L900740
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hant
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH171
+notes:
+- '原始条目: PSPCH171 – 皇牌空战 X 诡影苍穹 内部最终修正版 [繁][PSPChina&雷神汉化]'
+- PSPChina&雷神汉化

@@ -1,0 +1,20 @@
+id: L901053
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.0
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH484
+notes:
+- '原始条目: PSPCH484 – 游戏王对战怪兽GX卡片力量[简][剧情+卡片汉化最终修复v1.0][PSPChina+阿省]'
+- 剧情+卡片汉化最终修复v1.0
+- PSPChina+阿省

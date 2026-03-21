@@ -1,0 +1,20 @@
+id: L900966
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH397
+notes:
+- '原始条目: PSPCH397 – 维纳斯与布雷斯[汉化到第三章的大后半][绯红月晓]'
+- 汉化到第三章的大后半
+- 绯红月晓

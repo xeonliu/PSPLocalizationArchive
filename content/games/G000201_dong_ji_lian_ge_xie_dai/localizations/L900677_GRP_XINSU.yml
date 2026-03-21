@@ -1,0 +1,18 @@
+id: L900677
+parent_localization_id: null
+group_id: GRP_XINSU
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH108
+notes:
+- '原始条目: PSPCH108 – 冬季恋歌 携带版 [心速汉化组]'

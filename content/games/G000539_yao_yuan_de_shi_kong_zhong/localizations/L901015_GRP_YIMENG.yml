@@ -1,0 +1,18 @@
+id: L901015
+parent_localization_id: null
+group_id: GRP_YIMENG
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH446
+notes:
+- '原始条目: PSPCH446 – 遥远的时空中5[简][翼の梦汉化组]'

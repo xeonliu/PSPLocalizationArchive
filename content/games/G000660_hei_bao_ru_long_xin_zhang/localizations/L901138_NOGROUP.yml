@@ -1,0 +1,20 @@
+id: L901138
+parent_localization_id: null
+group_id: null
+staff: []
+target_release: []
+lang: zh-Hans
+version: v1.1
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH570
+notes:
+- '原始条目: PSPCH570 – 黑豹 如龙新章[简][v1.1汉化测试][南德小学生]'
+- v1.1汉化测试
+- 南德小学生

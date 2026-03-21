@@ -1,0 +1,18 @@
+id: L900976
+parent_localization_id: null
+group_id: GRP_BAISHI
+staff: []
+target_release: []
+lang: zh-Hans
+version: null
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH407
+notes:
+- '原始条目: PSPCH407 – 我是航空管制官 成田机场 [简][巴士汉化组]'

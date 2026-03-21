@@ -1,0 +1,19 @@
+id: L900820
+parent_localization_id: null
+group_id: GRP_WUXIAN
+staff: []
+target_release: []
+lang: zh-Hans
+version: v0.2
+release_date: null
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+links:
+- label: source-list-raw
+  url: source.txt -> PSPCH251
+notes:
+- '原始条目: PSPCH251 – 梦幻之星2 携带版 无限 [v0.2_β公测物品汉化先行版][无限之星汉化组]'
+- v0.2_β公测物品汉化先行版
