@@ -464,7 +464,7 @@ external_links: {}
 description: "《AKB1/149 恋爱总选举》（AKB1/149 - Love Election）是由万代南梦宫发行的恋爱冒险游戏，玩家将要在AKB48、SKE48、NMB48、HKT48等149名真实偶像中选择一名作为恋人。"
 `,NF=`id: G000107
 titles:
-  native: Ever17 时空轮回 白金版
+  native: Ever17 -the out of infinity- Premium Edition
   zh_cn: Ever17 时空轮回 白金版
   en: "Ever17 - The Out of Infinity"
 developer: "KID / CyberFront"
@@ -494,7 +494,7 @@ external_links: {}
 description: "《GT赛车》（Gran Turismo）是Polyphony Digital开发的著名拟真赛车游戏系列在PSP平台上的唯一正统作品，收录了超过800辆赛车和35条赛道。"
 `,AF=`id: G000110
 titles:
-  native: G弦上的魔王
+  native: "G線上の魔王"
   zh_cn: G弦上的魔王
   en: "The Devil on G-String"
 developer: "AKABEiSOFT2"
@@ -514,7 +514,7 @@ external_links: {}
 description: null
 `,jF=`id: G000112
 titles:
-  native: Love at once 麻将
+  native: "L@ve once"
   zh_cn: Love at once 麻将
   en: "L@ve Once Mahjong"
 developer: "Maid Meets Cat"
@@ -524,7 +524,7 @@ external_links: {}
 description: "《L@ve once 麻将》（L@ve Once Mahjong）是基于恋爱冒险游戏《L@ve once》世界观衍生的麻将游戏，玩家可以与游戏中的女主角们进行麻将对战。"
 `,DF=`id: G000113
 titles:
-  native: Never7 无限轮回的终结
+  native: "Never7 -the end of infinity-"
   zh_cn: Never7 无限轮回的终结
   en: "Never7 -the end of infinity-"
 developer: "KID / CyberFront"
