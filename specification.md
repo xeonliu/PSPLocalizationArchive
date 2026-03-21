@@ -92,6 +92,7 @@ tech_stats:
   media_install_compatible: true # 是否支持官方“媒体安装”功能
   cheat_code_support: true     # 是否兼容原版金手指 (地址未偏移)
   font_requirement: "internal" # internal (内置字库), external (需外挂 PBP)
+  emulator_only: true          # 仅模拟器可用
   
 links:
   - label: "发布页面"

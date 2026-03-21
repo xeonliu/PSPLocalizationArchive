@@ -18,6 +18,7 @@ tech_stats:
   cheat_code_support: null
   font_requirement: null
 
+  emulator_only: false
 links:
   - label: "source-list-raw"
     url: "localization_db.yml (PSPCH569)"

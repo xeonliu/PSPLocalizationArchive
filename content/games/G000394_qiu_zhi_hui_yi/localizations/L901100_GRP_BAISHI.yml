@@ -12,6 +12,7 @@ tech_stats:
   media_install_compatible: null
   cheat_code_support: null
   font_requirement: null
+  emulator_only: false
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH531

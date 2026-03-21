@@ -12,6 +12,7 @@ tech_stats:
   media_install_compatible: false
   cheat_code_support: true
   font_requirement: false
+  emulator_only: false
 links: 
 - label: source-list-raw
   url: source.txt -> PSPCH561

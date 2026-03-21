@@ -44,6 +44,7 @@ export interface Localization {
     media_install_compatible: boolean | null;
     cheat_code_support: boolean | null;
     font_requirement: string | null;
+    emulator_only: boolean | null;
   };
   links: { label: string; url: string }[];
   notes?: string[];

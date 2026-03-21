@@ -175,9 +175,10 @@ const GameDetail = () => {
       width: 200,
       render: (_: unknown, record: Localization) => (
         <Space size="small" wrap>
-          {record.tech_stats.psn_base && <Tag color="blue">PSN版</Tag>}
-          {record.tech_stats.media_install_compatible && <Tag color="green">媒体安装</Tag>}
-          {record.tech_stats.cheat_code_support && <Tag color="orange">金手指</Tag>}
+          {record.tech_stats?.psn_base && <Tag color="blue">PSN版</Tag>}
+          {record.tech_stats?.media_install_compatible && <Tag color="green">媒体安装</Tag>}
+          {record.tech_stats?.cheat_code_support && <Tag color="orange">金手指</Tag>}
+          {record.tech_stats?.emulator_only && <Tag color="red">仅模拟器</Tag>}
         </Space>
       ),
     },
