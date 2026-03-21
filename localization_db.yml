@@ -1,0 +1,6635 @@
+schema: "psp_localization_archive_db"
+source_files:
+  - "source.txt"
+  - "specification.md"
+localizations:
+  - id: "PSPCH001"
+    title: "12点的钟声与灰姑娘 万圣节婚礼"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH001 – 12点的钟声与灰姑娘 万圣节婚礼 [简][心游汉化组]"
+  - id: "PSPCH002"
+    title: "428 被封锁的涩谷 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+      - "扑家汉化组"
+      - "KIDSFC特创组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH002 – 428 被封锁的涩谷 V1.1 [简][PLAY汉化组&扑家汉化组&KIDSFC特创组]"
+  - id: "PSPCH003"
+    title: "AKB1 48 与偶像恋爱的话"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH003 – AKB1 48 与偶像恋爱的话 [简][ACG汉化组]"
+  - id: "PSPCH004"
+    title: "AKB1 48与偶像恋爱的话在关岛"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "含特典映像UMD+DLC+特典主题"
+    raw: "PSPCH004 – AKB1 48与偶像恋爱的话在关岛[简][ACG汉化组](含特典映像UMD+DLC+特典主题)"
+  - id: "PSPCH005"
+    title: "AKB1 149 恋爱总选举 合盘版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "东京不够热字幕组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH005 – AKB1 149 恋爱总选举 合盘版 [简][Play汉化组&东京不够热字幕组]"
+  - id: "PSPCH006"
+    title: "Ever17 时空轮回 白金版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1汉化修正版"
+      - "KIDSFC特创组"
+    raw: "PSPCH006 – Ever17 时空轮回 白金版[简][v1.1汉化修正版][KIDSFC特创组]"
+  - id: "PSPCH007"
+    title: "Fate Tiger大乱斗"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH007 – Fate Tiger大乱斗 [简][巴士汉化组]"
+  - id: "PSPCH008"
+    title: "GT赛车"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH008 – GT赛车[繁][官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH009"
+    title: "G弦上的魔王"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化Lavis版"
+    raw: "PSPCH009 – G弦上的魔王[汉化Lavis版]"
+  - id: "PSPCH010"
+    title: "J联盟创造球会6"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH010 – J联盟创造球会6 [简][PLAY汉化组]"
+  - id: "PSPCH011"
+    title: "Love at once 麻将"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH011 – Love at once 麻将[简体中文版][Play汉化组]"
+  - id: "PSPCH012"
+    title: "Never7 无限轮回的终结"
+    language:
+      - "zh-Hans"
+    groups:
+      - "KFC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH012 – Never7 无限轮回的终结 [简][KFC汉化组]"
+  - id: "PSPCH013"
+    title: "PSP Minis 爱神丘比特"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "恋爱丘比特"
+    raw: "PSPCH013 – PSP Minis 爱神丘比特(恋爱丘比特) [ACG汉化组]"
+  - id: "PSPCH014"
+    title: "PSP Minis 爱神丘比特"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "恋爱丘比特"
+    raw: "PSPCH014 – PSP Minis 爱神丘比特(恋爱丘比特) [CG汉化组sis速汉队]"
+  - id: "PSPCH015"
+    title: "PSP Minis 蛋糕成堆"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH015 – PSP Minis 蛋糕成堆 [CG汉化组sis速汉队]"
+  - id: "PSPCH016"
+    title: "PSP Minis 糕点棋"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH016 – PSP Minis 糕点棋 [CG汉化组sis速汉队]"
+  - id: "PSPCH017"
+    title: "PSP Minis 将棋"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH017 – PSP Minis 将棋 [CG汉化组sis速汉队]"
+  - id: "PSPCH018"
+    title: "PSP Minis 金属决斗"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH018 – PSP Minis 金属决斗 [CG汉化组sis速汉队]"
+  - id: "PSPCH019"
+    title: "PSP Minis 绝对音感"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH019 – PSP Minis 绝对音感 [CG汉化组sis速汉队]"
+  - id: "PSPCH020"
+    title: "PSP Minis 空间魔球 进化"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH020 – PSP Minis 空间魔球 进化 [CG汉化组sis速汉队]"
+  - id: "PSPCH021"
+    title: "PSP Minis 拉面天国"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "拉面天堂"
+    raw: "PSPCH021 – PSP Minis 拉面天国(拉面天堂) [ACG汉化组]"
+  - id: "PSPCH022"
+    title: "PSP Minis 拉面天国"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "拉面天堂"
+    raw: "PSPCH022 – PSP Minis 拉面天国(拉面天堂) [CG汉化组sis速汉队]"
+  - id: "PSPCH023"
+    title: "PSP Minis 梦幻棒球"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH023 – PSP Minis 梦幻棒球 [CG汉化组sis速汉队]"
+  - id: "PSPCH024"
+    title: "PSP Minis 绵羊防御"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH024 – PSP Minis 绵羊防御 [CG汉化组sis速汉队]"
+  - id: "PSPCH025"
+    title: "PSP Minis 喷嚏泡泡"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH025 – PSP Minis 喷嚏泡泡 [CG汉化组sis速汉队]"
+  - id: "PSPCH026"
+    title: "PSP Minis 数独与数迷"
+    language: null
+    groups:
+      - "游戏饭饭汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH026 – PSP Minis 数独与数迷 [游戏饭饭汉化组]"
+  - id: "PSPCH027"
+    title: "PSP Minis 双人划艇"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH027 – PSP Minis 双人划艇 [ACG汉化组]"
+  - id: "PSPCH028"
+    title: "PSP Minis 双人划艇"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH028 – PSP Minis 双人划艇 [CG汉化组sis速汉队]"
+  - id: "PSPCH029"
+    title: "PSP Minis 水下大作战"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "GGG汉化者"
+    raw: "PSPCH029 – PSP Minis 水下大作战 [GGG汉化者]"
+  - id: "PSPCH030"
+    title: "PSP Minis 水下大作战"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "风魔&穿云之光&三角&哥斯蕙&不容易"
+    raw: "PSPCH030 – PSP Minis 水下大作战 [风魔&穿云之光&三角&哥斯蕙&不容易]"
+  - id: "PSPCH031"
+    title: "PSP Minis 甜点工厂"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH031 – PSP Minis 甜点工厂 [ACG汉化组]"
+  - id: "PSPCH032"
+    title: "PSP Minis 甜点工厂"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH032 – PSP Minis 甜点工厂 [CG汉化组sis速汉队]"
+  - id: "PSPCH033"
+    title: "PSP Minis 旋转弹珠"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH033 – PSP Minis 旋转弹珠 [CG汉化组sis速汉队]"
+  - id: "PSPCH034"
+    title: "PSP Minis 雅蜜雅蜜厨房"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH034 – PSP Minis 雅蜜雅蜜厨房 [CG汉化组sis速汉队]"
+  - id: "PSPCH035"
+    title: "PSP Minis 指尖传情"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH035 – PSP Minis 指尖传情 [CG汉化组sis速汉队]"
+  - id: "PSPCH036"
+    title: "Remember11 无限轮回的时光"
+    language:
+      - "zh-Hans"
+    groups:
+      - "请在此输入汉化组名称汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH036 – Remember11 无限轮回的时光[v1.1][简][请在此输入汉化组名称汉化组]"
+  - id: "PSPCH037"
+    title: "SD高达G世纪 超越世界"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2人物介绍汉化"
+      - "WGFWGF"
+    raw: "PSPCH037 – SD高达G世纪 超越世界 [v1.2人物介绍汉化][简][WGFWGF]"
+  - id: "PSPCH038"
+    title: "SD高达G世纪 世界"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "WGFWGF"
+    raw: "PSPCH038 – SD高达G世纪 世界 [简][WGFWGF]"
+  - id: "PSPCH039"
+    title: "SD高达G世纪 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH039 – SD高达G世纪 携带版 [简][Play汉化组]"
+  - id: "PSPCH040"
+    title: "安琪莉可 魔恋之六骑士"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH040 – 安琪莉可 魔恋之六骑士 [简][心游汉化组]"
+  - id: "PSPCH041"
+    title: "白骑士物语 德古玛战争"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH041 – 白骑士物语 德古玛战争[简体][ACG汉化组]"
+  - id: "PSPCH042"
+    title: "白色相簿2 序章"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CK GAL汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH042 – 白色相簿2 序章[简体中文版][CK GAL汉化组]"
+  - id: "PSPCH043"
+    title: "白衣性恋爱症候群 复诊 汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH043 – 白衣性恋爱症候群 复诊 汉化版"
+  - id: "PSPCH044"
+    title: "薄樱鬼 本篇"
+    language: null
+    groups:
+      - "翼之梦 风流鬼汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+      - "薄樱鬼~新选组奇谭"
+      - "修正觉书问题"
+    raw: "PSPCH044 – 薄樱鬼 本篇(薄樱鬼~新选组奇谭) [v1.0][翼之梦 风流鬼汉化组](修正觉书问题)"
+  - id: "PSPCH045"
+    title: "薄樱鬼 游戏录 完全汉化v1.1版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH045 – 薄樱鬼 游戏录 完全汉化v1.1版"
+  - id: "PSPCH046"
+    title: "北斗神拳雷奥外传 天之霸王"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Cogodo汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH046 – 北斗神拳雷奥外传 天之霸王 [简][Cogodo汉化组]"
+  - id: "PSPCH047"
+    title: "北欧女神 蕾娜斯"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "北欧女神专题站"
+    raw: "PSPCH047 – 北欧女神 蕾娜斯 [简][北欧女神专题站]"
+  - id: "PSPCH048"
+    title: "笨蛋测试召唤兽 携带版 Beta4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "DOTS汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH048 – 笨蛋测试召唤兽 携带版 Beta4 [简][DOTS汉化组]"
+  - id: "PSPCH049"
+    title: "比波猴学院2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH049 – 比波猴学院2 [繁] [官方中文版][SONY]"
+  - id: "PSPCH050"
+    title: "变态王子与不笑猫"
+    language:
+      - "zh-Hans"
+    groups:
+      - "美丽神话汉化组"
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2最终版"
+    raw: "PSPCH050 – 变态王子与不笑猫[v1.2最终版][简][美丽神话汉化组]"
+  - id: "PSPCH051"
+    title: "便利店 携带版 汉化版"
+    language: null
+    groups:
+      - "And汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH051 – 便利店 携带版 汉化版[And汉化组]"
+  - id: "PSPCH052"
+    title: "玻璃心公主"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "心游之域"
+    raw: "PSPCH052 – 玻璃心公主[简][心游之域]"
+  - id: "PSPCH053"
+    title: "不可饶恕 汉化第二版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina"
+    raw: "PSPCH053 – 不可饶恕 汉化第二版 [繁][PSPChina]"
+  - id: "PSPCH054"
+    title: "不可思议的迷宫 风来的西林3 携带版 V2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH054 – 不可思议的迷宫 风来的西林3 携带版 V2 [简][ACG汉化组]"
+  - id: "PSPCH055"
+    title: "不可思议的迷宫 风来的西林4 加强版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH055 – 不可思议的迷宫 风来的西林4 加强版 [简][ACG汉化组]"
+  - id: "PSPCH056"
+    title: "不可思议之国的冒险酒场"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH056 – 不可思议之国的冒险酒场[简][扑家汉化组]"
+  - id: "PSPCH057"
+    title: "苍翼默示录 厄运扳机"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Arc System Works"
+    raw: "PSPCH057 – 苍翼默示录 厄运扳机 [繁] [官方中文版][Arc System Works]"
+  - id: "PSPCH058"
+    title: "苍翼默示录 连锁反应2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Arc System Works"
+    raw: "PSPCH058 – 苍翼默示录 连锁反应2 [繁] [官方中文版][Arc System Works]"
+  - id: "PSPCH059"
+    title: "超级弹丸论破2 再见绝望学园"
+    language:
+      - "zh-Hans"
+    groups:
+      - "弹丸轮舞吧"
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH059 – 超级弹丸论破2 再见绝望学园 [简][弹丸轮舞吧&扑家汉化组]"
+  - id: "PSPCH060"
+    title: "超级机器人大战A 携带版 最终汉化版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+      - "wgf J"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH060 – 超级机器人大战A 携带版 最终汉化版 [简][ACG汉化组 & wgf J]"
+  - id: "PSPCH061"
+    title: "超级机器人大战MX 携带版"
+    language: null
+    groups: null
+    official: null
+    version:
+      - "v1.10"
+    disc: null
+    notes:
+      - "v1.10"
+      - "smkingdom123"
+    raw: "PSPCH061 – 超级机器人大战MX 携带版[v1.10][smkingdom123]"
+  - id: "PSPCH062"
+    title: "基连的野望 阿克西斯的威胁V"
+    language: null
+    groups:
+      - "时光汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "98%剧情汉化"
+    raw: "PSPCH062 – 基连的野望 阿克西斯的威胁V[98%剧情汉化][时光汉化组]"
+  - id: "PSPCH063"
+    title: "超级星尘 携带版"
+    language: null
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH063 – 超级星尘 携带版[官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH064"
+    title: "超杰交融"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH064 – 超杰交融 [繁] [官方中文版][SONY]"
+  - id: "PSPCH065"
+    title: "超时空要塞 V2.0"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH065 – 超时空要塞 V2.0 [简][CG汉化组]"
+  - id: "PSPCH066"
+    title: "赤红灯火妖魅行"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 1"
+    notes: null
+    raw: "PSPCH066 – 赤红灯火妖魅行 (UMD Disc 1) [简][心游汉化组]"
+  - id: "PSPCH067"
+    title: "赤红灯火妖魅行"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 2"
+    notes: null
+    raw: "PSPCH067 – 赤红灯火妖魅行 (UMD Disc 2) [简][心游汉化组]"
+  - id: "PSPCH068"
+    title: "出发 阿源君 夕阳下的大工物语"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH068 – 出发 阿源君 夕阳下的大工物语 [简][ACG汉化组]"
+  - id: "PSPCH069"
+    title: "初音 将全部的歌献给未来的你"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH069 – 初音 将全部的歌献给未来的你"
+  - id: "PSPCH070"
+    title: "初音 注视着你瞳里的未来歌谣"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH070 – 初音 注视着你瞳里的未来歌谣"
+  - id: "PSPCH071"
+    title: "初音岛 少女恋色交响曲"
+    language:
+      - "zh-Hans"
+    groups:
+      - "翼梦汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH071 – 初音岛 少女恋色交响曲 [简][翼梦汉化组]"
+  - id: "PSPCH072"
+    title: "初音未来 歌姬计划"
+    language:
+      - "zh-Hant"
+    groups:
+      - "浜咲学园汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH072 – 初音未来 歌姬计划 [繁][浜咲学园汉化组]"
+  - id: "PSPCH073"
+    title: "初音未来 歌姬计划 扩展版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH073 – 初音未来 歌姬计划 扩展版[简][DLC内封][PSP吧汉化组+腓特烈]"
+  - id: "PSPCH074"
+    title: "初音未来 歌姬计划2nd"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH074 – 初音未来 歌姬计划2nd[简][DLC内封][PSP吧汉化组+腓特烈]"
+  - id: "PSPCH075"
+    title: "初音未来 歌姬计划2nd"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+      - "特惠版"
+    raw: "PSPCH075 – 初音未来 歌姬计划2nd(特惠版)[简][DLC内封][PSP吧汉化组+腓特烈]"
+  - id: "PSPCH076"
+    title: "初音之歌 铃音之声 C75"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "中文版"
+    raw: "PSPCH076 – 初音之歌 铃音之声 C75[中文版]"
+  - id: "PSPCH077"
+    title: "传颂之物 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "澄空学园"
+      - "模拟器版"
+    raw: "PSPCH077 – 传颂之物 携带版 (模拟器版) [简][澄空学园]"
+  - id: "PSPCH078"
+    title: "传颂之物 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "澄空学园"
+    raw: "PSPCH078 – 传颂之物 携带版 [简][澄空学园]"
+  - id: "PSPCH079"
+    title: "纯白交响曲"
+    language: null
+    groups:
+      - "杏子御津爱护同好会联合汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH079 – 纯白交响曲[v1.1][杏子御津爱护同好会联合汉化组]"
+  - id: "PSPCH080"
+    title: "刺客信条 血缘"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH080 – 刺客信条 血缘 [简][Play汉化组]"
+  - id: "PSPCH081"
+    title: "紧急出口"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "原亿盟电玩汉化"
+      - "脱逃大师"
+    raw: "PSPCH081 – 紧急出口(脱逃大师)[简][原亿盟电玩汉化]"
+  - id: "PSPCH082"
+    title: "大航海时代IV"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "大航海爱好者"
+    raw: "PSPCH082 – 大航海时代IV [简][大航海爱好者]"
+  - id: "PSPCH083"
+    title: "大江户千两箱"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "愚人节汉化测试版"
+      - "付众杰&大便纸&拉拉★王"
+    raw: "PSPCH083 – 大江户千两箱 [繁体][愚人节汉化测试版][付众杰&大便纸&拉拉★王]"
+  - id: "PSPCH084"
+    title: "大空军"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH084 – 大空军 [简][CG汉化组]"
+  - id: "PSPCH085"
+    title: "大骑士物语"
+    language: null
+    groups:
+      - "扑家汉化组"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "V2修正版"
+      - "圣骑士物语"
+    raw: "PSPCH085 – 大骑士物语(圣骑士物语)[V2修正版][扑家汉化组]"
+  - id: "PSPCH086"
+    title: "大众高尔夫 携带版2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游鱼汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH086 – 大众高尔夫 携带版2 [简][游鱼汉化组]"
+  - id: "PSPCH087"
+    title: "大众网球"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH087 – 大众网球 [繁] [官方中文版][SONY]"
+  - id: "PSPCH088"
+    title: "但丁的地狱"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "huaixiaozi6"
+    raw: "PSPCH088 – 但丁的地狱 [简][huaixiaozi6]"
+  - id: "PSPCH089"
+    title: "弹丸论破 希望的学园和绝望的高中生"
+    language:
+      - "zh-Hans"
+    groups:
+      - "弹丸轮舞吧"
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH089 – 弹丸论破 希望的学园和绝望的高中生 [简][弹丸轮舞吧&扑家汉化组]"
+  - id: "PSPCH090"
+    title: "蛋糕成堆 简体中文汉化版"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH090 – 蛋糕成堆 简体中文汉化版[ACG汉化组]"
+  - id: "PSPCH091"
+    title: "刀剑神域 无限的瞬间"
+    language:
+      - "zh-Hans"
+    groups:
+      - "K1"
+      - "扑家汉化组"
+      - "清羽"
+    official: null
+    version:
+      - "v1.01"
+    disc: null
+    notes:
+      - "汉化v1.01最终版"
+      - "DLC"
+    raw: "PSPCH091 – 刀剑神域 无限的瞬间[汉化v1.01最终版][简][DLC][K1+扑家汉化组+清羽]"
+  - id: "PSPCH092"
+    title: "德贝赛马时代"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "愚人节汉化测试版"
+      - "付众杰&大便纸&拉拉★王"
+    raw: "PSPCH092 – 德贝赛马时代 [繁体][愚人节汉化测试版][付众杰&大便纸&拉拉★王]"
+  - id: "PSPCH093"
+    title: "德古拉 亡灵复苏 简体中文版"
+    language: null
+    groups:
+      - "CGTP汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH093 – 德古拉 亡灵复苏 简体中文版[CGTP汉化组]"
+  - id: "PSPCH094"
+    title: "抵抗 惩罚"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "不完美汉化版"
+    raw: "PSPCH094 – 抵抗 惩罚[不完美汉化版][ACG汉化组]"
+  - id: "PSPCH095"
+    title: "地狱犬计划"
+    language:
+      - "zh-Hans"
+    groups:
+      - "And汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH095 – 地狱犬计划 [简][And汉化组]"
+  - id: "PSPCH096"
+    title: "第二次超级机器人大战Z 破界篇"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "星组"
+    raw: "PSPCH096 – 第二次超级机器人大战Z 破界篇 [繁][星组]"
+  - id: "PSPCH097"
+    title: "第二次超级机器人大战Z 破界篇"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "星组"
+    raw: "PSPCH097 – 第二次超级机器人大战Z 破界篇 [简][星组]"
+  - id: "PSPCH098"
+    title: "第七龙神2020"
+    language:
+      - "zh-Hant"
+    groups:
+      - "7thDragon2020临时汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH098 – 第七龙神2020 [繁][7thDragon2020临时汉化组]"
+  - id: "PSPCH099"
+    title: "第七龙神2020"
+    language:
+      - "zh-Hans"
+    groups:
+      - "7thDragon2020临时汉化组"
+    official: null
+    version:
+      - "v1.20"
+    disc: null
+    notes:
+      - "v1.20剧情润色"
+    raw: "PSPCH099 – 第七龙神2020[v1.20剧情润色][简][7thDragon2020临时汉化组]"
+  - id: "PSPCH100"
+    title: "第七龙神2020-2"
+    language:
+      - "zh-Hant"
+    groups:
+      - "7thDragon2020临时汉化组"
+    official: null
+    version:
+      - "v1.7"
+    disc: null
+    notes:
+      - "v1.7"
+    raw: "PSPCH100 – 第七龙神2020-2[v1.7][繁][7thDragon2020临时汉化组]"
+  - id: "PSPCH101"
+    title: "第七龙神2020-2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "7thDragon2020临时汉化组"
+    official: null
+    version:
+      - "v1.7"
+    disc: null
+    notes:
+      - "v1.7"
+    raw: "PSPCH101 – 第七龙神2020-2[v1.7][简][7thDragon2020临时汉化组]"
+  - id: "PSPCH102"
+    title: "第三次生日 寄生前夜3 全剧情汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "电玩巴士&DNR"
+    raw: "PSPCH102 – 第三次生日 寄生前夜3 全剧情汉化版[电玩巴士&DNR]"
+  - id: "PSPCH103"
+    title: "电击的皮罗德 天空之绊"
+    language:
+      - "zh-Hans"
+    groups:
+      - "恶魔岛汉化组"
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH103 – 电击的皮罗德 天空之绊 [简][恶魔岛汉化组&CG汉化组]"
+  - id: "PSPCH104"
+    title: "订购吧 我们的世界!"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH104 – 订购吧 我们的世界! [简][CG汉化组]"
+  - id: "PSPCH105"
+    title: "东方雀神"
+    language: null
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH105 – 东方雀神[官中]"
+  - id: "PSPCH106"
+    title: "东京鬼祓师 鸦乃杜学园奇谭"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH106 – 东京鬼祓师 鸦乃杜学园奇谭 [简][ACG汉化组]"
+  - id: "PSPCH107"
+    title: "冬季恋歌 携带版"
+    language: null
+    groups:
+      - "SNOW携带版汉化委员会"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "RC3汉化版"
+      - "菜单繁体文本简体"
+    raw: "PSPCH107 – 冬季恋歌 携带版 [RC3汉化版][SNOW携带版汉化委员会](菜单繁体文本简体)"
+  - id: "PSPCH108"
+    title: "冬季恋歌 携带版"
+    language: null
+    groups:
+      - "心速汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH108 – 冬季恋歌 携带版 [心速汉化组]"
+  - id: "PSPCH109"
+    title: "冬季恋歌 携带版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "MS2+汉化版"
+      - "龙神传承组"
+    raw: "PSPCH109 – 冬季恋歌 携带版[MS2+汉化版][龙神传承组]"
+  - id: "PSPCH110"
+    title: "恶代官漫游记 正义之刃"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH110 – 恶代官漫游记 正义之刃 [简][Play汉化组]"
+  - id: "PSPCH111"
+    title: "恶魔城X历代记"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化测试版"
+      - "中国恶魔城联盟"
+    raw: "PSPCH111 – 恶魔城X历代记[汉化测试版][中国恶魔城联盟]"
+  - id: "PSPCH112"
+    title: "发明工坊"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH112 – 发明工坊[简体中文版][苏帕尔莎汉化组]"
+  - id: "PSPCH113"
+    title: "翻译精灵"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH113 – 翻译精灵 [繁] [官方中文版][SONY]"
+  - id: "PSPCH114"
+    title: "翻译精灵 欧洲语言"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+      - "Soft Tantaiban"
+    raw: "PSPCH114 – 翻译精灵 欧洲语言(Soft Tantaiban) [繁] [官方中文版][SONY]"
+  - id: "PSPCH115"
+    title: "方块精灵]"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "[Moyanchina"
+    raw: "PSPCH115 – 方块精灵[[Moyanchina]]"
+  - id: "PSPCH116"
+    title: "绯色的碎片 携带版"
+    language: null
+    groups:
+      - "翼之梦汉化组"
+    official: null
+    version:
+      - "v1.01"
+    disc: null
+    notes:
+      - "v1.01"
+    raw: "PSPCH116 – 绯色的碎片 携带版 [v1.01][翼之梦汉化组]"
+  - id: "PSPCH117"
+    title: "绯色的碎片3 苍黑之楔 携带版"
+    language: null
+    groups:
+      - "游戏饭饭汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH117 – 绯色的碎片3 苍黑之楔 携带版 [v1.1][游戏饭饭汉化组]"
+  - id: "PSPCH118"
+    title: "绯色流星 携带版"
+    language: null
+    groups:
+      - "游戏饭饭汉化组"
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2"
+    raw: "PSPCH118 – 绯色流星 携带版 [v1.2][游戏饭饭汉化组]"
+  - id: "PSPCH119"
+    title: "富豪街勇者斗恶龙与最终幻想 V0.1"
+    language:
+      - "zh-Hant"
+    groups:
+      - "NeoCore汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "人生街道 DQ & FF角色大集合"
+    raw: "PSPCH119 – 富豪街勇者斗恶龙与最终幻想(人生街道 DQ & FF角色大集合) V0.1 [繁][NeoCore汉化组]"
+  - id: "PSPCH120"
+    title: "高达 生存突击"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "V3"
+    disc: null
+    notes:
+      - "V3"
+      - "突击幸存者"
+    raw: "PSPCH120 – 高达 生存突击(突击幸存者)[V3][ACG汉化组]"
+  - id: "PSPCH121"
+    title: "高达 战斗宇宙"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "不明"
+    raw: "PSPCH121 – 高达 战斗宇宙 [繁][不明]"
+  - id: "PSPCH122"
+    title: "高达混战"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "Xinyu"
+    raw: "PSPCH122 – 高达混战 [ACG汉化组][Xinyu]"
+  - id: "PSPCH123"
+    title: "高达战争 战术对决"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "木棉Z"
+    raw: "PSPCH123 – 高达战争 战术对决[繁][木棉Z]"
+  - id: "PSPCH124"
+    title: "给牺牲者的通告 第一卷"
+    language:
+      - "zh-Hans"
+    groups:
+      - "千夏汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH124 – 给牺牲者的通告 第一卷 [简][千夏汉化组]"
+  - id: "PSPCH125"
+    title: "公主同盟"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "1.1"
+      - "公主联盟"
+    raw: "PSPCH125 – 公主同盟(公主联盟) [1.1][简][ACG汉化组]"
+  - id: "PSPCH126"
+    title: "咕噜小天使 V1.0"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH126 – 咕噜小天使 V1.0 [简][CG汉化组]"
+  - id: "PSPCH127"
+    title: "怪物猎人 携带版"
+    language:
+      - "zh-Hant"
+    groups:
+      - "PSP部落"
+      - "CNGBA联合汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH127 – 怪物猎人 携带版 [繁体][PSP部落&CNGBA联合汉化]"
+  - id: "PSPCH128"
+    title: "怪物猎人 携带版2 汉化豪华版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina&雷神汉化"
+    raw: "PSPCH128 – 怪物猎人 携带版2 汉化豪华版 [繁][PSPChina&雷神汉化]"
+  - id: "PSPCH129"
+    title: "怪物猎人 携带版2nd G"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH129 – 怪物猎人 携带版2nd G [繁][CG汉化组]"
+  - id: "PSPCH130"
+    title: "怪物猎人 携带版2nd G V1.6"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina&雷神汉化"
+    raw: "PSPCH130 – 怪物猎人 携带版2nd G V1.6 [繁][PSPChina&雷神汉化]"
+  - id: "PSPCH131"
+    title: "怪物猎人 携带版2nd G V4"
+    language:
+      - "zh-Hant"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH131 – 怪物猎人 携带版2nd G V4 [繁][巴士汉化组]"
+  - id: "PSPCH132"
+    title: "怪物猎人 携带版2nd G V4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH132 – 怪物猎人 携带版2nd G V4 [简][巴士汉化组]"
+  - id: "PSPCH133"
+    title: "怪物猎人 携带版2nd G"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+      - "巴士汉化组"
+      - "ssyy11521"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "完全汉化润化版"
+    raw: "PSPCH133 – 怪物猎人 携带版2nd G[完全汉化润化版][简][CG汉化组+巴士汉化组+ssyy11521]"
+  - id: "PSPCH134"
+    title: "怪物猎人3rd 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH134 – 怪物猎人3rd 携带版 [简][ACG汉化组]"
+  - id: "PSPCH135"
+    title: "怪物猎人3rd 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH135 – 怪物猎人3rd 携带版 [简][Play汉化组]"
+  - id: "PSPCH136"
+    title: "怪物猎人P3 HD 汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSP模拟器专用 不建议实机运行"
+    raw: "PSPCH136 – 怪物猎人P3 HD 汉化版[PSP模拟器专用 不建议实机运行]"
+  - id: "PSPCH137"
+    title: "怪物猎人日记 暖洋洋的猫猫村"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH137 – 怪物猎人日记 暖洋洋的猫猫村 [简][ACG汉化组]"
+  - id: "PSPCH138"
+    title: "怪物猎人日记 暖洋洋的猫猫村G"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH138 – 怪物猎人日记 暖洋洋的猫猫村G [v2][简][ACG汉化组]"
+  - id: "PSPCH139"
+    title: "怪物塔防"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "元素怪兽"
+    raw: "PSPCH139 – 怪物塔防(元素怪兽)"
+  - id: "PSPCH140"
+    title: "官能昔话 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "CJ寺院家族"
+    raw: "PSPCH140 – 官能昔话 携带版 [简][CJ寺院家族]"
+  - id: "PSPCH141"
+    title: "光明之刃"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH141 – 光明之刃 [v2][简][ACG汉化组]"
+  - id: "PSPCH142"
+    title: "光明之舟"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH142 – 光明之舟 [简][ACG汉化组]"
+  - id: "PSPCH143"
+    title: "诡计对逻辑-第一季"
+    language:
+      - "zh-Hans"
+    groups:
+      - "汉化过场字幕"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "udavid"
+    raw: "PSPCH143 – 诡计对逻辑-第一季 [简][汉化过场字幕][udavid]"
+  - id: "PSPCH144"
+    title: "鬼魂力量 遗产"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH144 – 鬼魂力量 遗产 [简][扑家汉化组]"
+  - id: "PSPCH145"
+    title: "鬼哭街"
+    language:
+      - "zh-Hans"
+    groups:
+      - "萌乃妹汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH145 – 鬼哭街[简体中文][萌乃妹汉化组]"
+  - id: "PSPCH146"
+    title: "海猫鸣泣之时1 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH146 – 海猫鸣泣之时1 携带版 [简][苏帕尔莎汉化组]"
+  - id: "PSPCH147"
+    title: "海猫鸣泣之时2 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH147 – 海猫鸣泣之时2 携带版 [简][苏帕尔莎汉化组]"
+  - id: "PSPCH148"
+    title: "寒蝉鸣泣之时 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH148 – 寒蝉鸣泣之时 携带版 [简][CG汉化组]"
+  - id: "PSPCH149"
+    title: "撼天神塔 黑暗回归"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH149 – 撼天神塔 黑暗回归 [简][CG汉化组]"
+  - id: "PSPCH150"
+    title: "合金装备 和平行者"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+      - "DLC"
+    raw: "PSPCH150 – 合金装备 和平行者[v1.1][DLC][简][PSP吧汉化组]"
+  - id: "PSPCH151"
+    title: "合金装备 掌上行动"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH151 – 合金装备 掌上行动 [简][CG汉化组]"
+  - id: "PSPCH152"
+    title: "黑白棋大战"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "注释汉化版"
+    raw: "PSPCH152 – 黑白棋大战 [注释汉化版]"
+  - id: "PSPCH153"
+    title: "虹吸战士 洛根之影"
+    language: null
+    groups:
+      - "个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "剧情汉化版"
+    raw: "PSPCH153 – 虹吸战士 洛根之影[剧情汉化版][个人汉化]"
+  - id: "PSPCH154"
+    title: "互动剧场 季节拥抱"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH154 – 互动剧场 季节拥抱 [繁] [官方中文版][SONY]"
+  - id: "PSPCH155"
+    title: "互动剧场 茉莉花"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH155 – 互动剧场 茉莉花 [繁] [官方中文版][SONY]"
+  - id: "PSPCH156"
+    title: "互动剧场 双重角色"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH156 – 互动剧场 双重角色 [繁] [官方中文版][SONY]"
+  - id: "PSPCH157"
+    title: "互动剧场 雪割花"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH157 – 互动剧场 雪割花 [繁] [官方中文版][SONY]"
+  - id: "PSPCH158"
+    title: "互动剧场 最后的吸血鬼"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH158 – 互动剧场 最后的吸血鬼 [繁] [官方中文版][SONY]"
+  - id: "PSPCH159"
+    title: "花吻"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "中文版"
+    raw: "PSPCH159 – 花吻[中文版]"
+  - id: "PSPCH160"
+    title: "花吻2 重装豪华版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH160 – 花吻2 重装豪华版[繁体中文版]"
+  - id: "PSPCH161"
+    title: "欢迎来到绵羊村 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH161 – 欢迎来到绵羊村 携带版 [简][CG汉化组]"
+  - id: "PSPCH162"
+    title: "幻想传说"
+    language: null
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "全程语音整合汉化版Extra"
+    raw: "PSPCH162 – 幻想传说[全程语音整合汉化版Extra][CG汉化组]"
+  - id: "PSPCH163"
+    title: "幻想传说X 换装迷宫 简单汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH163 – 幻想传说X 换装迷宫 简单汉化版"
+  - id: "PSPCH164"
+    title: "幻想国物语 可可利亚王国"
+    language:
+      - "zh-Hans"
+    groups:
+      - "玩家网汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH164 – 幻想国物语 可可利亚王国 [简][玩家网汉化组]"
+  - id: "PSPCH165"
+    title: "幻想国物语3 那鲁鲁王国"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH165 – 幻想国物语3 那鲁鲁王国[简][DLC内封][ACG汉化组+腓特烈]"
+  - id: "PSPCH166"
+    title: "幻想水浒传 编织百年时光"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH166 – 幻想水浒传 编织百年时光 [简][扑家汉化组]"
+  - id: "PSPCH167"
+    title: "幻想水浒传1+2"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化测试版"
+      - "WGF"
+    raw: "PSPCH167 – 幻想水浒传1+2[汉化测试版][简][WGF]"
+  - id: "PSPCH168"
+    title: "换装大战 强化"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH168 – 换装大战 强化 [简][PSP吧汉化组]"
+  - id: "PSPCH169"
+    title: "荒野兵器 交叉火力"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH169 – 荒野兵器 交叉火力 [简][CG汉化组]"
+  - id: "PSPCH170"
+    title: "皇家骑士团 命运之轮 典藏版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "3DLC"
+    raw: "PSPCH170 – 皇家骑士团 命运之轮 典藏版[3DLC][简][Play汉化组]"
+  - id: "PSPCH171"
+    title: "皇牌空战 X 诡影苍穹 内部最终修正版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina&雷神汉化"
+    raw: "PSPCH171 – 皇牌空战 X 诡影苍穹 内部最终修正版 [繁][PSPChina&雷神汉化]"
+  - id: "PSPCH172"
+    title: "皇牌空战X2 联合攻击"
+    language:
+      - "zh-Hans"
+    groups:
+      - "A9AF汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH172 – 皇牌空战X2 联合攻击 [简][A9AF汉化组]"
+  - id: "PSPCH173"
+    title: "回转逆转变色龙"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Star Fish"
+    raw: "PSPCH173 – 回转逆转变色龙 [繁] [官方中文版][Star Fish]"
+  - id: "PSPCH174"
+    title: "混沌时代6"
+    language: null
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH174 – 混沌时代6[苏帕尔莎汉化组]"
+  - id: "PSPCH175"
+    title: "混沌之脑 LOVE ChuChu携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "妹乃萌汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH175 – 混沌之脑 LOVE ChuChu携带版[简体中文汉化版][妹乃萌汉化组]"
+  - id: "PSPCH176"
+    title: "机动战士高达 战斗编年史"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina"
+      - "高达战争编年史"
+    raw: "PSPCH176 – 机动战士高达 战斗编年史(高达战争编年史) [繁][PSPChina]"
+  - id: "PSPCH177"
+    title: "机密武装"
+    language:
+      - "zh-Hans"
+    groups:
+      - "GC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH177 – 机密武装 [简][GC汉化组]"
+  - id: "PSPCH178"
+    title: "激斗传说"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "激斗传说"
+    raw: "PSPCH178 – 激斗传说(激斗传说) [简][CG汉化组]"
+  - id: "PSPCH179"
+    title: "即刻出阵 恋战 v1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "DA"
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH179 – 即刻出阵 恋战 v1.1 [简][DA&扑家汉化组]"
+  - id: "PSPCH180"
+    title: "寄生前夜 第三次生日"
+    language:
+      - "zh-Hans"
+    groups:
+      - "咸鱼汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1完全汉化版"
+    raw: "PSPCH180 – 寄生前夜 第三次生日 [简][v1.1完全汉化版][咸鱼汉化组]"
+  - id: "PSPCH181"
+    title: "寂静岭 破碎的记忆"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH181 – 寂静岭 破碎的记忆 [简][ACG汉化组]"
+  - id: "PSPCH182"
+    title: "寂静岭 起源"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH182 – 寂静岭 起源 [简][巴士汉化组]"
+  - id: "PSPCH183"
+    title: "加雷特编年史 红辉的魔石"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "亚斯特尼西雅物语2"
+    raw: "PSPCH183 – 加雷特编年史 红辉的魔石(亚斯特尼西雅物语2)[简][扑家汉化组]"
+  - id: "PSPCH184"
+    title: "家庭教师_HR_战斗竞技场"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "剧情汉化版"
+    raw: "PSPCH184 – 家庭教师_HR_战斗竞技场[剧情汉化版]"
+  - id: "PSPCH185"
+    title: "家庭星空 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CNGBA汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "行星仪"
+    raw: "PSPCH185 – 家庭星空(行星仪) 携带版 [简][CNGBA汉化组]"
+  - id: "PSPCH186"
+    title: "简单2000系列 Vol.1 麻将 图片汉化版"
+    language: null
+    groups:
+      - "And汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH186 – 简单2000系列 Vol.1 麻将 图片汉化版[And汉化组]"
+  - id: "PSPCH187"
+    title: "剑斗士 起源"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+      - "Thekingdom"
+      - "腓特烈"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "V2汉化+DLC汉化内封"
+    raw: "PSPCH187 – 剑斗士 起源[V2汉化+DLC汉化内封][简体][ACG汉化组+Thekingdom+腓特烈]"
+  - id: "PSPCH188"
+    title: "剑舞者 千年之约定"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH188 – 剑舞者 千年之约定 [繁] [官方中文版][SONY]"
+  - id: "PSPCH189"
+    title: "金色的琴弦2f"
+    language: null
+    groups:
+      - "翼之梦汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH189 – 金色的琴弦2f[翼之梦汉化组]"
+  - id: "PSPCH190"
+    title: "金色琴弦2F 安可"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH190 – 金色琴弦2F 安可[简][心游汉化组]"
+  - id: "PSPCH191"
+    title: "紧急出口2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "不明"
+      - "脱逃大师2"
+    raw: "PSPCH191 – 紧急出口2(脱逃大师2) [繁][不明]"
+  - id: "PSPCH192"
+    title: "进攻!防守!战斗!"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "幽风&暴走硒&穿云之光&风魔"
+    raw: "PSPCH192 – 进攻!防守!战斗! [幽风&暴走硒&穿云之光&风魔]"
+  - id: "PSPCH193"
+    title: "劲舞团 携带版 V0.49 ]"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "[Moyanchina"
+    raw: "PSPCH193 – 劲舞团 携带版 V0.49 [简][[Moyanchina]]"
+  - id: "PSPCH194"
+    title: "经典迷宫 扶翼的魔装阵"
+    language:
+      - "zh-Hans"
+    groups:
+      - "AGC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH194 – 经典迷宫 扶翼的魔装阵 [简][AGC汉化组]"
+  - id: "PSPCH195"
+    title: "就算要我努力工作"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "V3"
+    disc: null
+    notes:
+      - "V3+DLC内封"
+    raw: "PSPCH195 – 就算要我努力工作[简][V3+DLC内封][ACG汉化组+腓特烈]"
+  - id: "PSPCH196"
+    title: "就算要我努力工作乙"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "v2"
+      - "v1.01"
+    disc: null
+    notes:
+      - "汉化版v2+DLC内封"
+      - "集成v1.01补丁"
+    raw: "PSPCH196 – 就算要我努力工作乙[简][汉化版v2+DLC内封][集成v1.01补丁][ACG汉化组+腓特烈]"
+  - id: "PSPCH197"
+    title: "绝对迷宫格林童话 七把钥匙与乐园的少女"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH197 – 绝对迷宫格林童话 七把钥匙与乐园的少女 [简][扑家汉化组]"
+  - id: "PSPCH198"
+    title: "绝对英雄改造计划"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "梦幻执迷"
+    raw: "PSPCH198 – 绝对英雄改造计划 [简][梦幻执迷]"
+  - id: "PSPCH199"
+    title: "绝体绝命都市3"
+    language:
+      - "zh-Hans"
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2汉化"
+    raw: "PSPCH199 – 绝体绝命都市3[v2汉化][简繁][CG汉化组]"
+  - id: "PSPCH200"
+    title: "凯蒂猫的快乐装饰简体中文汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH200 – 凯蒂猫的快乐装饰简体中文汉化版"
+  - id: "PSPCH201"
+    title: "凯蒂猫方块冲击123"
+    language:
+      - "zh-Hans"
+    groups:
+      - "AND汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH201 – 凯蒂猫方块冲击123 [简][AND汉化组]"
+  - id: "PSPCH202"
+    title: "科学超电磁炮"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH202 – 科学超电磁炮[简][DLC内封][苏帕尔莎汉化组+腓特烈]"
+  - id: "PSPCH203"
+    title: "克兰娜德 被光守护的坡道 全卷"
+    language: null
+    groups:
+      - "PSP吧汉化组"
+      - "CLANNAD吧"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH203 – 克兰娜德 被光守护的坡道 全卷 [PSP吧汉化组&CLANNAD吧]"
+  - id: "PSPCH204"
+    title: "克兰娜德 被光守护的坡道 上卷"
+    language: null
+    groups:
+      - "PSP吧汉化组"
+      - "CLANNAD吧"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "章节名称未汉化"
+    raw: "PSPCH204 – 克兰娜德 被光守护的坡道 上卷 [PSP吧汉化组&CLANNAD吧](章节名称未汉化)"
+  - id: "PSPCH205"
+    title: "克兰娜德 光芒守护的小镇 上卷"
+    language: null
+    groups:
+      - "多玩AND汉化组"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "完美汉化V2版"
+    raw: "PSPCH205 – 克兰娜德 光芒守护的小镇 上卷[完美汉化V2版][多玩AND汉化组]"
+  - id: "PSPCH206"
+    title: "克兰娜德 光芒守护的小镇 下卷"
+    language: null
+    groups:
+      - "PSP吧汉化组"
+      - "CLANNAD吧联合汉化"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "完美汉化版"
+    raw: "PSPCH206 – 克兰娜德 光芒守护的小镇 下卷[完美汉化版][PSP吧汉化组&CLANNAD吧联合汉化]"
+  - id: "PSPCH207"
+    title: "克兰娜德 全卷"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2汉化版"
+    raw: "PSPCH207 – 克兰娜德 全卷[v1.2汉化版][简][CG汉化组]"
+  - id: "PSPCH208"
+    title: "克兰娜德 上卷"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH208 – 克兰娜德 上卷[简][CG汉化组]"
+  - id: "PSPCH209"
+    title: "克兰娜德 下卷"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH209 – 克兰娜德 下卷[简][CG汉化组]"
+  - id: "PSPCH210"
+    title: "克鲁顿方块"
+    language: null
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH210 – 克鲁顿方块[官方中文版]"
+  - id: "PSPCH211"
+    title: "刻痕 II"
+    language: null
+    groups:
+      - "个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH211 – 刻痕 II[个人汉化]"
+  - id: "PSPCH212"
+    title: "库特Wafter 修改版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Wafter汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH212 – 库特Wafter 修改版 [简][Wafter汉化组]"
+  - id: "PSPCH213"
+    title: "跨越真实[翼之梦汉化组V1.0"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH213 – 跨越真实[简体中文版][翼之梦汉化组V1.0"
+  - id: "PSPCH214"
+    title: "困兽骑士 汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH214 – 困兽骑士 汉化版"
+  - id: "PSPCH215"
+    title: "兰岛物语 少女的约定 存档修正版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH215 – 兰岛物语 少女的约定 存档修正版[繁体中文版]"
+  - id: "PSPCH216"
+    title: "蓝色玫瑰 妖精和青眼的战士"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH216 – 蓝色玫瑰 妖精和青眼的战士 [简][Play汉化组]"
+  - id: "PSPCH217"
+    title: "乐克乐克"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH217 – 乐克乐克 [繁] [官方中文版][SONY]"
+  - id: "PSPCH218"
+    title: "乐克乐克 午夜狂欢节"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH218 – 乐克乐克 午夜狂欢节[繁体中文版]"
+  - id: "PSPCH219"
+    title: "乐克乐克2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH219 – 乐克乐克2 [繁] [官方中文版][SONY]"
+  - id: "PSPCH220"
+    title: "离子射线++"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH220 – 离子射线++ [简][CG汉化组]"
+  - id: "PSPCH221"
+    title: "廉价2500系列 Portable Vol.13 THE恶魔猎人 驱魔圣女 剧情汉化版"
+    language: null
+    groups:
+      - "个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH221 – 廉价2500系列 Portable Vol.13 THE恶魔猎人 驱魔圣女 剧情汉化版[个人汉化]"
+  - id: "PSPCH222"
+    title: "廉价2500系列Vol.5 打砖块 龙之王国"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "SCE"
+    raw: "PSPCH222 – 廉价2500系列Vol.5 打砖块 龙之王国 [简][SCE]"
+  - id: "PSPCH223"
+    title: "廉价2500系列Vol.13 恶魔猎人 驱魔圣女"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH223 – 廉价2500系列Vol.13 恶魔猎人 驱魔圣女 [简][CG汉化组]"
+  - id: "PSPCH224"
+    title: "恋爱与选举与巧克力 携带版"
+    language:
+      - "zh-Hans"
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "简 繁体中文0.9版"
+      - "恋爱选举巧克力应援团"
+    raw: "PSPCH224 – 恋爱与选举与巧克力 携带版[简 繁体中文0.9版][恋爱选举巧克力应援团]"
+  - id: "PSPCH225"
+    title: "凉宫春日的约定 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH225 – 凉宫春日的约定 V1.1 [简][巴士汉化组]"
+  - id: "PSPCH226"
+    title: "凉宫春日的约定 V1.2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CGP汉化组"
+      - "华盟字幕组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH226 – 凉宫春日的约定 V1.2 [简][CGP汉化组&华盟字幕组]"
+  - id: "PSPCH227"
+    title: "凉宫春日的追忆"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH227 – 凉宫春日的追忆 [简][PSP吧汉化组]"
+  - id: "PSPCH228"
+    title: "灵魂触发者"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH228 – 灵魂触发者 [简][PSP吧汉化组]"
+  - id: "PSPCH229"
+    title: "流行之神2携带版 警视厅怪异事件档案 一话汉化版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游鱼汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH229 – 流行之神2携带版 警视厅怪异事件档案 一话汉化版 [简][游鱼汉化组]"
+  - id: "PSPCH230"
+    title: "流行之神3 警视厅怪异事件档案"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH230 – 流行之神3 警视厅怪异事件档案 [简][心游汉化组]"
+  - id: "PSPCH231"
+    title: "龙虎斗 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH231 – 龙虎斗 携带版 [简][v1.1][CG汉化组]"
+  - id: "PSPCH232"
+    title: "龙士传说 无限"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH232 – 龙士传说 无限[ACG汉化组]"
+  - id: "PSPCH233"
+    title: "龙战士 III"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH233 – 龙战士 III [简][PLAY汉化组]"
+  - id: "PSPCH234"
+    title: "龙之舞"
+    language: null
+    groups:
+      - "飞雪汉化组"
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0汉化版"
+    raw: "PSPCH234 – 龙之舞[v2.0汉化版][飞雪汉化组]"
+  - id: "PSPCH235"
+    title: "龙珠Z 真武道会2 V1.02"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH235 – 龙珠Z 真武道会2 V1.02 [简][Play汉化组]"
+  - id: "PSPCH236"
+    title: "露娜 银星和声"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "WGFWGF"
+    raw: "PSPCH236 – 露娜 银星和声 [简][WGFWGF]"
+  - id: "PSPCH237"
+    title: "萝莉的时间"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH237 – 萝莉的时间"
+  - id: "PSPCH238"
+    title: "萝球社 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "香菜汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH238 – 萝球社 V1.1 [简][香菜汉化组]"
+  - id: "PSPCH239"
+    title: "萝球社!秘密的失物"
+    language:
+      - "zh-Hans"
+    groups:
+      - "镜月铃音汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH239 – 萝球社!秘密的失物 [简][镜月铃音汉化组]"
+  - id: "PSPCH240"
+    title: "洛克人X 反乱猎人 最终汉化版"
+    language: null
+    groups:
+      - "OREZERO个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH240 – 洛克人X 反乱猎人 最终汉化版[OREZERO个人汉化]"
+  - id: "PSPCH241"
+    title: "洛克人洛克人"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Capcom"
+    raw: "PSPCH241 – 洛克人洛克人 [繁] [官方中文版][Capcom]"
+  - id: "PSPCH242"
+    title: "玛娜传奇 学园的炼金术士们 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH242 – 玛娜传奇 学园的炼金术士们 携带版 [简][PLAY汉化组]"
+  - id: "PSPCH243"
+    title: "漫画同人会 V1.10"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CK GAL中文化小组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH243 – 漫画同人会 V1.10 [简][CK GAL中文化小组]"
+  - id: "PSPCH244"
+    title: "梅泽由香里的简单围棋"
+    language: null
+    groups:
+      - "3DM电玩之里汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH244 – 梅泽由香里的简单围棋 [v1.1][3DM电玩之里汉化组]"
+  - id: "PSPCH245"
+    title: "萌坑之魔法使 中文版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH245 – 萌坑之魔法使 中文版"
+  - id: "PSPCH246"
+    title: "萌麻将"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH246 – 萌麻将 [简][CG汉化组]"
+  - id: "PSPCH247"
+    title: "萌妹梦工场EX 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "SOMA汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH247 – 萌妹梦工场EX 携带版 [简][PSP吧汉化组&SOMA汉化组]"
+  - id: "PSPCH248"
+    title: "梦幻骑士 V1.25"
+    language:
+      - "zh-Hans"
+    groups:
+      - "cogodo汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH248 – 梦幻骑士 V1.25 [简][cogodo汉化组]"
+  - id: "PSPCH249"
+    title: "梦幻之星2 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "V2"
+      - "全CG汉化"
+    raw: "PSPCH249 – 梦幻之星2 携带版 [V2][简][ACG汉化组](全CG汉化)"
+  - id: "PSPCH250"
+    title: "梦幻之星2 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "梦幻羽翼"
+    raw: "PSPCH250 – 梦幻之星2 携带版 [简][梦幻羽翼]"
+  - id: "PSPCH251"
+    title: "梦幻之星2 携带版 无限"
+    language: null
+    groups:
+      - "无限之星汉化组"
+    official: null
+    version:
+      - "v0.2"
+    disc: null
+    notes:
+      - "v0.2_β公测物品汉化先行版"
+    raw: "PSPCH251 – 梦幻之星2 携带版 无限 [v0.2_β公测物品汉化先行版][无限之星汉化组]"
+  - id: "PSPCH252"
+    title: "梦想灯笼"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPchina"
+    raw: "PSPCH252 – 梦想灯笼 [简][PSPchina]"
+  - id: "PSPCH253"
+    title: "迷失王国 魔窟的皇帝"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Goshow"
+    raw: "PSPCH253 – 迷失王国 魔窟的皇帝 [繁] [官方中文版][Goshow]"
+  - id: "PSPCH254"
+    title: "密室献祭 密室的祭品"
+    language: null
+    groups:
+      - "多玩And汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH254 – 密室献祭 密室的祭品[v1.0][多玩And汉化组]"
+  - id: "PSPCH255"
+    title: "密域奇魂 伊底亚传承"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+      - "密码之魂"
+    raw: "PSPCH255 – 密域奇魂 伊底亚传承(密码之魂) [繁] [官方中文版][SONY]"
+  - id: "PSPCH256"
+    title: "明日的世界"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH256 – 明日的世界"
+  - id: "PSPCH257"
+    title: "命运九重奏"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH257 – 命运九重奏 [简][心游汉化组]"
+  - id: "PSPCH258"
+    title: "命运石之门 比翼恋理的爱人"
+    language:
+      - "zh-Hans"
+    groups:
+      - "拉面研究所"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH258 – 命运石之门 比翼恋理的爱人 [简][拉面研究所]"
+  - id: "PSPCH259"
+    title: "命运石之门"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "斯坦因之门"
+      - "v1.1"
+      - "KFC特创组"
+    raw: "PSPCH259 – 命运石之门[斯坦因之门][v1.1][简体中文][KFC特创组]"
+  - id: "PSPCH260"
+    title: "命运之杖 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "囧萌汉化组"
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH260 – 命运之杖 携带版[简体中文版][囧萌汉化组&扑家汉化组]"
+  - id: "PSPCH261"
+    title: "模拟人生2 宠物当家"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "EA"
+    raw: "PSPCH261 – 模拟人生2 宠物当家 [繁] [官方中文版][EA]"
+  - id: "PSPCH262"
+    title: "模组世界赛车"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH262 – 模组世界赛车 [繁] [官方中文版][SONY]"
+  - id: "PSPCH263"
+    title: "魔法飞球 汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH263 – 魔法飞球 汉化版"
+  - id: "PSPCH264"
+    title: "魔法禁书目录"
+    language: null
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH264 – 魔法禁书目录[苏帕尔莎汉化组]"
+  - id: "PSPCH265"
+    title: "魔法少女奈叶A's 命运齿轮"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "奈叶小站&Leoheart plus STC"
+    raw: "PSPCH265 – 魔法少女奈叶A's 命运齿轮[繁][奈叶小站&Leoheart plus STC]"
+  - id: "PSPCH266"
+    title: "魔法少女奈叶A's 王牌之战 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "奈叶·不死鸟汉化组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1最终版"
+    raw: "PSPCH266 – 魔法少女奈叶A's 王牌之战 携带版[简][v1.1最终版][奈叶·不死鸟汉化组]"
+  - id: "PSPCH267"
+    title: "魔法少女小圆 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH267 – 魔法少女小圆 携带版 [简][Play汉化组]"
+  - id: "PSPCH268"
+    title: "魔法师传奇永恒 世界树与恋爱的魔法师"
+    language:
+      - "zh-Hans"
+    groups:
+      - "AUGUST 中文化委员会"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "附全特典"
+    raw: "PSPCH268 – 魔法师传奇永恒 世界树与恋爱的魔法师 [简][AUGUST 中文化委员会](附全特典)"
+  - id: "PSPCH269"
+    title: "魔鬼恋人 更多的血"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "魔鬼爱人"
+    raw: "PSPCH269 – 魔鬼恋人(魔鬼爱人) 更多的血[简][心游汉化组]"
+  - id: "PSPCH270"
+    title: "魔唤精灵 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH270 – 魔唤精灵 携带版 [简][ CG汉化组]"
+  - id: "PSPCH271"
+    title: "魔界战记 携带版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Nippon Ichi Software"
+    raw: "PSPCH271 – 魔界战记 携带版 [繁] [官方中文版][Nippon Ichi Software]"
+  - id: "PSPCH272"
+    title: "魔界战记 携带版 通信对战版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina"
+    raw: "PSPCH272 – 魔界战记 携带版 通信对战版 [简][PSPChina]"
+  - id: "PSPCH273"
+    title: "魔界战记2 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH273 – 魔界战记2 携带版[简体中文版][PC汉化组]"
+  - id: "PSPCH274"
+    title: "某魔术与科学的群奏活剧"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH274 – 某魔术与科学的群奏活剧 [简][苏帕尔莎汉化组]"
+  - id: "PSPCH275"
+    title: "牧场物语 蜜糖村和大家的愿望"
+    language:
+      - "zh-Hans"
+    groups:
+      - "GC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH275 – 牧场物语 蜜糖村和大家的愿望 [简][GC汉化组]"
+  - id: "PSPCH276"
+    title: "那由多之轨迹 v1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "嗜身之蛇汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH276 – 那由多之轨迹 v1.1[简][嗜身之蛇汉化组]"
+  - id: "PSPCH277"
+    title: "脑力锻炼 携带版2"
+    language: null
+    groups:
+      - "PC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "文本汉化版"
+      - "岛隆太教授监修 脑力训练者2"
+    raw: "PSPCH277 – 脑力锻炼 携带版2(岛隆太教授监修 脑力训练者2)[文本汉化版][PC汉化组]"
+  - id: "PSPCH278"
+    title: "鸟之诗 AIR"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH278 – 鸟之诗 AIR [简][巴士汉化组]"
+  - id: "PSPCH279"
+    title: "女皇之门 螺旋混沌 部分汉化修复版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "执行者NO.X"
+    raw: "PSPCH279 – 女皇之门 螺旋混沌 部分汉化修复版[繁][执行者NO.X]"
+  - id: "PSPCH280"
+    title: "女神异闻录3 携带版 v1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH280 – 女神异闻录3 携带版 v1.1[简][扑家汉化组]"
+  - id: "PSPCH281"
+    title: "偶像大师 闪耀祭典 奇妙旋律"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "TFO汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "v1.14"
+    disc: null
+    notes:
+      - "v1.14+DLC内封"
+    raw: "PSPCH281 – 偶像大师 闪耀祭典 奇妙旋律[简][v1.14+DLC内封][Play汉化组+TFO汉化组+腓特烈]"
+  - id: "PSPCH282"
+    title: "偶像大师 闪耀祭典 特殊音符"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "TFO汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1+DLC内封"
+    raw: "PSPCH282 – 偶像大师 闪耀祭典 特殊音符[简][v1.1+DLC内封][Play汉化组+TFO汉化组+腓特烈]"
+  - id: "PSPCH283"
+    title: "偶像大师 闪耀祭典 甜蜜音响"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "TFO汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "v1.04"
+    disc: null
+    notes:
+      - "v1.04+DLC内封"
+    raw: "PSPCH283 – 偶像大师 闪耀祭典 甜蜜音响[简][v1.04+DLC内封][Play汉化组+TFO汉化组+腓特烈]"
+  - id: "PSPCH284"
+    title: "偶像大师SP 思念之月"
+    language:
+      - "zh-Hans"
+    groups:
+      - "爱上电线杆的TFO汉化组"
+      - "腓特烈"
+    official: null
+    version:
+      - "v0.9"
+    disc: null
+    notes:
+      - "v0.9+DLC内封"
+    raw: "PSPCH284 – 偶像大师SP 思念之月[简][v0.9+DLC内封][爱上电线杆的TFO汉化组+腓特烈]"
+  - id: "PSPCH285"
+    title: "啪嗒砰"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH285 – 啪嗒砰 [繁] [官方中文版][SONY]"
+  - id: "PSPCH286"
+    title: "啪嗒砰2 咚锵"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH286 – 啪嗒砰2 咚锵 [繁] [官方中文版][SONY]"
+  - id: "PSPCH287"
+    title: "啪嗒砰3"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH287 – 啪嗒砰3[繁][官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH288"
+    title: "叛逆的鲁鲁修 失去的色彩"
+    language:
+      - "zh-Hans"
+    groups:
+      - "反逆的鲁鲁修汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH288 – 叛逆的鲁鲁修 失去的色彩 [简][反逆的鲁鲁修汉化组]"
+  - id: "PSPCH289"
+    title: "叛逆的鲁鲁修 失去的色彩 V2.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "创造奇迹的汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH289 – 叛逆的鲁鲁修 失去的色彩 V2.1 [简][创造奇迹的汉化组]"
+  - id: "PSPCH290"
+    title: "胖公主 蛋糕一把抓"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH290 – 胖公主 蛋糕一把抓 [繁] [官方中文版][SONY]"
+  - id: "PSPCH291"
+    title: "坡上台风 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "坂上台风汉化委员会"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH291 – 坡上台风 携带版 [简][坂上台风汉化委员会]"
+  - id: "PSPCH292"
+    title: "普利尼 俺当主角行吗"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游鱼汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH292 – 普利尼 俺当主角行吗[简][DLC内封][游鱼汉化组+腓特烈]"
+  - id: "PSPCH293"
+    title: "魔法少女奈叶A's 王牌之战 携带版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version:
+      - "v1.21"
+    disc: null
+    notes:
+      - "v1.21"
+    raw: "PSPCH293 – 魔法少女奈叶A's 王牌之战 携带版[繁][v1.21]"
+  - id: "PSPCH294"
+    title: "实况足球2014"
+    language:
+      - "zh-Hans"
+    groups:
+      - "WECG汉化组"
+    official: null
+    version:
+      - "v20220603"
+    disc: null
+    notes:
+      - "中文解说典藏版v20220603"
+    raw: "PSPCH294 – 实况足球2014[中文解说典藏版v20220603][简][WECG汉化组]"
+  - id: "PSPCH295"
+    title: "强袭魔女 白银之翼"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH295 – 强袭魔女 白银之翼 [简][ACG汉化组]"
+  - id: "PSPCH296"
+    title: "强袭魔女 白银之翼"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH296 – 强袭魔女 白银之翼 [简][苏帕尔莎汉化组]"
+  - id: "PSPCH297"
+    title: "青空下的约定 掌中乐园"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "澄空学园"
+    raw: "PSPCH297 – 青空下的约定 掌中乐园 [简][澄空学园]"
+  - id: "PSPCH298"
+    title: "轻音！放学后演唱会"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version:
+      - "v1.3"
+    disc: null
+    notes:
+      - "v1.3"
+    raw: "PSPCH298 – 轻音！放学后演唱会 [v1.3][简体中文版][Play汉化组]"
+  - id: "PSPCH299"
+    title: "秋叶原之旅"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH299 – 秋叶原之旅 [简][PSP吧汉化组]"
+  - id: "PSPCH300"
+    title: "秋叶原之旅 加强版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.01v2"
+    disc: null
+    notes:
+      - "v1.01v2"
+      - "银の契约者"
+    raw: "PSPCH300 – 秋叶原之旅 加强版[v1.01v2][简][银の契约者]"
+  - id: "PSPCH301"
+    title: "秋之回忆"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+      - "KIDSFC特创组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH301 – 秋之回忆 [简][CG汉化组 & KIDSFC特创组]"
+  - id: "PSPCH302"
+    title: "秋之回忆 誓约的记忆"
+    language:
+      - "zh-Hant"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH302 – 秋之回忆 誓约的记忆 [繁][PSP吧汉化组]"
+  - id: "PSPCH303"
+    title: "秋之回忆 誓约的记忆 两人的风流庵"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "KIDSFC特创组"
+    raw: "PSPCH303 – 秋之回忆 誓约的记忆 两人的风流庵 [简][KIDSFC特创组]"
+  - id: "PSPCH304"
+    title: "秋之回忆 雨后"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CK GAL中文化小组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "简体Bate版"
+    raw: "PSPCH304 – 秋之回忆 雨后[简体Bate版][CK GAL中文化小组]"
+  - id: "PSPCH305"
+    title: "秋之回忆2nd"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+      - "KIDSFC特创组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH305 – 秋之回忆2nd [简][CG汉化组 & KIDSFC特创组]"
+  - id: "PSPCH306"
+    title: "秋之回忆3 想君"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH306 – 秋之回忆3 想君 [简][CG汉化组]"
+  - id: "PSPCH307"
+    title: "秋之回忆4 从今以后"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH307 – 秋之回忆4 从今以后 [简][CG汉化组]"
+  - id: "PSPCH308"
+    title: "秋之回忆4 从今以后Again"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "KIDSFC特创组"
+    raw: "PSPCH308 – 秋之回忆4 从今以后Again [简][KIDSFC特创组]"
+  - id: "PSPCH309"
+    title: "秋之回忆5"
+    language:
+      - "zh-Hans"
+    groups:
+      - "KIDSFC特创组"
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH309 – 秋之回忆5 [简][KIDSFC特创组&CG汉化组]"
+  - id: "PSPCH310"
+    title: "秋之回忆5 安可"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "KIDSFC特创组"
+    raw: "PSPCH310 – 秋之回忆5 安可 [简][KIDSFC特创组]"
+  - id: "PSPCH311"
+    title: "秋之回忆6 三角波澜"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "KIDSFC特创组"
+    raw: "PSPCH311 – 秋之回忆6 三角波澜 [简][KIDSFC特创组]"
+  - id: "PSPCH312"
+    title: "秋之回忆6 下一篇章 汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "KFC特创组"
+    raw: "PSPCH312 – 秋之回忆6 下一篇章 汉化版[KFC特创组]"
+  - id: "PSPCH313"
+    title: "去北方"
+    language: null
+    groups:
+      - "个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "完美终结版"
+    raw: "PSPCH313 – 去北方[完美终结版][个人汉化]"
+  - id: "PSPCH314"
+    title: "全民都爽快"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+      - "大家的狂欢节"
+    raw: "PSPCH314 – 全民都爽快(大家的狂欢节) [繁] [官方中文版][SONY]"
+  - id: "PSPCH315"
+    title: "全职猎人 奇迹冒险"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH315 – 全职猎人 奇迹冒险[简体中文版][CG汉化组]"
+  - id: "PSPCH316"
+    title: "忍道 焰"
+    language:
+      - "zh-Hant"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version:
+      - "v1"
+    disc: null
+    notes:
+      - "v1"
+    raw: "PSPCH316 – 忍道 焰 [v1][繁][巴士汉化组]"
+  - id: "PSPCH317"
+    title: "融合方块"
+    language: null
+    groups:
+      - "CG汉化组sis速汉队"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH317 – 融合方块 [CG汉化组sis速汉队]"
+  - id: "PSPCH318"
+    title: "三国将星传 中原之霸者"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "雷神汉化"
+    raw: "PSPCH318 – 三国将星传 中原之霸者[繁][雷神汉化]"
+  - id: "PSPCH319"
+    title: "三国将星传 中原之霸者"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化修正版"
+      - "雷神汉化"
+    raw: "PSPCH319 – 三国将星传 中原之霸者[汉化修正版][简][雷神汉化]"
+  - id: "PSPCH320"
+    title: "三国志5"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH320 – 三国志5 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH321"
+    title: "三国志6"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH321 – 三国志6 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH322"
+    title: "三国志7 V1.2"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "疾风劲草"
+    raw: "PSPCH322 – 三国志7 V1.2 [简][疾风劲草]"
+  - id: "PSPCH323"
+    title: "三国志8"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "40%汉化版"
+    raw: "PSPCH323 – 三国志8 [40%汉化版][简]"
+  - id: "PSPCH324"
+    title: "三国志9 威力加强版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v20190512"
+    disc: null
+    notes:
+      - "汉化v20190512"
+      - "天下大同"
+    raw: "PSPCH324 – 三国志9 威力加强版 [简][汉化v20190512][天下大同]"
+  - id: "PSPCH325"
+    title: "杀手赞歌 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH325 – 杀手赞歌 携带版 [简][心游汉化组]"
+  - id: "PSPCH326"
+    title: "赏金猎犬"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "Namco"
+    raw: "PSPCH326 – 赏金猎犬 [繁] [官方中文版][Namco]"
+  - id: "PSPCH327"
+    title: "上吧！噗露喵们"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "出击！运动裤猫娘"
+    raw: "PSPCH327 – 上吧！噗露喵们(出击！运动裤猫娘)[简][苏帕尔莎汉化组]"
+  - id: "PSPCH328"
+    title: "上海"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游鱼汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH328 – 上海 [简][游鱼汉化组]"
+  - id: "PSPCH329"
+    title: "深红房间 逆转"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPchina"
+    raw: "PSPCH329 – 深红房间 逆转 [繁][PSPchina]"
+  - id: "PSPCH330"
+    title: "神眷之力"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH330 – 神眷之力[v2][简][ACG汉化组]"
+  - id: "PSPCH331"
+    title: "神秘岛"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH331 – 神秘岛 [简][巴士汉化组]"
+  - id: "PSPCH332"
+    title: "神隐 V2.2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH332 – 神隐 V2.2 [简][CG汉化组]"
+  - id: "PSPCH333"
+    title: "圣诞之吻 加强版 v2.0"
+    language:
+      - "zh-Hans"
+    groups:
+      - "圣诞之吻汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH333 – 圣诞之吻 加强版 v2.0 [简][圣诞之吻汉化组]"
+  - id: "PSPCH334"
+    title: "圣女贞德"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version:
+      - "v1.06"
+    disc: null
+    notes:
+      - "v1.06final"
+      - "PSPChina&雷神汉化"
+    raw: "PSPCH334 – 圣女贞德[v1.06final][繁][PSPChina&雷神汉化]"
+  - id: "PSPCH335"
+    title: "实体派对 暗影之书"
+    language:
+      - "zh-Hans"
+    groups:
+      - "天神小学汉化部"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH335 – 实体派对 暗影之书 [简][天神小学汉化部]"
+  - id: "PSPCH336"
+    title: "实体派对 文选集 幸子的恋爱游戏 歇斯底里生日2U"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH336 – 实体派对 文选集 幸子的恋爱游戏 歇斯底里生日2U [简][苏帕尔莎汉化组]"
+  - id: "PSPCH337"
+    title: "实体派对 血之复盖 无止境的恐惧"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游戏嗯蛋"
+      - "PSP吧汉化组"
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH337 – 实体派对 血之复盖 无止境的恐惧 [简][游戏嗯蛋&PSP吧汉化组&Play汉化组]"
+  - id: "PSPCH338"
+    title: "失忆症"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH338 – 失忆症 [简][心游汉化组]"
+  - id: "PSPCH339"
+    title: "失忆症CROWD"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH339 – 失忆症CROWD [简][心游汉化组]"
+  - id: "PSPCH340"
+    title: "失忆症LATER"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH340 – 失忆症LATER [简][心游汉化组]"
+  - id: "PSPCH341"
+    title: "十二勇士 战国封神传"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH341 – 十二勇士 战国封神传[简]"
+  - id: "PSPCH342"
+    title: "十三支演义 偃月三国传"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH342 – 十三支演义 偃月三国传 [简][心游汉化组]"
+  - id: "PSPCH343"
+    title: "十一只眼睛 交叉十字"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "夜月の神"
+    raw: "PSPCH343 – 十一只眼睛 交叉十字 [简][夜月の神]"
+  - id: "PSPCH344"
+    title: "十字架引导～给有爱的人"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "简单汉化版"
+    raw: "PSPCH344 – 十字架引导～给有爱的人[简单汉化版]"
+  - id: "PSPCH345"
+    title: "时间幻想"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH345 – 时间幻想 [简][Play汉化组]"
+  - id: "PSPCH346"
+    title: "时间旅行者"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH346 – 时间旅行者 [简][心游汉化组]"
+  - id: "PSPCH347"
+    title: "实况力量职业棒球2010"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "菜单汉化版"
+    raw: "PSPCH347 – 实况力量职业棒球2010[菜单汉化版]"
+  - id: "PSPCH348"
+    title: "实况足球 2008"
+    language: null
+    groups:
+      - "EPT小组"
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0"
+    raw: "PSPCH348 – 实况足球 2008 [v2.0][EPT小组]"
+  - id: "PSPCH349"
+    title: "实况足球 2009"
+    language:
+      - "zh-Hans"
+    groups:
+      - "EPT汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH349 – 实况足球 2009 [简][EPT汉化组]"
+  - id: "PSPCH350"
+    title: "实况足球 2009 PES"
+    language: null
+    groups: null
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+      - "WECG&WSI联合汉化"
+      - "带中文名存档"
+    raw: "PSPCH350 – 实况足球 2009 PES [v1.0][WECG&WSI联合汉化](带中文名存档)"
+  - id: "PSPCH351"
+    title: "实况足球 2009 WE"
+    language: null
+    groups:
+      - "WECG汉化组"
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0国庆狂热版"
+    raw: "PSPCH351 – 实况足球 2009 WE [v2.0国庆狂热版][WECG汉化组]"
+  - id: "PSPCH352"
+    title: "实况足球 2009 球员真衣+真脸完美汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH352 – 实况足球 2009 球员真衣+真脸完美汉化版"
+  - id: "PSPCH353"
+    title: "实况足球 2010 蓝色武士的挑战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "WECG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH353 – 实况足球 2010 蓝色武士的挑战 [简][WECG汉化组]"
+  - id: "PSPCH354"
+    title: "实况足球 2011"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KONAMI"
+    raw: "PSPCH354 – 实况足球 2011 [繁] [官方中文版][KONAMI]"
+  - id: "PSPCH355"
+    title: "实况足球 2012"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KONAMI"
+    raw: "PSPCH355 – 实况足球 2012 [繁] [官方中文版][KONAMI]"
+  - id: "PSPCH356"
+    title: "实况足球 2013 PES"
+    language: null
+    groups:
+      - "WECG汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH356 – 实况足球 2013 PES [v1.0][WECG汉化组]"
+  - id: "PSPCH357"
+    title: "实况足球 2014 V0.5"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "tomas1985&zmpcao"
+      - "欧版汉化"
+    raw: "PSPCH357 – 实况足球 2014 V0.5 [简][tomas1985&zmpcao](欧版汉化)"
+  - id: "PSPCH358"
+    title: "实况足球 2014 V0.5"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "tomas1985&zmpcao"
+      - "日版汉化"
+    raw: "PSPCH358 – 实况足球 2014 V0.5 [简][tomas1985&zmpcao](日版汉化)"
+  - id: "PSPCH359"
+    title: "实况足球 2014 中超版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "WECG汉化组汉化版"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH359 – 实况足球 2014 中超版[v1.0][简][WECG汉化组汉化版]"
+  - id: "PSPCH360"
+    title: "实况足球 PES6"
+    language: null
+    groups:
+      - "EPT小组"
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0"
+    raw: "PSPCH360 – 实况足球 PES6 [v2.0][EPT小组]"
+  - id: "PSPCH361"
+    title: "实况足球 PES6 V3.0"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina&完全实况"
+    raw: "PSPCH361 – 实况足球 PES6 V3.0 [简][PSPChina&完全实况]"
+  - id: "PSPCH362"
+    title: "实况足球 PES10 V1.5"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina&完全实况"
+    raw: "PSPCH362 – 实况足球 PES10 V1.5 [简][PSPChina&完全实况]"
+  - id: "PSPCH363"
+    title: "世界传说 光明神话2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH363 – 世界传说 光明神话2 [简][ACG汉化组]"
+  - id: "PSPCH364"
+    title: "世界上最NG的恋爱"
+    language:
+      - "zh-Hans"
+    groups:
+      - "famille汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH364 – 世界上最NG的恋爱 [简][famille汉化组]"
+  - id: "PSPCH365"
+    title: "侍道 携带版 V1.1"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "lim2222"
+    raw: "PSPCH365 – 侍道 携带版 V1.1 [繁][lim2222]"
+  - id: "PSPCH366"
+    title: "侍道2携带版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version:
+      - "V1.1"
+    disc: null
+    notes:
+      - "V1.1"
+      - "lim2222"
+    raw: "PSPCH366 – 侍道2携带版[V1.1][繁体中文版][lim2222]"
+  - id: "PSPCH367"
+    title: "噬神者 爆裂"
+    language: null
+    groups:
+      - "ACG汉化组"
+      - "清羽"
+    official: null
+    version:
+      - "v1.01"
+    disc: null
+    notes:
+      - "v1.01"
+      - "内置1.61DLC汉化"
+    raw: "PSPCH367 – 噬神者 爆裂[v1.01][内置1.61DLC汉化][ACG汉化组+清羽]"
+  - id: "PSPCH368"
+    title: "数独10000问"
+    language: null
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "完整版"
+    raw: "PSPCH368 – 数独10000问[完整版][巴士汉化组]"
+  - id: "PSPCH369"
+    title: "数码宝贝大冒险"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH369 – 数码宝贝大冒险 [简][Play汉化组]"
+  - id: "PSPCH370"
+    title: "数码暴龙机携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "数码宝贝初回特典小游戏"
+    raw: "PSPCH370 – 数码暴龙机携带版(数码宝贝初回特典小游戏)[简体中文版][Play汉化组]"
+  - id: "PSPCH371"
+    title: "双星物语"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH371 – 双星物语 [简][CG汉化组]"
+  - id: "PSPCH372"
+    title: "水晶守卫简体中文版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "COGODO&178联合汉化"
+    raw: "PSPCH372 – 水晶守卫简体中文版 [COGODO&178联合汉化]"
+  - id: "PSPCH373"
+    title: "死或生 热带天堂"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH373 – 死或生 热带天堂 [简][PSP吧汉化组]"
+  - id: "PSPCH374"
+    title: "死神 灵魂嘉年华"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH374 – 死神 灵魂嘉年华 [繁] [官方中文版][SONY]"
+  - id: "PSPCH375"
+    title: "死神 灵魂嘉年华2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH375 – 死神 灵魂嘉年华2[繁][官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH376"
+    title: "死神 灵魂升温6"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH376 – 死神 灵魂升温6 [繁] [官方中文版][SONY]"
+  - id: "PSPCH377"
+    title: "死神 灵魂升温7"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH377 – 死神 灵魂升温7 [繁] [官方中文版][SONY]"
+  - id: "PSPCH378"
+    title: "塔里安行星 星空之梦"
+    language: null
+    groups:
+      - "PC汉化组"
+      - "KFC汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+      - "星之梦"
+    raw: "PSPCH378 – 塔里安行星 星空之梦(星之梦)[v1.0][PC汉化组&KFC汉化组]"
+  - id: "PSPCH379"
+    title: "太阁立志传 IV 汉化体验第一版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "Zergr"
+    raw: "PSPCH379 – 太阁立志传 IV 汉化体验第一版 [繁][Zergr]"
+  - id: "PSPCH380"
+    title: "太空侵略者EX"
+    language: null
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "文字汉化版"
+    raw: "PSPCH380 – 太空侵略者EX[文字汉化版][巴士汉化组]"
+  - id: "PSPCH381"
+    title: "讨鬼传"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH381 – 讨鬼传[ACG汉化组]"
+  - id: "PSPCH382"
+    title: "提亚拉之泪 花冠的大地 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH382 – 提亚拉之泪 花冠的大地 携带版 [简][Play汉化组]"
+  - id: "PSPCH383"
+    title: "天才麻将少女 阿知贺篇 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH383 – 天才麻将少女 阿知贺篇 携带版 [简][PSP吧汉化组]"
+  - id: "PSPCH384"
+    title: "天才麻将少女 携带版 完全汉化版"
+    language: null
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH384 – 天才麻将少女 携带版 完全汉化版[PSP吧汉化组]"
+  - id: "PSPCH385"
+    title: "天地之门"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH385 – 天地之门 [繁] [官方中文版][SONY]"
+  - id: "PSPCH386"
+    title: "天地之门2 武双传"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH386 – 天地之门2 武双传 [繁] [官方中文版][SONY]"
+  - id: "PSPCH387"
+    title: "天神乱漫 无忧无虑"
+    language:
+      - "zh-Hans"
+    groups:
+      - "妹乃萌汉化小组"
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+    raw: "PSPCH387 – 天神乱漫 无忧无虑[简][v1.1][妹乃萌汉化小组]"
+  - id: "PSPCH388"
+    title: "天外魔境 第四默示录"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "飞云"
+    raw: "PSPCH388 – 天外魔境 第四默示录[繁][飞云]"
+  - id: "PSPCH389"
+    title: "天外魔境 第四默示录"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "飞云"
+    raw: "PSPCH389 – 天外魔境 第四默示录[简][飞云]"
+  - id: "PSPCH390"
+    title: "天诛4 影子刺客"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH390 – 天诛4 影子刺客 [繁][CG汉化组]"
+  - id: "PSPCH391"
+    title: "天诛4 影子刺客"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH391 – 天诛4 影子刺客 [简][CG汉化组]"
+  - id: "PSPCH392"
+    title: "突击！战车队"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH392 – 突击！战车队"
+  - id: "PSPCH393"
+    title: "瓦尔哈拉骑士"
+    language: null
+    groups:
+      - "CG汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH393 – 瓦尔哈拉骑士 [v1.0][CG汉化组]"
+  - id: "PSPCH394"
+    title: "完美大战略 战场的霸者"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "蓝色宇宙"
+    raw: "PSPCH394 – 完美大战略 战场的霸者 [简][蓝色宇宙]"
+  - id: "PSPCH395"
+    title: "王国之心 梦中诞生"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2修正版"
+    raw: "PSPCH395 – 王国之心 梦中诞生 [v2修正版][ACG汉化组]"
+  - id: "PSPCH396"
+    title: "王牌鉴定人"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0"
+      - "PSPchina"
+      - "赝品画廊"
+    raw: "PSPCH396 – 王牌鉴定人(赝品画廊) [v2.0][简][PSPchina]"
+  - id: "PSPCH397"
+    title: "维纳斯与布雷斯"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化到第三章的大后半"
+      - "绯红月晓"
+    raw: "PSPCH397 – 维纳斯与布雷斯[汉化到第三章的大后半][绯红月晓]"
+  - id: "PSPCH398"
+    title: "未名传奇 刀锋兄弟会"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "无尽传说"
+    raw: "PSPCH398 – 未名传奇(无尽传说) 刀锋兄弟会[简]"
+  - id: "PSPCH399"
+    title: "未闻花名"
+    language:
+      - "zh-Hans"
+    groups:
+      - "火花汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH399 – 未闻花名 [简][火花汉化组]"
+  - id: "PSPCH400"
+    title: "我的出租车"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化正式版"
+      - "清文&SNAKE&SPIKE"
+    raw: "PSPCH400 – 我的出租车[汉化正式版][清文&SNAKE&SPIKE]"
+  - id: "PSPCH401"
+    title: "我的妹妹不可能那么可爱 不可能有续作"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 1"
+    notes: null
+    raw: "PSPCH401 – 我的妹妹不可能那么可爱 不可能有续作(UMD Disc 1) [简][PSP吧汉化组]"
+  - id: "PSPCH402"
+    title: "我的妹妹不可能那么可爱 不可能有续作"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 2"
+    notes: null
+    raw: "PSPCH402 – 我的妹妹不可能那么可爱 不可能有续作(UMD Disc 2) [简][PSP吧汉化组&苏帕尔莎汉化组]"
+  - id: "PSPCH403"
+    title: "我的妹妹不可能那么可爱 携带版 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游戏嗯蛋"
+      - "PSP吧汉化组"
+      - "俺妹吧"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH403 – 我的妹妹不可能那么可爱 携带版 V1.1 [简][游戏嗯蛋&PSP吧汉化组&俺妹吧]"
+  - id: "PSPCH404"
+    title: "我的暑假 昆虫博士与天边山的秘密"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH404 – 我的暑假 昆虫博士与天边山的秘密 [ACG汉化组]"
+  - id: "PSPCH405"
+    title: "我的暑假4 濑户内少年侦探团 我和秘密的地图"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH405 – 我的暑假4 濑户内少年侦探团 我和秘密的地图 [简][Play汉化组]"
+  - id: "PSPCH406"
+    title: "我的造型师"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH406 – 我的造型师 [繁] [官方中文版][SONY]"
+  - id: "PSPCH407"
+    title: "我是航空管制官 成田机场"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH407 – 我是航空管制官 成田机场 [简][巴士汉化组]"
+  - id: "PSPCH408"
+    title: "我是航空管制官 关空篇"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "正式版"
+    raw: "PSPCH408 – 我是航空管制官 关空篇[正式版][ACG汉化组]"
+  - id: "PSPCH409"
+    title: "我是航空管制官 机场英雄那霸"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH409 – 我是航空管制官 机场英雄那霸 [简][巴士汉化组]"
+  - id: "PSPCH410"
+    title: "无双大蛇"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH410 – 无双大蛇 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH411"
+    title: "无双大蛇 魔王再临 增值版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH411 – 无双大蛇 魔王再临 增值版 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH412"
+    title: "无头骑士异闻录"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH412 – 无头骑士异闻录 [简][Play汉化组]"
+  - id: "PSPCH413"
+    title: "无限回廊"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH413 – 无限回廊 [繁] [官方中文版][SONY]"
+  - id: "PSPCH414"
+    title: "武装神姬 战斗大师Mk.2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "月下汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH414 – 武装神姬 战斗大师Mk.2(v2) [简][月下汉化组]"
+  - id: "PSPCH415"
+    title: "侠盗猎车 血战唐人街 汉化测试"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH415 – 侠盗猎车 血战唐人街 汉化测试[简]"
+  - id: "PSPCH416"
+    title: "侠盗猎车 自由城的故事"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH416 – 侠盗猎车 自由城的故事 [简][PLAY汉化组]"
+  - id: "PSPCH417"
+    title: "侠盗猎车 罪恶都市传奇 V2.0"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH417 – 侠盗猎车 罪恶都市传奇 V2.0 [简][PLAY汉化组]"
+  - id: "PSPCH418"
+    title: "夏空的独白"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH418 – 夏空的独白[简][心游汉化组]"
+  - id: "PSPCH419"
+    title: "仙境传说 光之圣女 诸神的黄昏"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PSPChina"
+    raw: "PSPCH419 – 仙境传说 光之圣女 诸神的黄昏 [简][PSPChina]"
+  - id: "PSPCH420"
+    title: "小小大星球"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH420 – 小小大星球 [繁] [官方中文版][SONY]"
+  - id: "PSPCH421"
+    title: "小小克星 携带版 1.10汉化版"
+    language: null
+    groups:
+      - "澄空CK GAL汉化小组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH421 – 小小克星 携带版 1.10汉化版[澄空CK GAL汉化小组]"
+  - id: "PSPCH422"
+    title: "心跳回忆4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH422 – 心跳回忆4 [简][Play汉化组]"
+  - id: "PSPCH423"
+    title: "心之彼端2 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CK GAL汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH423 – 心之彼端2 携带版 [简][CK GAL汉化组]"
+  - id: "PSPCH424"
+    title: "新纪幻想 圣魔战记2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH424 – 新纪幻想 圣魔战记2 [简][CG汉化组]"
+  - id: "PSPCH425"
+    title: "新牧场物语 无暇人生"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "纯真生活"
+    raw: "PSPCH425 – 新牧场物语 无暇人生(纯真生活) [简][CG汉化组]"
+  - id: "PSPCH426"
+    title: "新世纪福音战士 钢铁女友特别篇 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH426 – 新世纪福音战士 钢铁女友特别篇 携带版 [简][CG汉化组]"
+  - id: "PSPCH427"
+    title: "新天魔界 浑沌世代5"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "系统汉化测试版"
+    raw: "PSPCH427 – 新天魔界 浑沌世代5[系统汉化测试版]"
+  - id: "PSPCH428"
+    title: "新天魔界 混沌世代4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "部分汉化版"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH428 – 新天魔界 混沌世代4[简][部分汉化版]"
+  - id: "PSPCH429"
+    title: "星色赠礼 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "79B汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH429 – 星色赠礼 携带版 [简][79B汉化组]"
+  - id: "PSPCH430"
+    title: "星之海洋 初次启航"
+    language:
+      - "zh-Hans"
+    groups:
+      - "3DM TV汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH430 – 星之海洋 初次启航 [简][3DM TV汉化组]"
+  - id: "PSPCH431"
+    title: "杏仁怪盗 携带版"
+    language:
+      - "zh-Hant"
+    groups:
+      - "PSM汉化组"
+      - "WIKIGT"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH431 – 杏仁怪盗 携带版 [繁][PSM汉化组&WIKIGT]"
+  - id: "PSPCH432"
+    title: "杏仁怪盗 携带版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化修正版"
+      - "梦影℃无幽"
+    raw: "PSPCH432 – 杏仁怪盗 携带版[繁][汉化修正版][梦影℃无幽]"
+  - id: "PSPCH433"
+    title: "兄弟之争 激情粉红"
+    language:
+      - "zh-Hans"
+    groups:
+      - "游戏饭饭汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH433 – 兄弟之争 激情粉红 [简][游戏饭饭汉化组]"
+  - id: "PSPCH434"
+    title: "兄弟之争 闪亮蔚蓝"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH434 – 兄弟之争 闪亮蔚蓝 [简][心游汉化组]"
+  - id: "PSPCH435"
+    title: "宿命传说2 字幕版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "个人汉化"
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH435 – 宿命传说2 字幕版 [简][个人汉化&CG汉化组]"
+  - id: "PSPCH436"
+    title: "喧哗番长 兄弟 东京大混战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH436 – 喧哗番长 兄弟 东京大混战 [简][Play汉化组]"
+  - id: "PSPCH437"
+    title: "旋转方块汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH437 – 旋转方块汉化版"
+  - id: "PSPCH438"
+    title: "学生会的一己之见Lv.2 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "残响死灭汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH438 – 学生会的一己之见Lv.2 携带版 [简][残响死灭汉化组]"
+  - id: "PSPCH439"
+    title: "学园K 完美校园生活"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "心游之域 地图我们不黑学院"
+    raw: "PSPCH439 – 学园K 完美校园生活 [心游之域 地图我们不黑学院]"
+  - id: "PSPCH440"
+    title: "学园天国 又一章"
+    language: null
+    groups:
+      - "扑家汉化组"
+      - "翼之梦汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH440 – 学园天国 又一章[扑家汉化组 & 翼之梦汉化组]"
+  - id: "PSPCH441"
+    title: "学园天堂 男孩子的爱情争夺战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+      - "翼夢汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 1"
+    notes: null
+    raw: "PSPCH441 – 学园天堂 男孩子的爱情争夺战(UMD Disc 1) [简][扑家汉化组&翼夢汉化组]"
+  - id: "PSPCH442"
+    title: "学园天堂 男孩子的爱情争夺战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+      - "翼夢汉化组"
+    official: null
+    version: null
+    disc: "UMD Disc 2"
+    notes: null
+    raw: "PSPCH442 – 学园天堂 男孩子的爱情争夺战(UMD Disc 2) [简][扑家汉化组&翼夢汉化组]"
+  - id: "PSPCH443"
+    title: "雪之少女"
+    language:
+      - "zh-Hant"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH443 – 雪之少女 [繁][巴士汉化组]"
+  - id: "PSPCH444"
+    title: "遥远的时空中 八叶抄"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH444 – 遥远的时空中 八叶抄[简][心游汉化组]"
+  - id: "PSPCH445"
+    title: "遥远的时空中5 风花记"
+    language:
+      - "zh-Hans"
+    groups:
+      - "心游汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH445 – 遥远的时空中5 风花记 [简][心游汉化组]"
+  - id: "PSPCH446"
+    title: "遥远的时空中5"
+    language:
+      - "zh-Hans"
+    groups:
+      - "翼の梦汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH446 – 遥远的时空中5[简][翼の梦汉化组]"
+  - id: "PSPCH447"
+    title: "一骑当千 交叉冲击简体中文汉化版"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH447 – 一骑当千 交叉冲击简体中文汉化版[ACG汉化组]"
+  - id: "PSPCH448"
+    title: "一骑当千 雄辩之拳"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH448 – 一骑当千 雄辩之拳 [简][ACG汉化组]"
+  - id: "PSPCH449"
+    title: "伊苏 菲尔迦纳的誓约"
+    language:
+      - "zh-Hans"
+    groups:
+      - "FFC同好会"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH449 – 伊苏 菲尔迦纳的誓约 [简][FFC同好会]"
+  - id: "PSPCH450"
+    title: "伊苏6 那比斯汀的方舟"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH450 – 伊苏6 那比斯汀的方舟"
+  - id: "PSPCH451"
+    title: "伊苏7"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH451 – 伊苏7 [繁][CG汉化组]"
+  - id: "PSPCH452"
+    title: "伊苏7"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH452 – 伊苏7 [简][CG汉化组]"
+  - id: "PSPCH453"
+    title: "伊苏vs.空之轨迹 抉择传奇"
+    language:
+      - "zh-Hans"
+    groups:
+      - "FFC汉化组"
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2"
+    raw: "PSPCH453 – 伊苏vs.空之轨迹 抉择传奇[v1.2][简][FFC汉化组]"
+  - id: "PSPCH454"
+    title: "异形战机 策略版"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "R TYPE战略版"
+    raw: "PSPCH454 – 异形战机 策略版(R TYPE战略版) [繁][CG汉化组]"
+  - id: "PSPCH455"
+    title: "银魂的双六"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "LAC字幕组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH455 – 银魂的双六 [简][Play汉化组&LAC字幕组]"
+  - id: "PSPCH456"
+    title: "隐形妖怪"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH456 – 隐形妖怪 [繁] [官方中文版][SONY]"
+  - id: "PSPCH457"
+    title: "英雄传说 白发魔女"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH457 – 英雄传说 白发魔女 [简][CG汉化组]"
+  - id: "PSPCH458"
+    title: "英雄传说 白发魔女"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH458 – 英雄传说 白发魔女[繁][CG汉化组]"
+  - id: "PSPCH459"
+    title: "英雄传说 碧之轨迹"
+    language:
+      - "zh-Hans"
+    groups:
+      - "噬身之蛇汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH459 – 英雄传说 碧之轨迹 [简][噬身之蛇汉化组]"
+  - id: "PSPCH460"
+    title: "英雄传说 碧之轨迹"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PC官中文本导入版"
+    raw: "PSPCH460 – 英雄传说 碧之轨迹[简][PC官中文本导入版]"
+  - id: "PSPCH461"
+    title: "英雄传说 空之轨迹"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH461 – 英雄传说 空之轨迹 [繁][CG汉化组]"
+  - id: "PSPCH462"
+    title: "英雄传说 空之轨迹"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH462 – 英雄传说 空之轨迹 [简][CG汉化组]"
+  - id: "PSPCH463"
+    title: "英雄传说 空之轨迹3RD"
+    language:
+      - "zh-Hans"
+    groups:
+      - "GC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH463 – 英雄传说 空之轨迹3RD [简][GC汉化组]"
+  - id: "PSPCH464"
+    title: "英雄传说 空之轨迹SC UMD1 V1.1"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH464 – 英雄传说 空之轨迹SC UMD1 V1.1 [繁][CG汉化组]"
+  - id: "PSPCH465"
+    title: "英雄传说 空之轨迹SC UMD1 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH465 – 英雄传说 空之轨迹SC UMD1 V1.1 [简][CG汉化组]"
+  - id: "PSPCH466"
+    title: "英雄传说 空之轨迹SC UMD2 V1.1"
+    language:
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH466 – 英雄传说 空之轨迹SC UMD2 V1.1 [繁][CG汉化组]"
+  - id: "PSPCH467"
+    title: "英雄传说 空之轨迹SC UMD2 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH467 – 英雄传说 空之轨迹SC UMD2 V1.1 [简][CG汉化组]"
+  - id: "PSPCH468"
+    title: "英雄传说 空之轨迹SC 合盘版 V1.1"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH468 – 英雄传说 空之轨迹SC 合盘版 V1.1 [简][CG汉化组]"
+  - id: "PSPCH469"
+    title: "英雄传说 零之轨迹 V1.32"
+    language:
+      - "zh-Hans"
+    groups:
+      - "FFC汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH469 – 英雄传说 零之轨迹 V1.32 [简][FFC汉化组]"
+  - id: "PSPCH470"
+    title: "英雄传说 零之轨迹"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "PC官中文本导入版"
+    raw: "PSPCH470 – 英雄传说 零之轨迹[简][PC官中文本导入版]"
+  - id: "PSPCH471"
+    title: "英雄传说 朱红之泪"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH471 – 英雄传说 朱红之泪 [简][CG汉化组]"
+  - id: "PSPCH472"
+    title: "英雄传说5 海之槛歌汉化版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH472 – 英雄传说5 海之槛歌汉化版"
+  - id: "PSPCH473"
+    title: "樱花大战1&2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH473 – 樱花大战1&2 [简][Play汉化组]"
+  - id: "PSPCH474"
+    title: "樱花庄的宠物女孩 V1.01"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH474 – 樱花庄的宠物女孩 V1.01 [简][苏帕尔莎汉化组]"
+  - id: "PSPCH475"
+    title: "永恒传说 简体中文汉化版"
+    language: null
+    groups:
+      - "aswhl个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH475 – 永恒传说 简体中文汉化版[aswhl个人汉化]"
+  - id: "PSPCH476"
+    title: "勇敢的故事 新的冒险者"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "勇者物语"
+    raw: "PSPCH476 – 勇敢的故事 新的冒险者(勇者物语) [简][Play汉化组]"
+  - id: "PSPCH477"
+    title: "勇者别嚣张"
+    language:
+      - "zh-Hans"
+    groups:
+      - "VPG汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH477 – 勇者别嚣张 [v1.0][简][VPG汉化组]"
+  - id: "PSPCH478"
+    title: "勇者别嚣张3D"
+    language:
+      - "zh-Hans"
+    groups:
+      - "勇者别嚣张吧"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH478 – 勇者别嚣张3D [简][勇者别嚣张吧]"
+  - id: "PSPCH479"
+    title: "勇者别嚣张or2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH479 – 勇者别嚣张or2 [繁] [官方中文版][SONY]"
+  - id: "PSPCH480"
+    title: "游戏王 卡片力量SP"
+    language: null
+    groups:
+      - "PLAY汉化组"
+    official: null
+    version:
+      - "v1.00"
+    disc: null
+    notes:
+      - "v1.00"
+    raw: "PSPCH480 – 游戏王 卡片力量SP [v1.00][PLAY汉化组]"
+  - id: "PSPCH481"
+    title: "游戏王5D's 卡片力量4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH481 – 游戏王5D's 卡片力量4 [简][CG汉化组]"
+  - id: "PSPCH482"
+    title: "游戏王5D's 卡片力量5"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH482 – 游戏王5D's 卡片力量5 [简][Play汉化组]"
+  - id: "PSPCH483"
+    title: "游戏王5D's 卡片力量6"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH483 – 游戏王5D's 卡片力量6 [简][Play汉化组]"
+  - id: "PSPCH484"
+    title: "游戏王对战怪兽GX卡片力量"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "剧情+卡片汉化最终修复v1.0"
+      - "PSPChina+阿省"
+    raw: "PSPCH484 – 游戏王对战怪兽GX卡片力量[简][剧情+卡片汉化最终修复v1.0][PSPChina+阿省]"
+  - id: "PSPCH485"
+    title: "游戏王对战怪兽GX卡片力量2 全卡片剧情汉化版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH485 – 游戏王对战怪兽GX卡片力量2 全卡片剧情汉化版 [简][CG汉化组]"
+  - id: "PSPCH486"
+    title: "游戏王对战怪兽GX卡片力量3"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH486 – 游戏王对战怪兽GX卡片力量3 [简][CG汉化组]"
+  - id: "PSPCH487"
+    title: "游戏也要听爸爸的话"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "镜月铃音"
+    raw: "PSPCH487 – 游戏也要听爸爸的话 [简][镜月铃音]"
+  - id: "PSPCH488"
+    title: "实况足球 2014 蓝色武士的挑战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "WECG汉化组汉化版"
+    official: null
+    version:
+      - "v0.9"
+    disc: null
+    notes:
+      - "v0.9"
+    raw: "PSPCH488 – 实况足球 2014 蓝色武士的挑战[v0.9][简][WECG汉化组汉化版]"
+  - id: "PSPCH489"
+    title: "约束之地 利维艾拉"
+    language:
+      - "zh-Hans"
+      - "zh-Hant"
+    groups: null
+    official: null
+    version:
+      - "v1.21"
+    disc: null
+    notes:
+      - "v1.21"
+      - "繁简汉化版"
+      - "狼狼小酷汉化"
+    raw: "PSPCH489 – 约束之地 利维艾拉 [v1.21][繁简汉化版][狼狼小酷汉化]"
+  - id: "PSPCH490"
+    title: "炸弹人"
+    language:
+      - "zh-Hans"
+    groups:
+      - "个人汉化"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH490 – 炸弹人[简体中文版][个人汉化]"
+  - id: "PSPCH491"
+    title: "粘土人世纪"
+    language:
+      - "zh-Hans"
+    groups:
+      - "PSP吧汉化组"
+      - "腓特烈"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC内封"
+    raw: "PSPCH491 – 粘土人世纪[简][DLC内封][PSP吧汉化组+腓特烈]"
+  - id: "PSPCH492"
+    title: "战场的女武神2 高卢王立士官学校"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH492 – 战场的女武神2 高卢王立士官学校 [简][ACG汉化组]"
+  - id: "PSPCH493"
+    title: "战场女武神3"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "V3"
+    disc: null
+    notes:
+      - "V3完美汉化"
+      - "中文DLC"
+    raw: "PSPCH493 – 战场女武神3[V3完美汉化][中文DLC][ACG汉化组]"
+  - id: "PSPCH494"
+    title: "战神 奥林匹斯之链"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH494 – 战神 奥林匹斯之链 [繁] [官方中文版][SONY]"
+  - id: "PSPCH495"
+    title: "战神 斯巴达之魂"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH495 – 战神 斯巴达之魂[繁][官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH496"
+    title: "长门有希的暴走"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH496 – 长门有希的暴走"
+  - id: "PSPCH497"
+    title: "召唤之夜4"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH497 – 召唤之夜4(v2) [简][ACG汉化组]"
+  - id: "PSPCH498"
+    title: "召唤之夜5"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH498 – 召唤之夜5[v2][ACG汉化组]"
+  - id: "PSPCH499"
+    title: "这间活动室被不回家部占领了 学园瞬息万变篇 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "萌萌璐汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH499 – 这间活动室被不回家部占领了 学园瞬息万变篇 携带版 [简][萌萌璐汉化组]"
+  - id: "PSPCH500"
+    title: "侦探歌剧 少女福尔摩斯1.5"
+    language: null
+    groups: null
+    official: null
+    version:
+      - "v1.10"
+    disc: null
+    notes:
+      - "v1.10"
+      - "caoyang131"
+    raw: "PSPCH500 – 侦探歌剧 少女福尔摩斯1.5 [v1.10][caoyang131]"
+  - id: "PSPCH501"
+    title: "侦探歌剧 少女福尔摩斯2"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "caoyang131"
+    raw: "PSPCH501 – 侦探歌剧 少女福尔摩斯2 [简][caoyang131]"
+  - id: "PSPCH502"
+    title: "真三国无双 二度进化"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH502 – 真三国无双 二度进化 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH503"
+    title: "真三国无双 联合突袭"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH503 – 真三国无双 联合突袭 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH504"
+    title: "真三国无双 联合突袭 2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH504 – 真三国无双 联合突袭 2 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH505"
+    title: "真三国无双5 特别版"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "KOEI"
+    raw: "PSPCH505 – 真三国无双5 特别版 [繁] [官方中文版][KOEI]"
+  - id: "PSPCH506"
+    title: "真三国无双6 特别版"
+    language: null
+    groups:
+      - "玩家网汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "BUG修正"
+    raw: "PSPCH506 – 真三国无双6 特别版[玩家网汉化组](BUG修正)"
+  - id: "PSPCH507"
+    title: "智代后记 美丽的生活 CS版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "澄空学园"
+    raw: "PSPCH507 – 智代后记 美丽的生活 CS版 [简][澄空学园]"
+  - id: "PSPCH508"
+    title: "智商狂热"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH508 – 智商狂热 [繁] [官方中文版][SONY]"
+  - id: "PSPCH509"
+    title: "中华雀士 天和牌娘Remix"
+    language: null
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "文字汉化版"
+    raw: "PSPCH509 – 中华雀士 天和牌娘Remix[文字汉化版][巴士汉化组]"
+  - id: "PSPCH510"
+    title: "重生传说"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH510 – 重生传说 [简][ACG汉化组]"
+  - id: "PSPCH511"
+    title: "周刊少年大乱斗 集结顶上大决战"
+    language:
+      - "zh-Hans"
+    groups:
+      - "3DM汉化组"
+      - "游鱼汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH511 – 周刊少年大乱斗 集结顶上大决战 [简][3DM汉化组&游鱼汉化组]"
+  - id: "PSPCH512"
+    title: "朱 Aka"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "移植汉化版"
+    raw: "PSPCH512 – 朱 Aka[移植汉化版]"
+  - id: "PSPCH513"
+    title: "装甲核心 方程式前线国际版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH513 – 装甲核心 方程式前线国际版"
+  - id: "PSPCH514"
+    title: "捉猴啦 比波猴战记 比波猴学院外传"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SONY+腓特烈"
+    raw: "PSPCH514 – 捉猴啦 比波猴战记 比波猴学院外传[繁][官方中文版+DLC内封][SONY+腓特烈]"
+  - id: "PSPCH515"
+    title: "捉猴啦 猴子爱作战"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH515 – 捉猴啦 猴子爱作战 [繁] [官方中文版][SONY]"
+  - id: "PSPCH516"
+    title: "最后的伴侣 猫之俱乐部"
+    language: null
+    groups:
+      - "游戏饭饭 猫之俱乐部汉化小组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH516 – 最后的伴侣 猫之俱乐部 [游戏饭饭 猫之俱乐部汉化小组]"
+  - id: "PSPCH517"
+    title: "最后的伴侣 猫之俱乐部"
+    language:
+      - "zh-Hans"
+    groups:
+      - "翼之梦汉化组"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "V2汉化版"
+    raw: "PSPCH517 – 最后的伴侣 猫之俱乐部 [简][V2汉化版][翼之梦汉化组]"
+  - id: "PSPCH518"
+    title: "最后的约定的故事"
+    language:
+      - "zh-Hans"
+    groups:
+      - "扑家汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "简体汉化版"
+    raw: "PSPCH518 – 最后的约定的故事[简体汉化版][扑家汉化组]"
+  - id: "PSPCH519"
+    title: "最后的战士"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH519 – 最后的战士[ACG汉化组]"
+  - id: "PSPCH520"
+    title: "最终幻想 纷争"
+    language:
+      - "zh-Hans"
+      - "zh-Hant"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "简&繁"
+    raw: "PSPCH520 – 最终幻想 纷争 [简&繁][CG汉化组]"
+  - id: "PSPCH521"
+    title: "最终幻想 纷争012"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "官方中文版+DLC内封"
+      - "SquareEnix+腓特烈"
+    raw: "PSPCH521 – 最终幻想 纷争012[繁][官方中文版+DLC内封][SquareEnix+腓特烈]"
+  - id: "PSPCH522"
+    title: "最终幻想 零式 Disc1"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH522 – 最终幻想 零式 Disc1 [ACG汉化组]"
+  - id: "PSPCH523"
+    title: "最终幻想 零式 Disc2"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH523 – 最终幻想 零式 Disc2 [ACG汉化组]"
+  - id: "PSPCH524"
+    title: "最终幻想 零式 合盘版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "Play汉化组"
+      - "天幻网"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH524 – 最终幻想 零式 合盘版 [简][Play汉化组&天幻网]"
+  - id: "PSPCH525"
+    title: "最终幻想 战略版 狮子战争"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+      - "天幻网"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "修复释放技能拖慢BUG"
+    raw: "PSPCH525 – 最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)"
+  - id: "PSPCH526"
+    title: "最终幻想3"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH526 – 最终幻想3[繁][官方中文版]"
+  - id: "PSPCH527"
+    title: "最终幻想4 完全版"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "v2"
+    raw: "PSPCH527 – 最终幻想4 完全版 [v2][ACG汉化组]"
+  - id: "PSPCH528"
+    title: "最终幻想7 核心危机"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version:
+      - "v1.04"
+    disc: null
+    notes:
+      - "v1.04"
+      - "危机之源"
+    raw: "PSPCH528 – 最终幻想7 核心危机(危机之源)[v1.04][简][CG汉化组]"
+  - id: "PSPCH529"
+    title: "最终幻想II 20周年纪念版"
+    language: null
+    groups:
+      - "ACG汉化组"
+    official: null
+    version:
+      - "V2"
+    disc: null
+    notes:
+      - "V2汉化版"
+    raw: "PSPCH529 – 最终幻想II 20周年纪念版[V2汉化版][ACG汉化组]"
+  - id: "PSPCH530"
+    title: "怪物猎人 携带版"
+    language:
+      - "zh-Hant"
+    groups:
+      - "PSP部落"
+      - "CNGBA联合汉化"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "皓月云配信复活"
+    raw: "PSPCH530 – 怪物猎人 携带版 [繁体][PSP部落&CNGBA联合汉化](皓月云配信复活)"
+  - id: "PSPCH531"
+    title: "秋之回忆"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+      - "澄空学园"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH531 – 秋之回忆 [简][巴士汉化组+澄空学园]"
+  - id: "PSPCH532"
+    title: "诡计x逻辑 第二季"
+    language: null
+    groups:
+      - "PB汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH532 – 诡计x逻辑 第二季[PB汉化组]"
+  - id: "PSPCH533"
+    title: "魔法少女小圆 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH533 – 魔法少女小圆 携带版[简][ACG汉化组]"
+  - id: "PSPCH534"
+    title: "泡泡龙口袋版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH534 – 泡泡龙口袋版[简][CG汉化组]"
+  - id: "PSPCH535"
+    title: "枪声与钻石"
+    language:
+      - "zh-Hans"
+    groups:
+      - "ACG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化修复缺字"
+    raw: "PSPCH535 – 枪声与钻石[简][汉化修复缺字][ACG汉化组]"
+  - id: "PSPCH536"
+    title: "无双大蛇"
+    language:
+      - "zh-Hans"
+    groups:
+      - "巴士汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH536 – 无双大蛇[简][巴士汉化组]"
+  - id: "PSPCH537"
+    title: "新世纪福音战士 钢铁女友2nd"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "不完美汉化"
+      - "denolin"
+    raw: "PSPCH537 – 新世纪福音战士 钢铁女友2nd[简][不完美汉化][denolin]"
+  - id: "PSPCH538"
+    title: "音乐节拍"
+    language: null
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH538 – 音乐节拍[官方中文版][SONY]"
+  - id: "PSPCH539"
+    title: "这间活动室被不回家部占领了 学园夏日战争篇"
+    language:
+      - "zh-Hans"
+    groups:
+      - "CG汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH539 – 这间活动室被不回家部占领了 学园夏日战争篇[简][CG汉化组]"
+  - id: "PSPCH540"
+    title: "街～命运的交叉点～"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "V3"
+    disc: null
+    notes:
+      - "V3汉化修复版20220505"
+      - "施珂昱"
+    raw: "PSPCH540 – 街～命运的交叉点～[V3汉化修复版20220505][简][施珂昱]"
+  - id: "PSPCH541"
+    title: "怪物猎人 携带版2nd G"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v20171106"
+    disc: null
+    notes:
+      - "汉化v20171106"
+      - "猪突猛进锅"
+    raw: "PSPCH541 – 怪物猎人 携带版2nd G[汉化v20171106][简][猪突猛进锅]"
+  - id: "PSPCH542"
+    title: "恶灵骑士"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "剧情汉化版1.03"
+      - "快乐之王Tp"
+    raw: "PSPCH542 – 恶灵骑士[剧情汉化版1.03][简][快乐之王Tp]"
+  - id: "PSPCH543"
+    title: "心连情结 随机预知"
+    language:
+      - "zh-Hans"
+    groups:
+      - "山星高校文研部汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "DLC"
+      - "恋爱随意链接"
+    raw: "PSPCH543 – 心连情结(恋爱随意链接) 随机预知[简][DLC][山星高校文研部汉化组]"
+  - id: "PSPCH544"
+    title: "实况足球2023 C19世界杯版"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "菜单汉化"
+      - "SinSega"
+    raw: "PSPCH544 – 实况足球2023 C19世界杯版[菜单汉化][SinSega]"
+  - id: "PSPCH545"
+    title: "翻译精灵"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: true
+    version: null
+    disc: null
+    notes:
+      - "SONY"
+    raw: "PSPCH545 – 翻译精灵 [简][官方中文版][SONY]"
+  - id: "PSPCH546"
+    title: "第二次超级机器人大战Z 再世篇"
+    language:
+      - "zh-Hans"
+    groups:
+      - "屠龙骑士团汉化组"
+    official: null
+    version:
+      - "v2.0"
+    disc: null
+    notes:
+      - "v2.0"
+    raw: "PSPCH546 – 第二次超级机器人大战Z 再世篇[v2.0][简][屠龙骑士团汉化组]"
+  - id: "PSPCH547"
+    title: "水仙 如果还有明天 携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "风铃汉化组"
+    official: null
+    version:
+      - "v1.0"
+    disc: null
+    notes:
+      - "v1.0"
+    raw: "PSPCH547 – 水仙 如果还有明天 携带版[v1.0][简][风铃汉化组]"
+  - id: "PSPCH548"
+    title: "少女爱上姐姐2携带版"
+    language:
+      - "zh-Hans"
+    groups:
+      - "苏帕尔莎汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH548 – 少女爱上姐姐2携带版[简][苏帕尔莎汉化组]"
+  - id: "PSPCH549"
+    title: "三国志8"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1.2"
+      - "mszl100"
+    raw: "PSPCH549 – 三国志8[v1.1.2][简][mszl100]"
+  - id: "PSPCH550"
+    title: "梦幻骑士4 超量重装"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化公测版"
+      - "WGF"
+    raw: "PSPCH550 – 梦幻骑士4 超量重装[汉化公测版][简][WGF]"
+  - id: "PSPCH551"
+    title: "实况足球9 WE9"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化最终修正版"
+      - "崔大爷85"
+    raw: "PSPCH551 – 实况足球9 WE9[汉化最终修正版][简][崔大爷85]"
+  - id: "PSPCH552"
+    title: "命运之夜 新章CCC"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "月海原外语研究社"
+      - "Fate extra CCC"
+    raw: "PSPCH552 – 命运之夜 新章CCC(Fate extra CCC)[简][月海原外语研究社]"
+  - id: "PSPCH553"
+    title: "镰鼬之夜2"
+    language:
+      - "zh-Hans"
+    groups:
+      - "民间汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH553 – 镰鼬之夜2[简][民间汉化组]"
+  - id: "PSPCH554"
+    title: "镰鼬之夜2"
+    language:
+      - "zh-Hant"
+    groups:
+      - "民间汉化组"
+    official: null
+    version: null
+    disc: null
+    notes: null
+    raw: "PSPCH554 – 镰鼬之夜2[繁][民间汉化组]"
+  - id: "PSPCH555"
+    title: "实况足球2025 夏窗转会"
+    language: null
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "球员名汉化版"
+      - "C19+跑路狂魔"
+    raw: "PSPCH555 – 实况足球2025 夏窗转会[球员名汉化版][C19+跑路狂魔]"
+  - id: "PSPCH556"
+    title: "火影忍者疾风传 究极冲击"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "南德小学生"
+    raw: "PSPCH556 – 火影忍者疾风传 究极冲击[简][南德小学生]"
+  - id: "PSPCH557"
+    title: "波斯王子 遗忘之沙"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "纹理汉化版"
+      - "zeddbai"
+      - "仅限模拟器使用"
+    raw: "PSPCH557 – 波斯王子 遗忘之沙[纹理汉化版][简][zeddbai](仅限模拟器使用)"
+  - id: "PSPCH558"
+    title: "古墓丽影 周年纪念"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "纹理汉化版"
+      - "我干ufo"
+      - "仅限模拟器使用"
+    raw: "PSPCH558 – 古墓丽影 周年纪念[纹理汉化版][简][我干ufo](仅限模拟器使用)"
+  - id: "PSPCH559"
+    title: "黑岩射手"
+    language:
+      - "zh-Hans"
+    groups:
+      - "黑岩射手汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化正式版"
+    raw: "PSPCH559 – 黑岩射手[汉化正式版][简][黑岩射手汉化组]"
+  - id: "PSPCH560"
+    title: "黑岩射手"
+    language:
+      - "zh-Hant"
+    groups:
+      - "黑岩射手汉化组"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化正式版"
+    raw: "PSPCH560 – 黑岩射手[汉化正式版][繁][黑岩射手汉化组]"
+  - id: "PSPCH561"
+    title: "新世纪福音战士 钢铁女友2nd"
+    language:
+      - "zh-Hans"
+    groups:
+      - "main_void"
+      - "EVA同好会"
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "汉化修正版"
+    raw: "PSPCH561 – 新世纪福音战士 钢铁女友2nd[简][汉化修正版][main_void+EVA同好会]"
+  - id: "PSPCH562"
+    title: "游戏王5D's 卡片力量6"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v0.86"
+    disc: null
+    notes:
+      - "全剧情汉化v0.86"
+      - "未来"
+    raw: "PSPCH562 – 游戏王5D's 卡片力量6[简][全剧情汉化v0.86][未来]"
+  - id: "PSPCH563"
+    title: "我的暑假携带版2 神秘姐妹和沉船的秘密"
+    language:
+      - "zh-Hans"
+    groups:
+      - "八月三十二日汉化组"
+    official: null
+    version:
+      - "v1.2"
+    disc: null
+    notes:
+      - "v1.2"
+    raw: "PSPCH563 – 我的暑假携带版2 神秘姐妹和沉船的秘密[简][v1.2][八月三十二日汉化组]"
+  - id: "PSPCH564"
+    title: "FATE 无限代码"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.5"
+    disc: null
+    notes:
+      - "纹理汉化版v1.5"
+      - "卡司红茶"
+      - "仅限模拟器使用"
+    raw: "PSPCH564 – FATE 无限代码[纹理汉化版v1.5][简][卡司红茶](仅限模拟器使用)"
+  - id: "PSPCH565"
+    title: "奥特曼 格斗进化0"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v0.8"
+    disc: null
+    notes:
+      - "纹理汉化版v0.8"
+      - "卡司红茶"
+      - "仅限模拟器使用"
+    raw: "PSPCH565 – 奥特曼 格斗进化0[纹理汉化版v0.8][简][卡司红茶](仅限模拟器使用)"
+  - id: "PSPCH566"
+    title: "地球防卫军2"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.5"
+    disc: null
+    notes:
+      - "纹理汉化版v1.5"
+      - "卡司红茶"
+      - "仅限模拟器使用"
+    raw: "PSPCH566 – 地球防卫军2[纹理汉化版v1.5][简][卡司红茶](仅限模拟器使用)"
+  - id: "PSPCH567"
+    title: "高达vs.高达 NEXT PLUS"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v3.0"
+    disc: null
+    notes:
+      - "纹理汉化版v3.0"
+      - "卡司红茶"
+      - "仅限模拟器使用"
+    raw: "PSPCH567 – 高达vs.高达 NEXT PLUS[纹理汉化版v3.0][简][卡司红茶](仅限模拟器使用)"
+  - id: "PSPCH568"
+    title: "假面骑士 超巅峰英雄"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.5"
+    disc: null
+    notes:
+      - "纹理汉化版v1.5"
+      - "卡司红茶"
+      - "仅限模拟器使用"
+    raw: "PSPCH568 – 假面骑士 超巅峰英雄[纹理汉化版v1.5][简][卡司红茶](仅限模拟器使用)"
+  - id: "PSPCH569"
+    title: "天诛3携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "zeddbai+aikika"
+    raw: "PSPCH569 – 天诛3携带版[简][zeddbai+aikika]"
+  - id: "PSPCH570"
+    title: "黑豹 如龙新章"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1汉化测试"
+      - "南德小学生"
+    raw: "PSPCH570 – 黑豹 如龙新章[简][v1.1汉化测试][南德小学生]"
+  - id: "PSPCH571"
+    title: "黑豹2 如龙 阿修罗篇"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.3"
+    disc: null
+    notes:
+      - "v1.3"
+      - "南德小学生"
+    raw: "PSPCH571 – 黑豹2 如龙 阿修罗篇[简][v1.3][南德小学生]"
+  - id: "PSPCH572"
+    title: "DJMAX携带版3"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "纹理汉化版"
+      - "狸克"
+      - "仅限模拟器使用"
+    raw: "PSPCH572 – DJMAX携带版3[纹理汉化版][简][狸克](仅限模拟器使用)"
+  - id: "PSPCH573"
+    title: "DJMAX携带版 火热曲调"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "纹理汉化版"
+      - "狸克"
+      - "仅限模拟器使用"
+    raw: "PSPCH573 – DJMAX携带版 火热曲调[纹理汉化版][简][狸克](仅限模拟器使用)"
+  - id: "PSPCH574"
+    title: "幻想传说 换装迷宫X"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "伊祁溯shell"
+    raw: "PSPCH574 – 幻想传说 换装迷宫X[简][伊祁溯shell]"
+  - id: "PSPCH575"
+    title: "头文字D 公路传说"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "南德小学生"
+    raw: "PSPCH575 – 头文字D 公路传说[简][南德小学生]"
+  - id: "PSPCH576"
+    title: "异形战机战略版2 苦涩巧克力行动"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.05"
+    disc: null
+    notes:
+      - "v1.05"
+      - "HiroshiYa"
+    raw: "PSPCH576 – 异形战机战略版2 苦涩巧克力行动[v1.05][简][HiroshiYa]"
+  - id: "PSPCH577"
+    title: "最终幻想"
+    language: null
+    groups: null
+    official: null
+    version:
+      - "v2.3"
+    disc: null
+    notes:
+      - "v2.3"
+      - "bili_48382760774"
+    raw: "PSPCH577 – 最终幻想[v2.3][bili_48382760774]"
+  - id: "PSPCH578"
+    title: "化物语携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.1"
+    disc: null
+    notes:
+      - "v1.1"
+      - "全息玫瑰凋零"
+    raw: "PSPCH578 – 化物语携带版[v1.1][简][全息玫瑰凋零]"
+  - id: "PSPCH579"
+    title: "但丁的地狱"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version:
+      - "v1.01"
+    disc: null
+    notes:
+      - "日版美版融合汉化v1.01"
+      - "我干ufo"
+    raw: "PSPCH579 – 但丁的地狱[日版美版融合汉化v1.01][简][我干ufo]"
+  - id: "PSPCH580"
+    title: "噬神者2"
+    language:
+      - "zh-Hant"
+    groups: null
+    official: null
+    version:
+      - "v2"
+    disc: null
+    notes:
+      - "汉化测试版v2"
+      - "清羽"
+    raw: "PSPCH580 – 噬神者2[汉化测试版v2][繁][清羽]"
+  - id: "PSPCH581"
+    title: "新世纪福音战士 钢铁女友特别篇 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "剧情汉化"
+      - "main_void"
+    raw: "PSPCH581 – 新世纪福音战士 钢铁女友特别篇 携带版[剧情汉化][简][main_void]"
+  - id: "PSPCH582"
+    title: "幸运星 陵樱学园 樱藤祭 携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "一周目汉化"
+      - "江户川柯南丶"
+    raw: "PSPCH582 – 幸运星 陵樱学园 樱藤祭 携带版[一周目汉化][简][江户川柯南丶]"
+  - id: "PSPCH583"
+    title: "游戏王对战怪兽GX卡片力量"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "完整独立汉化版"
+      - "阿省"
+    raw: "PSPCH583 – 游戏王对战怪兽GX卡片力量[完整独立汉化版][简][阿省]"
+  - id: "PSPCH584"
+    title: "天诛3携带版"
+    language:
+      - "zh-Hans"
+    groups: null
+    official: null
+    version: null
+    disc: null
+    notes:
+      - "实机汉化"
+      - "年糕小豆湯"
+    raw: "PSPCH584 – 天诛3携带版[实机汉化][简][年糕小豆湯]"

@@ -60,9 +60,14 @@ game_id: G000101
 catalog_id: "ULJS-00179"
 region: "JP"
 media: "UMD"                # UMD, Digital
+titles: ""
+version: "1.01"
+size: 1105395712
 release_date: 2009-02-12
 hashes:
   sha1: "7110eda4d09e062aa5e4a390b0a572ac0d2c0220"
+  crc32: ""
+  md5: ""
 ```
 
 ### 3.3 汉化版本 (Localization Layer - `localizations/Lxxxx.yml`)
