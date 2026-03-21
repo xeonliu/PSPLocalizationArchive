@@ -1,0 +1,12 @@
+id: L900571
+title: "KESATSU"
+language: zh-Hans
+groups:
+  - GRP_002
+official: true
+version:
+  text: "PSP 直译版"
+files: L900571_files.yml
+story: L900571_story.md
+notes: null
+raw_source: "PSPCH002 KESATSU"

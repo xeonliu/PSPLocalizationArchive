@@ -1,0 +1,11 @@
+id: G000101
+titles:
+  native: "天誅 3 Portable"
+  zh_cn: "天诛3 携带版"
+  en: "Tenchu 3"
+developer: "FromSoftware"
+genres: ["ACT", "Stealth"]
+tags: ["Ninja", "Portable"]
+external_links:
+  redump_index: "R4736"
+description: "PS2 经典动作潜行系列《天诛3》在 PSP 上的移植版本（示例条目）。此文件为示例 `game.yml`，用于展示规范结构。"

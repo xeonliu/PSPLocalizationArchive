@@ -1,0 +1,21 @@
+id: L900570
+parent_localization_id: null
+group_id: "GRP_001"
+staff: []
+target_release: []
+lang: "zh-Hans"
+version: null
+release_date: null
+
+tech_stats:
+  psn_base: null
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+
+links:
+  - label: "source-list-raw"
+    url: "source.txt -> PSPCH001"
+
+notes:
+  - "原始条目: PSPCH001 – 12点的钟声与灰姑娘 万圣节婚礼 [简][心游汉化组]"

@@ -1,0 +1,9 @@
+id: GRP_ZEDDBAI
+name: "zeddbai + aikika"
+status: "inactive"
+founded: null
+description: "组合名称按照 `source.txt` 原文创建的占位条目，需后续补充真实档案信息。"
+website: null
+archives:
+  - label: "source-list-raw"
+    url: "source.txt -> PSPCH569"
