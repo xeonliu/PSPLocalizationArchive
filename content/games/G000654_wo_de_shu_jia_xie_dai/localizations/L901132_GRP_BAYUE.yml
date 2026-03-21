@@ -1,6 +1,7 @@
 id: L901132
 parent_localization_id: null
-group_id: GRP_BAYUE
+groups:
+  - GRP_BAYUE
 staff: []
 target_release: []
 lang: zh-Hans

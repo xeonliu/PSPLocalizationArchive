@@ -1,6 +1,7 @@
 id: L901068
 parent_localization_id: null
-group_id: GRP_MENGMENGLU
+groups:
+  - GRP_MENGMENGLU
 staff: []
 target_release: []
 lang: zh-Hans

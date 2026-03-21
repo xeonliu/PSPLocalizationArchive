@@ -1,6 +1,7 @@
 id: L900581
 parent_localization_id: null
-group_id: GRP_KFC
+groups:
+  - GRP_KFC
 staff: []
 target_release: []
 lang: zh-Hans

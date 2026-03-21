@@ -1,6 +1,7 @@
 id: L900857
 parent_localization_id: null
-group_id: GRP_FANNIE
+groups:
+  - GRP_FANNIE
 staff: []
 target_release: []
 lang: zh-Hans

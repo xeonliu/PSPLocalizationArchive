@@ -1,6 +1,7 @@
 id: L900846
 parent_localization_id: null
-group_id: GRP_PC
+groups:
+  - GRP_PC
 staff: []
 target_release: []
 lang: zh-Hans

@@ -1,6 +1,6 @@
 id: L901152
 parent_localization_id: null
-group_id: null
+groups: []
 staff:
   - id: "S1001"
     role: "Translator"

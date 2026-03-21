@@ -1,6 +1,7 @@
 id: L900999
 parent_localization_id: null
-group_id: GRP_3DMTV
+groups:
+  - GRP_3DMTV
 staff: []
 target_release: []
 lang: zh-Hans

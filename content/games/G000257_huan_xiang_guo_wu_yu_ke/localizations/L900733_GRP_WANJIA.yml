@@ -1,6 +1,7 @@
 id: L900733
 parent_localization_id: null
-group_id: GRP_WANJIA
+groups:
+  - GRP_WANJIA
 staff: []
 target_release: []
 lang: zh-Hans

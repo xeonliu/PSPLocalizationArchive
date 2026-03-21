@@ -1,6 +1,7 @@
 id: L900605
 parent_localization_id: null
-group_id: GRP_UNKNOWN_NAME
+groups:
+  - GRP_UNKNOWN_NAME
 staff: []
 target_release: []
 lang: zh-Hans

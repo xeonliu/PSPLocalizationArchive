@@ -1,6 +1,7 @@
 id: L901086
 parent_localization_id: null
-group_id: GRP_YIMENG
+groups:
+  - GRP_YIMENG
 staff: []
 target_release: []
 lang: zh-Hans

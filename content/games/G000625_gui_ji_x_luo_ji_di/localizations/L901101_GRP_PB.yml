@@ -1,6 +1,7 @@
 id: L901101
 parent_localization_id: null
-group_id: GRP_PB
+groups:
+  - GRP_PB
 staff: []
 target_release: []
 lang: zh-Hans

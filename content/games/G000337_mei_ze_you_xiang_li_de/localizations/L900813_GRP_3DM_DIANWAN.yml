@@ -1,6 +1,7 @@
 id: L900813
 parent_localization_id: null
-group_id: GRP_3DM_DIANWAN
+groups:
+  - GRP_3DM_DIANWAN
 staff: []
 target_release: []
 lang: zh-Hans

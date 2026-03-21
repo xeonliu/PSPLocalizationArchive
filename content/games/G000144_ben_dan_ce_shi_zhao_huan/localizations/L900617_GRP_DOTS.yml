@@ -1,6 +1,7 @@
 id: L900617
 parent_localization_id: null
-group_id: GRP_DOTS
+groups:
+  - GRP_DOTS
 staff: []
 target_release: []
 lang: zh-Hans

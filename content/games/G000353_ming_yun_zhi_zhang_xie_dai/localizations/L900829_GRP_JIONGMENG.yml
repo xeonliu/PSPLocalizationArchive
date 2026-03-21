@@ -1,6 +1,7 @@
 id: L900829
 parent_localization_id: null
-group_id: GRP_JIONGMENG
+groups:
+  - GRP_JIONGMENG
 staff: []
 target_release: []
 lang: zh-Hans

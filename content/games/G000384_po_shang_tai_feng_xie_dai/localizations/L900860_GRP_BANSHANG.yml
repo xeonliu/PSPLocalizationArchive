@@ -1,6 +1,7 @@
 id: L900860
 parent_localization_id: null
-group_id: GRP_BANSHANG
+groups:
+  - GRP_BANSHANG
 staff: []
 target_release: []
 lang: zh-Hans

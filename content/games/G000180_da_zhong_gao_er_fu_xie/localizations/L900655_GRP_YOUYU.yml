@@ -1,6 +1,7 @@
 id: L900655
 parent_localization_id: null
-group_id: GRP_YOUYU
+groups:
+  - GRP_YOUYU
 staff: []
 target_release: []
 lang: zh-Hans

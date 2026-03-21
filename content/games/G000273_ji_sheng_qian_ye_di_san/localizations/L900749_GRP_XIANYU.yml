@@ -1,6 +1,7 @@
 id: L900749
 parent_localization_id: null
-group_id: GRP_XIANYU
+groups:
+  - GRP_XIANYU
 staff: []
 target_release: []
 lang: zh-Hans

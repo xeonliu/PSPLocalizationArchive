@@ -1,6 +1,7 @@
 id: L900712
 parent_localization_id: null
-group_id: GRP_GUOCHANG
+groups:
+  - GRP_GUOCHANG
 staff: []
 target_release: []
 lang: zh-Hans

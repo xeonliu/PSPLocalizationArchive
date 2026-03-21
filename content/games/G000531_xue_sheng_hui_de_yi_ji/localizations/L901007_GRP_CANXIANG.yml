@@ -1,6 +1,7 @@
 id: L901007
 parent_localization_id: null
-group_id: GRP_CANXIANG
+groups:
+  - GRP_CANXIANG
 staff: []
 target_release: []
 lang: zh-Hans

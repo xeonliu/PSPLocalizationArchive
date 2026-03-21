@@ -1,6 +1,8 @@
 id: L900628
 parent_localization_id: null
-group_id: GRP_DANWAN
+groups:
+  - GRP_DANWAN
+  - GRP_PUJIA
 staff: []
 target_release: []
 lang: zh-Hans

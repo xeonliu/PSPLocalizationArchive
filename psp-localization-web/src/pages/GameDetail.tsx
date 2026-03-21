@@ -131,10 +131,17 @@ const GameDetail = () => {
     { title: '语言', dataIndex: 'lang', key: 'lang', width: 80 },
     {
       title: '汉化组',
-      dataIndex: 'group_id',
-      key: 'group_id',
+      key: 'groups',
       width: 150,
-      render: (groupId: string) => <Link to={`/groups/${groupId}`}><Tag color="purple">{groups.get(groupId) || groupId}</Tag></Link>,
+      render: (_: unknown, record: Localization) => (
+        <Space wrap>
+          {record.groups?.map((groupId) => (
+            <Link key={groupId} to={`/groups/${groupId}`}>
+              <Tag color="purple">{groups.get(groupId) || groupId}</Tag>
+            </Link>
+          ))}
+        </Space>
+      ),
     },
     { title: '版本', dataIndex: 'version', key: 'version', width: 100 },
     { title: '发布日期', dataIndex: 'release_date', key: 'release_date', width: 120 },

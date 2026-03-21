@@ -1,6 +1,7 @@
 id: L900676
 parent_localization_id: null
-group_id: GRP_SNOW
+groups:
+  - GRP_SNOW
 staff: []
 target_release: []
 lang: zh-Hans

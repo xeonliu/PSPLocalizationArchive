@@ -1,6 +1,7 @@
 id: L900803
 parent_localization_id: null
-group_id: GRP_FEIXUE
+groups:
+  - GRP_FEIXUE
 staff: []
 target_release: []
 lang: zh-Hans

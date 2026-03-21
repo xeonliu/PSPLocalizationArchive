@@ -1,6 +1,7 @@
 id: L900774
 parent_localization_id: null
-group_id: GRP_DUOWANAND
+groups:
+  - GRP_DUOWANAND
 staff: []
 target_release: []
 lang: zh-Hans

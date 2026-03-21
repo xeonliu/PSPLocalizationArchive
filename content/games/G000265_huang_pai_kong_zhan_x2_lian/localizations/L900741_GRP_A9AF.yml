@@ -1,6 +1,7 @@
 id: L900741
 parent_localization_id: null
-group_id: GRP_A9AF
+groups:
+  - GRP_A9AF
 staff: []
 target_release: []
 lang: zh-Hans

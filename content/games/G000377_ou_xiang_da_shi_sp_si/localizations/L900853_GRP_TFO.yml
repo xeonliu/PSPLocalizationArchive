@@ -1,6 +1,7 @@
 id: L900853
 parent_localization_id: null
-group_id: GRP_TFO
+groups:
+  - GRP_TFO
 staff: []
 target_release: []
 lang: zh-Hans

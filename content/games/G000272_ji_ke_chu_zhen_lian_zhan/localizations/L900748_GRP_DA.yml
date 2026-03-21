@@ -1,6 +1,7 @@
 id: L900748
 parent_localization_id: null
-group_id: GRP_DA
+groups:
+  - GRP_DA
 staff: []
 target_release: []
 lang: zh-Hans

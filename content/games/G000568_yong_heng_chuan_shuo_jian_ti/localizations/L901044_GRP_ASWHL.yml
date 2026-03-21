@@ -1,6 +1,7 @@
 id: L901044
 parent_localization_id: null
-group_id: GRP_ASWHL
+groups:
+  - GRP_ASWHL
 staff: []
 target_release: []
 lang: zh-Hans

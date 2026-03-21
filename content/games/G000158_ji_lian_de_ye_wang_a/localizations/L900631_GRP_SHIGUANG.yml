@@ -1,6 +1,7 @@
 id: L900631
 parent_localization_id: null
-group_id: GRP_SHIGUANG
+groups:
+  - GRP_SHIGUANG
 staff: []
 target_release: []
 lang: zh-Hans

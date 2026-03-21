@@ -1,6 +1,7 @@
 id: L901123
 parent_localization_id: null
-group_id: GRP_MINJIAN
+groups:
+  - GRP_MINJIAN
 staff: []
 target_release: []
 lang: zh-Hant

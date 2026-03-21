@@ -1,6 +1,7 @@
 id: L900942
 parent_localization_id: null
-group_id: GRP_PSPBA
+groups:
+  - GRP_PSPBA
 staff: []
 target_release: []
 lang: zh-Hans

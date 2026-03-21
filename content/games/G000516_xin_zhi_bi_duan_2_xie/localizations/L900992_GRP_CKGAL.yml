@@ -1,6 +1,7 @@
 id: L900992
 parent_localization_id: null
-group_id: GRP_CKGAL
+groups:
+  - GRP_CKGAL
 staff: []
 target_release: []
 lang: zh-Hans

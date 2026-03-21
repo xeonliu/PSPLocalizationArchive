@@ -1,6 +1,7 @@
 id: L900858
 parent_localization_id: null
-group_id: GRP_CHUANGZAO
+groups:
+  - GRP_CHUANGZAO
 staff: []
 target_release: []
 lang: zh-Hans

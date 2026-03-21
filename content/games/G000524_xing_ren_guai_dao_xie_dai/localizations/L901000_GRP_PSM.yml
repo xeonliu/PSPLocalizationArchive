@@ -1,6 +1,7 @@
 id: L901000
 parent_localization_id: null
-group_id: GRP_PSM
+groups:
+  - GRP_PSM
 staff: []
 target_release: []
 lang: zh-Hant

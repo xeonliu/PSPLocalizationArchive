@@ -1,6 +1,7 @@
 id: L900669
 parent_localization_id: null
-group_id: GRP_7THDRAGON
+groups:
+  - GRP_7THDRAGON
 staff: []
 target_release: []
 lang: zh-Hant

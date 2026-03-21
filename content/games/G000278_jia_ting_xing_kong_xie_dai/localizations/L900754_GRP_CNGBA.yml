@@ -1,6 +1,7 @@
 id: L900754
 parent_localization_id: null
-group_id: GRP_CNGBA
+groups:
+  - GRP_CNGBA
 staff: []
 target_release: []
 lang: zh-Hans

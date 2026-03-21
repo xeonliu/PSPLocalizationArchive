@@ -1,6 +1,7 @@
 id: L900714
 parent_localization_id: null
-group_id: GRP_MENGNOMEI
+groups:
+  - GRP_MENGNOMEI
 staff: []
 target_release: []
 lang: zh-Hans

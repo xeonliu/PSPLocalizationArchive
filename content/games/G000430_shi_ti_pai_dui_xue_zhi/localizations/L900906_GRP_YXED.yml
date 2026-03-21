@@ -1,6 +1,7 @@
 id: L900906
 parent_localization_id: null
-group_id: GRP_YXED
+groups:
+  - GRP_YXED
 staff: []
 target_release: []
 lang: zh-Hans

@@ -1,6 +1,7 @@
 id: L900595
 parent_localization_id: null
-group_id: GRP_YXFF
+groups:
+  - GRP_YXFF
 staff: []
 target_release: []
 lang: zh-Hans

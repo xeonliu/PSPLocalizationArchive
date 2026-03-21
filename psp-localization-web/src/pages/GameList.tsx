@@ -50,7 +50,9 @@ const GameList = () => {
       const groupIds = new Set<string>()
       loadedGames.forEach(game => {
         game.localizations?.forEach(loc => {
-          if (loc.group_id) groupIds.add(loc.group_id)
+          if (loc.groups) {
+            loc.groups.forEach(g => groupIds.add(g))
+          }
         })
       })
       const gameGroups = Array.from(groupIds).map(id => ({
@@ -78,7 +80,7 @@ const GameList = () => {
   }
 
   const getGroups = (game: Game) => {
-    return game.localizations?.map(loc => loc.group_id).filter((v, i, a) => a.indexOf(v) === i) || []
+    return game.localizations?.flatMap(loc => loc.groups || []).filter((v, i, a) => a.indexOf(v) === i) || []
   }
 
   const getVersions = (game: Game) => {

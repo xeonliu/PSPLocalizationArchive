@@ -1,6 +1,7 @@
 id: L900817
 parent_localization_id: null
-group_id: GRP_COGODO
+groups:
+  - GRP_COGODO
 staff: []
 target_release: []
 lang: zh-Hans

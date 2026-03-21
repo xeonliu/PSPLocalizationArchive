@@ -1,6 +1,7 @@
 id: L900845
 parent_localization_id: null
-group_id: GRP_SHISHEN
+groups:
+  - GRP_SHISHEN
 staff: []
 target_release: []
 lang: zh-Hans

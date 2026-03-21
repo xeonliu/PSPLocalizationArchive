@@ -1,6 +1,7 @@
 id: L901046
 parent_localization_id: null
-group_id: GRP_VPG
+groups:
+  - GRP_VPG
 staff: []
 target_release: []
 lang: zh-Hans

@@ -1,6 +1,7 @@
 id: L900795
 parent_localization_id: null
-group_id: GRP_CGP
+groups:
+  - GRP_CGP
 staff: []
 target_release: []
 lang: zh-Hans

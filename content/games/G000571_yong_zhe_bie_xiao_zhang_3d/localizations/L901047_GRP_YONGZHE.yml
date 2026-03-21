@@ -1,6 +1,7 @@
 id: L901047
 parent_localization_id: null
-group_id: GRP_YONGZHE
+groups:
+  - GRP_YONGZHE
 staff: []
 target_release: []
 lang: zh-Hans

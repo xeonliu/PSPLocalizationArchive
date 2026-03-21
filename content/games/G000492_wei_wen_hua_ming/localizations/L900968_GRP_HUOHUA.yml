@@ -1,6 +1,7 @@
 id: L900968
 parent_localization_id: null
-group_id: GRP_HUOHUA
+groups:
+  - GRP_HUOHUA
 staff: []
 target_release: []
 lang: zh-Hans

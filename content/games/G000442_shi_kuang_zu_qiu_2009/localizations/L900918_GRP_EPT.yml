@@ -1,6 +1,7 @@
 id: L900918
 parent_localization_id: null
-group_id: GRP_EPT
+groups:
+  - GRP_EPT
 staff: []
 target_release: []
 lang: zh-Hans

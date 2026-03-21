@@ -1,7 +1,11 @@
 id: L900569
 parent_localization_id: null
-group_id: "GRP_ZEDDBAI"
-staff: []
+groups: []
+staff:
+- role: "汉化"
+  name: "zeddbai"
+- role: "汉化"
+  name: "aikika" 
 target_release: ["R4736"]
 lang: "zh-Hans"
 version: null

@@ -1,6 +1,7 @@
 id: L901116
 parent_localization_id: null
-group_id: GRP_FENGLING
+groups:
+  - GRP_FENGLING
 staff: []
 target_release: []
 lang: zh-Hans

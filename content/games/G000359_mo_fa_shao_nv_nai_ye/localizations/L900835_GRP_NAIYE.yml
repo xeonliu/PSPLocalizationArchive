@@ -1,6 +1,7 @@
 id: L900835
 parent_localization_id: null
-group_id: GRP_NAIYE
+groups:
+  - GRP_NAIYE
 staff: []
 target_release: []
 lang: zh-Hans

@@ -32,7 +32,7 @@ export interface FileNode {
 export interface Localization {
   id: string;
   parent_localization_id: string | null;
-  group_id: string;
+  groups: string[] | null;
   staff: { id: string; role: string }[];
   target_release: string[];
   lang: string;
@@ -197,8 +197,8 @@ export function getAllGroups(games: Game[]): { id: string; name: string }[] {
   const groupIds = new Set<string>();
   games.forEach(game => {
     game.localizations?.forEach(loc => {
-      if (loc.group_id) {
-        groupIds.add(loc.group_id);
+      if (loc.groups) {
+        loc.groups.forEach(g => groupIds.add(g));
       }
     });
   });
@@ -247,7 +247,7 @@ export function filterGames(
     }
 
     if (filters.group && filters.group !== 'all') {
-      const hasGroup = game.localizations?.some(loc => loc.group_id === filters.group);
+      const hasGroup = game.localizations?.some(loc => loc.groups?.includes(filters.group!));
       if (!hasGroup) return false;
     }
 

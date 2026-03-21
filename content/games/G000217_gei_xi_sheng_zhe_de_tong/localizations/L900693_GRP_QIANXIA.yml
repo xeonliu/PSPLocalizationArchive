@@ -1,6 +1,7 @@
 id: L900693
 parent_localization_id: null
-group_id: GRP_QIANXIA
+groups:
+  - GRP_QIANXIA
 staff: []
 target_release: []
 lang: zh-Hans

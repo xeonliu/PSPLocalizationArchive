@@ -1,6 +1,7 @@
 id: L900688
 parent_localization_id: null
-group_id: GRP_NEOCORE
+groups:
+  - GRP_NEOCORE
 staff: []
 target_release: []
 lang: zh-Hant

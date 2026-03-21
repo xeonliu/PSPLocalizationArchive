@@ -1,6 +1,7 @@
 id: L901115
 parent_localization_id: null
-group_id: GRP_TULONG
+groups:
+  - GRP_TULONG
 staff: []
 target_release: []
 lang: zh-Hans

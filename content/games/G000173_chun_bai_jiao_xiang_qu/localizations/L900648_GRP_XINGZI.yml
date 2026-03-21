@@ -1,6 +1,7 @@
 id: L900648
 parent_localization_id: null
-group_id: GRP_XINGZI
+groups:
+  - GRP_XINGZI
 staff: []
 target_release: []
 lang: zh-Hans

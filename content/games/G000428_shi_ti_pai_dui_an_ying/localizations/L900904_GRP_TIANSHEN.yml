@@ -1,6 +1,7 @@
 id: L900904
 parent_localization_id: null
-group_id: GRP_TIANSHEN
+groups:
+  - GRP_TIANSHEN
 staff: []
 target_release: []
 lang: zh-Hans

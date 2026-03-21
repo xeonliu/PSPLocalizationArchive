@@ -1,6 +1,7 @@
 id: L900770
 parent_localization_id: null
-group_id: GRP_AND
+groups:
+  - GRP_AND
 staff: []
 target_release: []
 lang: zh-Hans

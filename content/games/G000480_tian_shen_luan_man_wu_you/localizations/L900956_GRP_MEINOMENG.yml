@@ -1,6 +1,7 @@
 id: L900956
 parent_localization_id: null
-group_id: GRP_MEINOMENG
+groups:
+  - GRP_MEINOMENG
 staff: []
 target_release: []
 lang: zh-Hans

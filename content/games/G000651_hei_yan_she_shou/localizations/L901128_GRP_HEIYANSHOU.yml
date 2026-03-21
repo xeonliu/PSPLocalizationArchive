@@ -1,6 +1,7 @@
 id: L901128
 parent_localization_id: null
-group_id: GRP_HEIYANSHOU
+groups:
+  - GRP_HEIYANSHOU
 staff: []
 target_release: []
 lang: zh-Hans

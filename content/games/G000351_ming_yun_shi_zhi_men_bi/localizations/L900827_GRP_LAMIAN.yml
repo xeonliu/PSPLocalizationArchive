@@ -1,6 +1,7 @@
 id: L900827
 parent_localization_id: null
-group_id: GRP_LAMIAN
+groups:
+  - GRP_LAMIAN
 staff: []
 target_release: []
 lang: zh-Hans

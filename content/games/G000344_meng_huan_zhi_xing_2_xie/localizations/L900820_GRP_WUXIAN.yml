@@ -1,6 +1,7 @@
 id: L900820
 parent_localization_id: null
-group_id: GRP_WUXIAN
+groups:
+  - GRP_WUXIAN
 staff: []
 target_release: []
 lang: zh-Hans

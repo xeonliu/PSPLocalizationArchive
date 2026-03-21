@@ -1,6 +1,7 @@
 id: L901117
 parent_localization_id: null
-group_id: GRP_SUPASHA
+groups:
+  - GRP_SUPASHA
 staff: []
 target_release: []
 lang: zh-Hans

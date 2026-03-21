@@ -1,6 +1,7 @@
 id: L900807
 parent_localization_id: null
-group_id: GRP_XIANGCAI
+groups:
+  - GRP_XIANGCAI
 staff: []
 target_release: []
 lang: zh-Hans

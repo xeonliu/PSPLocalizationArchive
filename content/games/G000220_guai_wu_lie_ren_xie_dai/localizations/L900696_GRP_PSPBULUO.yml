@@ -1,6 +1,7 @@
 id: L900696
 parent_localization_id: null
-group_id: GRP_PSPBULUO
+groups:
+  - GRP_PSPBULUO
 staff: []
 target_release: []
 lang: zh-Hant

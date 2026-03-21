@@ -1,6 +1,7 @@
 id: L900998
 parent_localization_id: null
-group_id: GRP_79B
+groups:
+  - GRP_79B
 staff: []
 target_release: []
 lang: zh-Hans

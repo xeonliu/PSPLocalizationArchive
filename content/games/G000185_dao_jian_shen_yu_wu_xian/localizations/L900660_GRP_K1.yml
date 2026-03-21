@@ -1,6 +1,7 @@
 id: L900660
 parent_localization_id: null
-group_id: GRP_K1
+groups:
+  - GRP_K1
 staff: []
 target_release: []
 lang: zh-Hans

@@ -1,6 +1,7 @@
 id: L900700
 parent_localization_id: null
-group_id: GRP_BAISHI
+groups:
+  - GRP_BAISHI
 staff: []
 target_release: []
 lang: zh-Hant

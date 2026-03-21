@@ -1,6 +1,7 @@
 id: L900593
 parent_localization_id: null
-group_id: GRP_CG_SIS
+groups:
+  - GRP_CG_SIS
 staff: []
 target_release: []
 lang: zh-Hans

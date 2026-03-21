@@ -23,7 +23,7 @@ const GroupDetail = () => {
         // 查找该汉化组参与的所有游戏
         const allGames = await loadGames()
         const groupGames = allGames.filter(game => 
-          game.localizations?.some(loc => loc.group_id === id)
+          game.localizations?.some(loc => loc.groups?.includes(id))
         )
         setGames(groupGames)
       }
@@ -73,7 +73,7 @@ const GroupDetail = () => {
       title: '参与版本',
       key: 'versions',
       render: (_: unknown, record: Game) => {
-        const locs = record.localizations?.filter(loc => loc.group_id === id) || []
+        const locs = record.localizations?.filter(loc => loc.groups?.includes(id)) || []
         return (
           <Space wrap>
             {locs.map(loc => (
@@ -90,7 +90,7 @@ const GroupDetail = () => {
       key: 'release_date',
       width: 150,
       render: (_: unknown, record: Game) => {
-        const locs = record.localizations?.filter(loc => loc.group_id === id) || []
+        const locs = record.localizations?.filter(loc => loc.groups?.includes(id)) || []
         // 取最早的发布日期展示
         const dates = locs.map(loc => loc.release_date).filter(Boolean) as string[]
         if (dates.length === 0) return '-'

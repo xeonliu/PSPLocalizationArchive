@@ -1,6 +1,7 @@
 id: L900983
 parent_localization_id: null
-group_id: GRP_YUEXIA
+groups:
+  - GRP_YUEXIA
 staff: []
 target_release: []
 lang: zh-Hans

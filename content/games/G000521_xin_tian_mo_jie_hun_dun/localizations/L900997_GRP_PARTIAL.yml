@@ -1,6 +1,7 @@
 id: L900997
 parent_localization_id: null
-group_id: GRP_PARTIAL
+groups:
+  - GRP_PARTIAL
 staff: []
 target_release: []
 lang: zh-Hans

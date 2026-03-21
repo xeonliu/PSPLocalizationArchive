@@ -1,6 +1,7 @@
 id: L900809
 parent_localization_id: null
-group_id: GRP_OREZERO
+groups:
+  - GRP_OREZERO
 staff: []
 target_release: []
 lang: zh-Hans

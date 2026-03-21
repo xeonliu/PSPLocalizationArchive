@@ -1,6 +1,7 @@
 id: L901087
 parent_localization_id: null
-group_id: GRP_PUJIA
+groups:
+  - GRP_PUJIA
 staff: []
 target_release: []
 lang: zh-Hans

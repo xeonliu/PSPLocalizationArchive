@@ -1,6 +1,7 @@
 id: L900677
 parent_localization_id: null
-group_id: GRP_XINSU
+groups:
+  - GRP_XINSU
 staff: []
 target_release: []
 lang: zh-Hans
