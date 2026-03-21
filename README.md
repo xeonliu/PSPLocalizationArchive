@@ -1,0 +1,86 @@
+# PSP Localization Archive (PSP 汉化游戏档案库)
+
+[![PR Validation](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/validate-pr.yml/badge.svg)](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/validate-pr.yml)
+[![Deploy to GitHub Pages](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/your-org/PSPLocalizationArchive/actions/workflows/deploy-pages.yml)
+
+> 这是一个致力于记录和保存 PSP（PlayStation Portable）时代民间汉化游戏历史的学术级元数据框架与数字档案库。
+
+## 📖 项目简介
+
+在 2000 年代中后期，PSP 平台涌现了大量优秀的民间汉化游戏。这些汉化作品不仅是玩家们的青春回忆，更是中国民间本地化历史上不可磨灭的一环。
+然而，随着时间的推移，许多早期的发布贴、原版 ISO 信息以及汉化人员名单都在逐渐消失。
+
+**PSP Localization Archive** 的目标是：
+1. **结构化保存**：以 YAML 格式精确记录游戏原版信息、汉化版本差异、汉化组及参与人员的元数据。
+2. **技术精度还原**：通过记录镜像的 LBA（逻辑扇区地址）与文件修改标记，还原 ISO 被篡改（汉化）的技术轨迹。
+3. **版本演进梳理**：通过清晰的依赖关系，梳理出不同汉化版本之间的“继承”或“修正”谱系。
+4. **数字尊严**：为当年默默付出的汉化组（如 CG汉化组、扑家汉化组、澄空学园等）和个人建立独立的数字档案。
+
+---
+
+## 📂 目录结构
+
+档案库的结构被设计为“底层物理镜像”与“上层人文叙事”的逻辑解耦：
+
+```text
+/
+├── content/
+│   └── games/                      # 游戏数据库 (按游戏隔离)
+│       └── G000101_Tenchu3/
+│           ├── game.yml            # 游戏本体基础信息
+│           ├── releases/           # 官方发行的原版镜像信息 (如 日版、美版)
+│           └── localizations/      # 各个民间汉化版本的信息及技术指标
+├── entities/                       # 贡献实体库
+│   ├── groups/                     # 汉化组档案 (如 ACG, 扑家 等)
+│   └── staff/                      # 参与汉化的个人档案 (翻译、破解、美工等)
+├── scripts/                        # 自动化处理与数据校验脚本
+├── psp-localization-web/           # 用于展示数据的 React 前端网页项目
+└── specification.md                # 档案库的完整技术规范 (必读)
+```
+
+---
+
+## 🛠️ 技术规范
+
+本项目遵循严谨的元数据规范。在提交任何数据之前，请务必仔细阅读 [specification.md](./specification.md) 了解详细的数据模型定义。
+
+### 核心亮点：
+- **逻辑 ID 关联**：汉化版本通过 `group_id` 和 `staff.id` 关联到 `entities` 目录下的实体，保证数据的一致性与可追溯性。
+- **引用完整性校验**：项目中包含了自动化脚本 `scripts/validate_integrity.py`，并在每次 PR 提交时通过 GitHub Actions 进行严格校验，防止“死链”。
+
+---
+
+## 🌐 网页展示
+
+我们提供了一个基于 React + Vite 的前端项目用于可视化展示档案库的数据。
+
+### 本地运行预览
+```bash
+cd psp-localization-web
+npm install
+npm run dev
+```
+
+该网页会通过 GitHub Actions 自动构建并部署到 GitHub Pages 上。
+
+---
+
+## 🤝 如何贡献
+
+我们非常欢迎任何了解 PSP 汉化历史、手中存有珍贵镜像或文档的同好参与贡献！
+
+**你可以通过以下方式帮助我们：**
+1. 补充缺失的游戏原版 (`releases`) 或汉化版 (`localizations`) 信息。
+2. 完善汉化组 (`entities/groups`) 的历史沿革或代表作品。
+3. 补充当年参与汉化的个人 (`entities/staff`) 档案。
+4. 提供汉化背后的幕后故事 (`_story.md`)。
+
+详细的贡献指南、数据格式要求及提交流程，请参阅 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+
+---
+
+## 📜 许可证
+
+本档案库（包含 YAML 数据和前端代码）采用 [MIT License](LICENSE) 开源。
+
+*注：本项目仅作为历史元数据的保存与研究，**不提供**任何游戏本体、ISO 镜像文件或侵权补丁的下载。*
