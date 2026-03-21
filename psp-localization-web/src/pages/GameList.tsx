@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import { Table, Input, Select, Space, Tag, Card, Row, Col, Statistic } from 'antd'
 import { SearchOutlined, FilterOutlined } from '@ant-design/icons'
 import { Link } from 'react-router-dom'
-import { Game, loadGames, getAllGroups, filterGames } from '../data'
+import { Game, loadGames, loadGroups, filterGames } from '../data'
 
 const { Search } = Input
 
@@ -14,12 +14,30 @@ const GameList = () => {
   const [groupFilter, setGroupFilter] = useState<string>('all')
   const [filteredGames, setFilteredGames] = useState<Game[]>([])
   const [allGroups, setAllGroups] = useState<{ id: string; name: string }[]>([])
+  const [groupMap, setGroupMap] = useState<Map<string, string>>(new Map())
 
   useEffect(() => {
     const init = async () => {
-      const loadedGames = await loadGames()
+      const [loadedGames, groups] = await Promise.all([loadGames(), loadGroups()])
       setGames(loadedGames)
-      setAllGroups(getAllGroups(loadedGames))
+      
+      const gMap = new Map<string, string>()
+      groups.forEach(g => gMap.set(g.id, g.name))
+      setGroupMap(gMap)
+
+      // 提取游戏中出现的所有汉化组 ID，并附加上真实的汉化组名称
+      const groupIds = new Set<string>()
+      loadedGames.forEach(game => {
+        game.localizations?.forEach(loc => {
+          if (loc.group_id) groupIds.add(loc.group_id)
+        })
+      })
+      const gameGroups = Array.from(groupIds).map(id => ({
+        id,
+        name: gMap.get(id) || id
+      }))
+      setAllGroups(gameGroups)
+      
       setLoading(false)
     }
     init()

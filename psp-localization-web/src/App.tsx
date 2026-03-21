@@ -4,6 +4,7 @@ import { HomeOutlined, SearchOutlined, TeamOutlined } from '@ant-design/icons'
 import GameList from './pages/GameList'
 import GameDetail from './pages/GameDetail'
 import Groups from './pages/Groups'
+import GroupDetail from './pages/GroupDetail'
 import './App.css'
 
 const { Header, Content } = Layout
@@ -44,6 +45,7 @@ function App() {
           <Route path="/" element={<GameList />} />
           <Route path="/game/:id" element={<GameDetail />} />
           <Route path="/groups" element={<Groups />} />
+          <Route path="/groups/:id" element={<GroupDetail />} />
         </Routes>
       </Content>
     </Layout>

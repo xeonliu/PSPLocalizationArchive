@@ -133,7 +133,7 @@ const GameDetail = () => {
       dataIndex: 'group_id',
       key: 'group_id',
       width: 150,
-      render: (groupId: string) => groups.get(groupId) || groupId
+      render: (groupId: string) => <Link to={`/groups/${groupId}`}><Tag color="purple">{groups.get(groupId) || groupId}</Tag></Link>,
     },
     { title: '版本', dataIndex: 'version', key: 'version', width: 100 },
     { title: '发布日期', dataIndex: 'release_date', key: 'release_date', width: 120 },
