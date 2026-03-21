@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
 import { Card, Tag, Typography, Spin, Descriptions, Breadcrumb, Space, Alert, Table, Tree } from 'antd'
 import type { DataNode } from 'antd/es/tree'
@@ -75,7 +75,7 @@ const GameDetail = () => {
                 <span style={{ color: '#bfbfbf', fontSize: '12px', marginLeft: '8px' }}>
                   {file.mtime}
                 </span>
-                {file.modified && <Tag color="blue" size="small" style={{ margin: 0, lineHeight: '14px' }}>修改</Tag>}
+                {file.modified && <Tag color="blue" style={{ margin: 0, lineHeight: '14px' }}>修改</Tag>}
               </Space>
             ) : (
               part
