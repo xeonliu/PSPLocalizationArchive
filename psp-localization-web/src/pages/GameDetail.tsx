@@ -150,6 +150,22 @@ const GameDetail = () => {
         </Space>
       ),
     },
+    {
+      title: '备注',
+      key: 'notes',
+      width: 250,
+      render: (_: unknown, record: Localization) => (
+        record.notes && record.notes.length > 0 ? (
+          <Space direction="vertical" size={0}>
+            {record.notes.map((note, idx) => (
+              <Typography.Text key={idx} type="secondary" style={{ fontSize: '12px', display: 'block' }}>
+                • {note}
+              </Typography.Text>
+            ))}
+          </Space>
+        ) : '-'
+      ),
+    },
   ]
 
   const releaseColumns = [
