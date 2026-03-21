@@ -2,9 +2,9 @@ id: G000109
 titles:
   native: GT赛车
   zh_cn: GT赛车
-  en: null
-developer: null
-genres: []
+  en: "Gran Turismo"
+developer: "Polyphony Digital"
+genres: ["Racing", "Simulation"]
 tags: []
 external_links: {}
-description: null
+description: "《GT赛车》（Gran Turismo）是Polyphony Digital开发的著名拟真赛车游戏系列在PSP平台上的唯一正统作品，收录了超过800辆赛车和35条赛道。"
