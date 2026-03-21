@@ -1,6 +1,7 @@
 id: L900671
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_BAISHI
 staff: []
 target_release: []
 lang: zh-Hans

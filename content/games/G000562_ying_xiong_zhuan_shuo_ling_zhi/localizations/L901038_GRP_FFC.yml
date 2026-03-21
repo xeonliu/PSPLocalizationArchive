@@ -5,7 +5,7 @@ groups:
 staff: []
 target_release: []
 lang: zh-Hans
-version: null
+version: V1.32
 release_date: null
 tech_stats:
   psn_base: false

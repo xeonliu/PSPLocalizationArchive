@@ -1,6 +1,8 @@
 id: L900740
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_PSPCHINA
+  - GRP_LEISHEN
 staff: []
 target_release: []
 lang: zh-Hant

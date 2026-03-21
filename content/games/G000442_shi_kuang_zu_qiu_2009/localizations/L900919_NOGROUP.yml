@@ -1,6 +1,8 @@
 id: L900919
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_WECG
+  - GRP_WSI
 staff: []
 target_release: []
 lang: zh-Hans

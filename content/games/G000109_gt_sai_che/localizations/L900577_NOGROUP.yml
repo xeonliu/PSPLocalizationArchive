@@ -1,6 +1,8 @@
 id: L900577
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_OFFICIAL
+  - GRP_FEITELIE
 staff: []
 target_release: []
 lang: zh-Hant

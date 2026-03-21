@@ -1,6 +1,7 @@
 id: L901053
 parent_localization_id: null
-groups: []
+groups:
+  - GRP_PSPCHINA
 staff: []
 target_release: []
 lang: zh-Hans
