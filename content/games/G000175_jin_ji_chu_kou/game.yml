@@ -2,9 +2,14 @@ id: G000175
 titles:
   native: 紧急出口
   zh_cn: 紧急出口
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Exit"
+developer: "Taito Corporation"
+genres: ["Puzzle"]
+tags: ["Taito", "Mr. ESC"]
+external_links:
+  serial_umd_jp: "ULJM-05062"
+  serial_umd_jp_budget: "ULJM-05271"
+  serial_umd_kr: "ULKS-46054"
+  serial_umd_us: "ULUS-10074"
+  serial_umd_eu: "ULES-00285"
+description: "《Exit》是 PSP 平台的解谜动作游戏，玩家扮演救援专家 Mr. ESC，在有限时间内规划路线、利用机关与被救人员能力，帮助他们从火灾、爆炸等灾难现场撤离。"
