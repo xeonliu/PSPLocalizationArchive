@@ -1,10 +1,13 @@
 id: G000168
 titles:
-  native: 初音未来 歌姬计划 扩展版
+  native: 初音ミク -Project DIVA- extend
   zh_cn: 初音未来 歌姬计划 扩展版
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Hatsune Miku: Project DIVA Extend"
+developer: "Dingo Inc."
+genres: ["Rhythm", "Music"]
+tags: ["Hatsune Miku", "VOCALOID", "Project DIVA"]
+external_links:
+  serial_umd_jp: "ULJM-05933"
+  serial_umd_asia: "ULAS-42298"
+  serial_psn_jp: "NPJH-50465"
+description: "《初音ミク -Project DIVA- extend》是 PSP 平台的节奏音乐游戏，作为《初音ミク -Project DIVA- 2nd》的扩展版，新增曲目、服装（模块）与演出内容，于 2011 年在日本发售。"

@@ -1,10 +1,12 @@
 id: G000169
 titles:
-  native: 初音未来 歌姬计划2nd
+  native: 初音ミク -Project DIVA- 2nd
   zh_cn: 初音未来 歌姬计划2nd
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Hatsune Miku: Project DIVA 2nd"
+developer: "Dingo Inc."
+genres: ["Rhythm", "Music"]
+tags: ["Hatsune Miku", "VOCALOID", "Project DIVA"]
+external_links:
+  serial_umd_jp: "ULJM-05681"
+  serial_psn_jp: "NPJH-50475"
+description: "《初音ミク -Project DIVA- 2nd》是 PSP 平台的节奏音乐游戏，延续前作玩法并强化演出与曲目内容，于 2010 年在日本发售。"

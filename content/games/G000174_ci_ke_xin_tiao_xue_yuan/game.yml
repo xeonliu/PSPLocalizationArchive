@@ -1,10 +1,12 @@
 id: G000174
 titles:
-  native: 刺客信条 血缘
+  native: アサシン クリード ブラッドライン
   zh_cn: 刺客信条 血缘
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Assassin's Creed: Bloodlines"
+developer: "Griptonite Games"
+genres: ["Action", "Stealth"]
+tags: ["Assassin's Creed", "Ubisoft"]
+external_links:
+  serial_umd_jp: "ULJM-05571"
+  serial_umd_asia: "ULAS-42198"
+description: "《Assassin's Creed: Bloodlines》是 PSP 平台的动作潜行游戏，讲述阿泰尔在本传事件后追踪圣殿骑士残党前往塞浦路斯的故事。"

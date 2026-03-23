@@ -1,10 +1,13 @@
 id: G000181
 titles:
-  native: 大众网球
+  native: みんなのテニス ポータブル
   zh_cn: 大众网球
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Minna no Tennis Portable"
+developer: "Clap Hanz"
+genres: ["Simulation"]
+tags: ["Tennis", "Sports"]
+external_links:
+  serial_umd_jp: "UCJS-10101"
+  serial_umd_asia: "UCAS-40293"
+  serial_psn_jp: "NPJG-00036"
+description: "《みんなのテニス ポータブル》是 PSP 平台的网球游戏，主打易上手的操作与多种对战/挑战内容，并支持本地联机对战。"

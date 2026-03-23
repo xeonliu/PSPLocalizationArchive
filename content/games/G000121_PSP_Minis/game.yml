@@ -1,10 +1,11 @@
 id: G000121
 titles:
-  native: PSP Minis 拉面天国
+  native: PSP Minis拉面天国/ラーメン油天国
   zh_cn: PSP Minis 拉面天国
-  en: null
-developer: null
-genres: []
+  en: Ramen Heaven
+developer: SCEA
+genres:
+  - Strategy
 tags: []
 external_links: {}
-description: null
+description: Ramen Heaven is a strategy game published by SCEA in May 2010. Engage in strategic gameplay managing a ramen restaurant business.

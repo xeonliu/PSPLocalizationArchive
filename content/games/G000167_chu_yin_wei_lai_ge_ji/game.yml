@@ -1,10 +1,14 @@
 id: G000167
 titles:
-  native: 初音未来 歌姬计划
+  native: 初音ミク -Project DIVA-
   zh_cn: 初音未来 歌姬计划
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Hatsune Miku: Project DIVA"
+developer: "Dingo Inc."
+genres: ["Rhythm", "Music"]
+tags: ["Hatsune Miku", "VOCALOID", "Project DIVA"]
+external_links:
+  serial_umd_jp: "ULJM-05472"
+  serial_umd_asia: "ULAS-42163"
+  serial_umd_kr: "UCKS-45123"
+  serial_psn_jp: "NPJH-50494"
+description: "《初音ミク -Project DIVA-》是 PSP 平台的节奏音乐游戏系列第一作，以虚拟歌姬初音未来为主题，通过按键演奏与 MV 演出相结合的方式呈现歌曲内容。"

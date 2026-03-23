@@ -1,10 +1,12 @@
 id: G000183
 titles:
-  native: 弹丸论破 希望的学园和绝望的高中生
+  native: ダンガンロンパ 希望の学園と絶望の高校生
   zh_cn: 弹丸论破 希望的学园和绝望的高中生
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Danganronpa: Trigger Happy Havoc"
+developer: "Spike"
+genres: ["AVG", "Mystery"]
+tags: ["Danganronpa", "Visual Novel"]
+external_links:
+  serial_umd_jp: "ULJS-00337"
+  serial_psn_jp: "NPJH-50372"
+description: "《ダンガンロンパ 希望の学園と絶望の高校生》是 PSP 平台的推理冒险（文字冒险）游戏，围绕“学园封闭”与“学级裁判”展开，通过调查与辩论找出事件真相。"
