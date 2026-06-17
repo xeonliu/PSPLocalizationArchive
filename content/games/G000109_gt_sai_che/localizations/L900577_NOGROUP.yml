@@ -1,10 +1,13 @@
 id: L900577
 parent_localization_id: null
+title: "GT赛车 官方繁中+DLC内封版"
 groups:
   - GRP_OFFICIAL
   - GRP_FEITELIE
 staff: []
-target_release: []
+target_release:
+  - UCAS-40265
+  - UCJS-10100
 lang: zh-Hant
 version: null
 release_date: null
@@ -17,7 +20,11 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH008
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH008 – GT赛车[繁][官方中文版+DLC内封][SONY+腓特烈]'
 - 官方中文版+DLC内封
 - SONY+腓特烈
+- "PSXDataCenter 确认 UCAS-40265 亚洲版包含中文；当前条目按官方繁中内容与腓特烈 DLC 内封整理记录。"
+- "本条不属于民间文本翻译，主要记录官方中文版本及后续整合形态。"

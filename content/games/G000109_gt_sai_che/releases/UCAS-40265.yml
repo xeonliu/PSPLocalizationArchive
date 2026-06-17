@@ -2,4 +2,13 @@ id: UCAS-40265
 game_id: G000109
 catalog_id: "UCAS-40265"
 title: "Gran Turismo"
+foreign_title: "グランツーリスモ"
 region: "Asia"
+version: null
+media: "UMD"
+release_date: null
+size: null
+hashes:
+  crc32: null
+  md5: null
+  sha1: null

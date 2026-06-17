@@ -2,4 +2,15 @@ id: UCJS-10100
 game_id: G000109
 catalog_id: "UCJS-10100"
 title: "Gran Turismo"
+foreign_title: "グランツーリスモ"
 region: "Japan"
+version: "1.01"
+media: "UMD"
+release_date: 2009-10-01
+size: 1085308928
+hashes:
+  crc32: "5672a54f"
+  md5: "872677fe59d58dc6ea39b7228a98b2dd"
+  sha1: "7f7237d46324cbf38e15fe4f857e0046e613edbe"
+notes:
+  - "Redump also lists a UCJS 10100 v2.00 variant: crc32 9200bc8a, md5 bea34a64b2e6f32abc2b0de65c1ef4e7, sha1 2879620973e2d0df41f516ad71657d6c1c5640e8."
