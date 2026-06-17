@@ -1,5 +1,6 @@
 id: L900584
 parent_localization_id: null
+title: "PSP Minis 蛋糕成堆 CG汉化组sis速汉队版"
 groups:
   - GRP_CG_SIS
 staff: []
@@ -16,5 +17,11 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH015
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
+- label: PSXDataCenter PAL list
+  url: https://psxdatacenter.com/psp/plist.html
 notes:
 - '原始条目: PSPCH015 – PSP Minis 蛋糕成堆 [CG汉化组sis速汉队]'
+- "PSXDataCenter 收录 UCAS-40285 与 NPHG-00025 为 [E][Ch]，同时收录日服 PSN 版 NPJG-00045；原始条目称 CG汉化组sis速汉队，当前暂未确认其补丁对应具体发行版。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"

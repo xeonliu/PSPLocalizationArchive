@@ -1,10 +1,12 @@
 id: G000115
 titles:
-  native: PSP Minis 蛋糕成堆
+  native: "Fat Princess: Fistful of Cake"
   zh_cn: PSP Minis 蛋糕成堆
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Fat Princess: Fistful of Cake"
+developer: "SuperVillain Studios"
+genres: ["ACT", "Strategy"]
+tags: ["Fat Princess", "Action Strategy", "Capture the Flag"]
+external_links:
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+  psxdatacenter_pal_list: "https://psxdatacenter.com/psp/plist.html"
+description: "《Fat Princess: Fistful of Cake》是 SuperVillain Studios 开发、Sony Computer Entertainment 发行的 PSP 动作策略游戏，移植自 PS3 版《Fat Princess》，围绕抢救公主、搬运蛋糕和职业协作展开。"
