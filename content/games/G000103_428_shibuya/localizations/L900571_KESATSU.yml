@@ -1,12 +1,32 @@
 id: L900571
-title: "KESATSU"
-language: zh-Hans
+parent_localization_id: null
+title: "428 被封锁的涩谷 V1.1 汉化版"
 groups:
-  - GRP_002
-official: true
-version:
-  text: "PSP 直译版"
-files: L900571_files.yml
-story: L900571_story.md
-notes: null
-raw_source: "PSPCH002 KESATSU"
+  - GRP_PLAY
+  - GRP_PUJIA
+  - GRP_KIDSFC
+staff: []
+target_release:
+  - "ULJS-00219"
+  - "ULJS-00344"
+lang: "zh-Hans"
+version: "v1.1"
+release_date: null
+
+tech_stats:
+  psn_base: false
+  media_install_compatible: null
+  cheat_code_support: null
+  font_requirement: null
+  emulator_only: null
+
+links:
+  - label: "source-list-raw"
+    url: "source.txt -> PSPCH002"
+  - label: "PSXDataCenter NTSC-J list"
+    url: "https://psxdatacenter.com/psp/jlist.html"
+
+notes:
+  - "原始条目: PSPCH002 – 428 被封锁的涩谷 V1.1 [简][PLAY汉化组&扑家汉化组&KIDSFC特创组]"
+  - "旧结构 raw_source: PSPCH002 KESATSU；旧版本备注: PSP 直译版。"
+  - "汉化版来源镜像暂未核定，先关联通常版 ULJS-00219 与 Spike the Best 版 ULJS-00344。"

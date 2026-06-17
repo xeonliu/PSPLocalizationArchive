@@ -1,10 +1,13 @@
 id: G000103
 titles:
-  native: "428 被封锁的涩谷"
+  native: "４２８ ～封鎖された渋谷で～"
   zh_cn: "428 被封锁的涩谷"
-  en: "428 - Fuusa Sareta Shibuya de"
+  en: "428: Fuusa Sareta Shibuya de"
 developer: "Chunsoft"
-genres: ["AVG", "Visual Novel"]
-tags: []
-external_links: {}
-description: "《428：被封锁的涩谷》（428 - Fuusa Sareta Shibuya de）是由Chunsoft开发的一款经典的真人实拍多视角视觉小说游戏。以多视角的交错群像剧讲述了发生在涩谷的悬疑故事。"
+genres: ["AVG", "Visual Novel", "Sound Novel"]
+tags: ["Live Action", "Multiple Protagonists", "Shibuya", "Type-Moon"]
+external_links:
+  redump_index: "R54486"
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+  wikipedia: "https://en.wikipedia.org/wiki/428:_Shibuya_Scramble"
+description: "《428：被封锁的涩谷》（４２８ ～封鎖された渋谷で～）是 Chunsoft 开发的真人实拍多视角声音小说。PSP 版由 Spike 移植发行，围绕涩谷发生的绑架案展开，并通过多名主角的时间线互相影响推进剧情。"
