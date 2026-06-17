@@ -1,10 +1,13 @@
 id: G000106
 titles:
-  native: AKB1 149 恋爱总选举 合盘版
+  native: "ＡＫＢ１／１４９　恋愛総選挙"
   zh_cn: AKB1 149 恋爱总选举 合盘版
-  en: "AKB1/149 - Love Election"
+  en: "AKB1/149: Ren'ai Sousenkyo"
 developer: "Bandai Namco Games"
 genres: ["AVG", "Dating Sim"]
-tags: []
-external_links: {}
-description: "《AKB1/149 恋爱总选举》（AKB1/149 - Love Election）是由万代南梦宫发行的恋爱冒险游戏，玩家将要在AKB48、SKE48、NMB48、HKT48等149名真实偶像中选择一名作为恋人。"
+tags: ["Idol", "AKB48", "SKE48", "NMB48", "HKT48", "Dating Sim", "Two Disc"]
+external_links:
+  redump_index: "R84018"
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+  wikipedia_zh: "https://zh.wikipedia.org/wiki/AKB_1/149_%E6%88%80%E6%84%9B%E7%B8%BD%E9%81%B8%E8%88%89"
+description: "《AKB1/149 恋爱总选举》是 Bandai Namco Games 发行的偶像恋爱模拟游戏，收录 AKB48、SKE48、NMB48、HKT48 成员。PSP 版为游戏运行盘与数据安装盘构成的双 UMD 版本。"

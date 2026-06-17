@@ -1,11 +1,13 @@
 id: L900574
-title: AKB1 149 恋爱总选举 合盘版
+title: "AKB1 149 恋爱总选举 合盘汉化版"
 parent_localization_id: null
 groups:
   - GRP_PLAY
   - GRP_DONGJING
 staff: []
-target_release: []
+target_release:
+  - ULJS-00532
+  - ULJS-00533
 lang: zh-Hans
 version: null
 release_date: null
@@ -18,5 +20,9 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH005
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH005 – AKB1 149 恋爱总选举 合盘版 [简][Play汉化组&东京不够热字幕组]'
+- "PSXDataCenter 列出通常版为 ULJS-00532/ULJS-00533 双盘；当前汉化条目按通常版游戏盘与数据安装盘关联。"
+- "限定版 ULJS-00530/ULJS-00531 与亚洲版 ULAS-42337/ULAS-42338 仍待补齐成对数据盘条目。"
