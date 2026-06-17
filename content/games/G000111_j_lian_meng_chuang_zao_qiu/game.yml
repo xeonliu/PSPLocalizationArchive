@@ -1,10 +1,12 @@
 id: G000111
 titles:
-  native: J联盟创造球会6
+  native: "Ｊ．ＬＥＡＧＵＥ　プロサッカークラブをつくろう！６　Ｐｒｉｄｅ　ｏｆ　Ｊ"
   zh_cn: J联盟创造球会6
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "J.League Pro Soccer Club o Tsukurou! 6: Pride of J"
+developer: "Sega"
+genres: ["SLG", "Sports Management"]
+tags: ["Football", "Soccer", "J.League", "Management"]
+external_links:
+  redump_index: "R83729"
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+description: "《J联盟创造球会6》是 Sega 的足球俱乐部经营模拟游戏《创造球会》系列 PSP 作品，玩家经营 J.League 球队，负责球队建设、球员培养与赛事运营。"

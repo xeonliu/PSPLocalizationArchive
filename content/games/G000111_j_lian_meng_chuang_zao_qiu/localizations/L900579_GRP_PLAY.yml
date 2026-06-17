@@ -1,9 +1,11 @@
 id: L900579
 parent_localization_id: null
+title: "J联盟创造球会6 汉化版"
 groups:
   - GRP_PLAY
 staff: []
-target_release: []
+target_release:
+  - ULJM-05518
 lang: zh-Hans
 version: null
 release_date: null
@@ -16,5 +18,9 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH010
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH010 – J联盟创造球会6 [简][PLAY汉化组]'
+- "Redump 确认 ULJM-05518 为 J.League Pro Soccer Club o Tsukurou! 6: Pride of J；当前汉化条目按该日版关联。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
