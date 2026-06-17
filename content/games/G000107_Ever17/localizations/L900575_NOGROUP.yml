@@ -1,8 +1,12 @@
 id: L900575
 parent_localization_id: null
-groups: []
+title: "Ever17 时空轮回 白金版 v1.1 汉化修正版"
+groups:
+  - GRP_KIDSFC
 staff: []
-target_release: []
+target_release:
+  - ULJM-05437
+  - CF00-20011
 lang: zh-Hans
 version: v1.1
 release_date: null
@@ -15,7 +19,11 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH006
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH006 – Ever17 时空轮回 白金版[简][v1.1汉化修正版][KIDSFC特创组]'
 - v1.1汉化修正版
 - KIDSFC特创组
+- "PSXDataCenter 列出 ULJM-05437 通常版、CF00-20011 限定版、NPJH-50194 数字版和 ULJM-05723 Best Hit Selection；当前汉化条目暂关联 UMD 通常版与限定版。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
