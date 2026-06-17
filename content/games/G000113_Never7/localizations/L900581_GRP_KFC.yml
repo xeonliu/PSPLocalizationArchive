@@ -1,5 +1,6 @@
 id: L900581
 parent_localization_id: null
+title: "Never7 无限轮回的终结 简体中文版"
 groups:
   - GRP_KFC
 staff: []
@@ -16,5 +17,9 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH012
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH012 – Never7 无限轮回的终结 [简][KFC汉化组]'
+- "PSXDataCenter 收录日版发行：ULJM-05433、NPJH-50192、CF00-20009（限定版）。当前暂未确认汉化补丁对应具体发行版。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
