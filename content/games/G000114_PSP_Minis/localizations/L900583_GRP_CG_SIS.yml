@@ -1,5 +1,6 @@
 id: L900583
 parent_localization_id: null
+title: "PSP Minis 爱神丘比特 CG汉化组sis速汉队版"
 groups:
   - GRP_CG_SIS
 staff: []
@@ -16,6 +17,12 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH014
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
+- label: PSXDataCenter PAL list
+  url: https://psxdatacenter.com/psp/plist.html
 notes:
 - '原始条目: PSPCH014 – PSP Minis 爱神丘比特(恋爱丘比特) [CG汉化组sis速汉队]'
 - 恋爱丘比特
+- "PSXDataCenter 收录日版 NPJG-00102（Koi no Cupid）与欧版 NPEX-00003（Love Cupid）。当前暂未确认汉化补丁对应具体发行版。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"

@@ -1,10 +1,12 @@
 id: G000114
 titles:
-  native: PSP Minis 爱神丘比特
+  native: "Koi no Cupid"
   zh_cn: PSP Minis 爱神丘比特
-  en: null
+  en: "Love Cupid"
 developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+genres: ["Puzzle"]
+tags: ["PSP Minis", "Cupid", "Casual"]
+external_links:
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+  psxdatacenter_pal_list: "https://psxdatacenter.com/psp/plist.html"
+description: "《爱神丘比特》（Koi no Cupid / Love Cupid）是一款 PSP Minis 休闲益智游戏。PSXDataCenter 收录日版 PSN 发行 NPJG-00102 与欧版 PSN 发行 NPEX-00003。"
