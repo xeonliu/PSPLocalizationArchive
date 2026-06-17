@@ -1,10 +1,11 @@
 id: G000116
 titles:
-  native: PSP Minis 糕点棋
+  native: "Cohort Chess"
   zh_cn: PSP Minis 糕点棋
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Cohort Chess"
+developer: "Cohort Studios"
+genres: ["Tabletop", "Chess"]
+tags: ["PSP Minis", "Chess"]
+external_links:
+  psxdatacenter_pal_list: "https://psxdatacenter.com/psp/plist.html"
+description: "《Cohort Chess》是 Cohort Studios 开发的 PSP Minis 国际象棋游戏。PSXDataCenter PAL 表收录其欧版 PSN 发行 NPEZ-00215。"

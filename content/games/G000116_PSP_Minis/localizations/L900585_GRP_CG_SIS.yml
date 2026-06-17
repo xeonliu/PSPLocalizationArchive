@@ -1,9 +1,11 @@
 id: L900585
 parent_localization_id: null
+title: "PSP Minis 糕点棋 CG汉化组sis速汉队版"
 groups:
   - GRP_CG_SIS
 staff: []
-target_release: []
+target_release:
+  - NPEZ-00215
 lang: zh-Hans
 version: null
 release_date: null
@@ -16,5 +18,9 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH016
+- label: PSXDataCenter PAL list
+  url: https://psxdatacenter.com/psp/plist.html
 notes:
 - '原始条目: PSPCH016 – PSP Minis 糕点棋 [CG汉化组sis速汉队]'
+- "PSXDataCenter PAL 表收录 NPEZ-00215 为 Cohort Chess；当前未见对应日版发行，日文名待进一步来源确认。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
