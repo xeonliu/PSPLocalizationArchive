@@ -1,5 +1,14 @@
 id: ULJM-06023
 game_id: G000102
 catalog_id: "ULJM-06023"
-title: "12-Ji no Kane to Cinderella - Halloween Wedding"
+title: "12-ji no Kane to Cinderella: Halloween Wedding"
+foreign_title: "１２時の鐘とシンデレラ ～Halloween Wedding～"
 region: "Japan"
+version: "1.02"
+media: "UMD"
+release_date: null
+size: 1233485824
+hashes:
+  crc32: "58826fb9"
+  md5: "8ada91fcfacc600580e88f281d6b6a97"
+  sha1: "d94e054447bdadbb79480d482d43f23d1bc1d4f8"

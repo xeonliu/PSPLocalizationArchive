@@ -1,10 +1,12 @@
 id: G000102
 titles:
-  native: "12点的钟声与灰姑娘 万圣节婚礼"
+  native: "１２時の鐘とシンデレラ ～Halloween Wedding～"
   zh_cn: "12点的钟声与灰姑娘 万圣节婚礼"
-  en: "12-Ji no Kane to Cinderella - Halloween Wedding"
+  en: "12-ji no Kane to Cinderella: Halloween Wedding"
 developer: "QuinRose"
 genres: ["AVG", "Otome"]
-tags: []
-external_links: {}
+tags: ["Visual Novel", "Otome", "Cinderella"]
+external_links:
+  redump_index: "R88495"
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
 description: "《12点的钟声与灰姑娘 万圣节婚礼》（12-Ji no Kane to Cinderella - Halloween Wedding）是由QuinRose制作发行的一款女性向恋爱冒险游戏，是《灰姑娘》系列的一作。"
