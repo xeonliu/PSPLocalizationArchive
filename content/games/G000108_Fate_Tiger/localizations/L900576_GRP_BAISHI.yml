@@ -1,9 +1,11 @@
 id: L900576
 parent_localization_id: null
+title: "Fate Tiger大乱斗 汉化版"
 groups:
   - GRP_BAISHI
 staff: []
-target_release: []
+target_release:
+  - ULJM-05266
 lang: zh-Hans
 version: null
 release_date: null
@@ -16,5 +18,11 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH007
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
+- label: Wikipedia
+  url: https://en.wikipedia.org/wiki/Fate/Tiger_Colosseum
 notes:
 - '原始条目: PSPCH007 – Fate Tiger大乱斗 [简][巴士汉化组]'
+- "PSXDataCenter 列出 ULJM-05266 原版、ULJM-05370 Best Price，以及 ULJM-05360 的 Upper 续作；当前汉化条目按原版 ULJM-05266 关联。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
