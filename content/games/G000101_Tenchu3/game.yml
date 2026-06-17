@@ -1,11 +1,13 @@
 id: G000101
 titles:
-  native: "忍者活劇天誅参ポータブル"
-  zh_cn: "天诛3 携带版"
-  en: " Ninja Katsugeki - Tenchu San Portable"
-developer: "FromSoftware"
-genres: ["ACT", "Stealth"]
-tags: ["Ninja", "Portable"]
+  native: "天誅 忍大全"
+  zh_cn: "天诛 忍大全"
+  en: "Tenchu: Time of the Assassins"
+developer: "K2"
+genres: ["ACT", "Stealth", "Action-Adventure"]
+tags: ["Ninja", "Tenchu", "Mission Editor", "Ad Hoc Multiplayer"]
 external_links:
   redump_index: "R4736"
-description: "PS2 经典动作潜行系列《天诛3》在 PSP 上的移植版本（示例条目）。此文件为示例 `game.yml`，用于展示规范结构。"
+  psxdatacenter_pal_list: "https://psxdatacenter.com/psp/plist.html"
+  wikipedia: "https://en.wikipedia.org/wiki/Tenchu:_Time_of_the_Assassins"
+description: "PSP 平台的《天诛》系列作品，日版名为《天誅 忍大全》，欧版名为《Tenchu: Time of the Assassins》。本作由 K2 开发，收录多名系列角色的短篇任务，并延续任务编辑器与本地联机要素。"

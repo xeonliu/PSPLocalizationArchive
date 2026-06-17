@@ -1,6 +1,9 @@
 id: L900569
 parent_localization_id: null
-groups: []
+title: "天诛 忍大全 汉化版"
+groups:
+  - "GRP_0CBD40"
+  - "GRP_5C2DF1"
 staff:
 - role: "汉化"
   name: "zeddbai"
@@ -11,17 +14,18 @@ lang: "zh-Hans"
 version: null
 release_date: null
 
-# 技术指标（占位）
 tech_stats:
   psn_base: false
   media_install_compatible: null
   cheat_code_support: null
   font_requirement: null
-
   emulator_only: false
 links:
   - label: "source-list-raw"
     url: "localization_db.yml (PSPCH569)"
+  - label: "PSXDataCenter PAL list"
+    url: "https://psxdatacenter.com/psp/plist.html"
 
 notes:
   - "原始条目: PSPCH569 – 天诛3携带版 [简][zeddbai+aikika]"
+  - "原始清单写作“天诛3携带版”，但当前目标发行版 R4736/ULES-00277 对应欧版 Tenchu: Time of the Assassins；按发行版资料归入《天诛 忍大全》。"
