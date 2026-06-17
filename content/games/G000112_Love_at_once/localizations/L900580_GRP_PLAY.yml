@@ -1,5 +1,6 @@
 id: L900580
 parent_localization_id: null
+title: "Love at once 麻将 简体中文版"
 groups:
   - GRP_PLAY
 staff: []
@@ -16,5 +17,9 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH011
+- label: PSXDataCenter NTSC-J list
+  url: https://psxdatacenter.com/psp/jlist.html
 notes:
 - '原始条目: PSPCH011 – Love at once 麻将[简体中文版][Play汉化组]'
+- "PSXDataCenter 收录日版 UMD/PSN 发行：ULJM-05746、NPJH-50724，以及限定版 ULJM-05745。当前暂未确认汉化补丁对应具体发行版。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"

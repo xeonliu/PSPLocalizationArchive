@@ -1,10 +1,11 @@
 id: G000112
 titles:
-  native: "L@ve once"
+  native: "L@ve Once Mahjong"
   zh_cn: Love at once 麻将
   en: "L@ve Once Mahjong"
 developer: "Maid Meets Cat"
 genres: ["Tabletop", "Mahjong"]
-tags: []
-external_links: {}
+tags: ["Mahjong", "Visual Novel Spin-off"]
+external_links:
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
 description: "《L@ve once 麻将》（L@ve Once Mahjong）是基于恋爱冒险游戏《L@ve once》世界观衍生的麻将游戏，玩家可以与游戏中的女主角们进行麻将对战。"
