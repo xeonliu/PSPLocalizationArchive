@@ -5,6 +5,7 @@ titles:
   en: "The Devil on G-String"
 developer: "AKABEiSOFT2"
 genres: ["AVG", "Visual Novel"]
-tags: []
-external_links: {}
+tags: ["Visual Novel", "Mystery", "Unofficial PSP Port", "ONScripter"]
+external_links:
+  vndb: "v211"
 description: "《G弦上的魔王》（G-senjou no Maou）是AKABEiSOFT2制作发行的知名悬疑推理视觉小说。PSP版通常为玩家自制的移植版（如VNDS或ONScripter-EN），官方未在PSP平台发售过。"
