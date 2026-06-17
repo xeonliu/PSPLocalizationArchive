@@ -1,10 +1,11 @@
 id: G000118
 titles:
-  native: PSP Minis 金属决斗
+  native: "Mecho Wars"
   zh_cn: PSP Minis 金属决斗
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Mecho Wars"
+developer: "Creat Studios"
+genres: ["SLG", "Strategy"]
+tags: ["PSP Minis", "Turn-Based Strategy", "Mecha"]
+external_links:
+  psxdatacenter_pal_list: "https://psxdatacenter.com/psp/plist.html"
+description: "《Mecho Wars》是 PSP Minis 平台的回合制策略游戏。PSXDataCenter PAL 表收录其欧版 PSN 发行 NPEZ-00367；当前按原始中文条目「金属决斗」候选关联。"

@@ -1,9 +1,11 @@
 id: L900587
 parent_localization_id: null
+title: "PSP Minis 金属决斗 CG汉化组sis速汉队版"
 groups:
   - GRP_CG_SIS
 staff: []
-target_release: []
+target_release:
+  - NPEZ-00367
 lang: zh-Hans
 version: null
 release_date: null
@@ -16,5 +18,10 @@ tech_stats:
 links:
 - label: source-list-raw
   url: source.txt -> PSPCH018
+- label: PSXDataCenter PAL list
+  url: https://psxdatacenter.com/psp/plist.html
 notes:
 - '原始条目: PSPCH018 – PSP Minis 金属决斗 [CG汉化组sis速汉队]'
+- "按 PSP Minis/PAL 表候选关联 NPEZ-00367（Mecho Wars）；原始中文名「金属决斗」与英文名并非直译，仍需发布帖或补丁说明进一步确认。"
+- "当前未见日版发行或可靠日文标题来源。"
+- "汉化发布帖/说明帖暂未检索到可靠链接，待补。"
