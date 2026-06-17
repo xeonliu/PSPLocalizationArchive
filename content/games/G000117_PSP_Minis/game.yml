@@ -1,10 +1,11 @@
 id: G000117
 titles:
-  native: PSP Minis 将棋
+  native: "対戦将棋"
   zh_cn: PSP Minis 将棋
-  en: null
-developer: null
-genres: []
-tags: []
-external_links: {}
-description: null
+  en: "Taisen Shogi"
+developer: "Best Media"
+genres: ["Tabletop", "Shogi"]
+tags: ["PSP Minis", "Shogi", "Board Game"]
+external_links:
+  psxdatacenter_ntsc_j_list: "https://psxdatacenter.com/psp/jlist.html"
+description: "《対戦将棋》（Taisen Shogi）是 Best Media 的 PSP 下载版将棋游戏。PSXDataCenter NTSC-J 表收录其日版 PSN 发行 NPJH-00056。"
